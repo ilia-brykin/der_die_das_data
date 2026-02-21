@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-201,function,task purpose and function,AI
-202,garden,enclosed plot for growing useful or ornamental plants,AI
-203,gas,matter in gaseous state,AI
-204,area,spatial area with a certain extent,AI
-205,birthday,calendar day on which a person was born,AI
-206,danger,possibility that damage or injury occurs,AI
-207,contrast,opposition or contrast,AI
-208,opposite,word with opposite meaning to another,AI
-209,opponent,person or organization with opposing interests,AI
-210,walking,moving on foot,AI
-211,money,means of payment for storing value and exchanging for goods and services,AI
-212,opportunity,favorable chance as opposed to a risk,AI
-213,community,social entity and community with higher organization,AI
-214,municipal council,executive body representing a municipality,AI
-215,community,group of people who feel connected,AI
-216,generation,totality of members of a certain age group,AI
-217,straight line,straight infinite line defined by two points,AI
-218,history,past of society as development and adaptation of organized life to its environment,AI
-219,speed,ratio of distance traveled to time,AI
-220,society,large organized group of people living together,AI
-221,law,rule enacted by a legislature that subjects must follow,AI
-222,health,overall state of physical and mental well being and ability to act,AI
-223,violence,significant or excessive force often without legitimacy,AI
-224,profit,benefit or advantage from an event,AI
-225,faith,religious belief or religion,AI
-226,gold,yellow shiny malleable metal; element with atomic number 79,AI
-227,degree,extent or amount of a property or state,AI
-228,Graz,city in Austria,AI
-229,border,edge or dividing line,AI
-230,reason,event that caused something to follow,AI
-231,basis,something existing on which something can be built or developed,AI
-232,property,possessions or property,AI
-233,property,what one possesses,AI
-234,assets,totality of income and possessions,AI
-235,halftime,one of two equal sections of a game,AI
-236,hall,large high room on ground floor historically unheated,AI
-237,posture,way of holding the body; posture,AI
-238,Hamburg,city state in Germany,AI
-239,hand,grasping organ of humans and apes,AI
-240,action,what someone does in a situation,AI
-241,mobile phone,portable wireless phone with extra functions,AI
-242,Hanover,city in Lower Saxony,AI
-243,main station,largest and most important station of a city,AI
-244,capital city,city where top administrative and government organs are located,AI
-245,house,building built for a specific purpose,AI
-246,household,totality of income and expenses,AI
-247,homeland,place or region where one grew up and feels at home,AI
-248,challenge,task that is very demanding,AI
-249,autumn,season between summer and winter,AI
-250,mister,polite term for a man,AI
-251,manufacturer,company that produces certain items,AI
-252,heart,central organ of blood circulation,AI
-253,Hesse genitive,genitive singular of the noun Hesse,AI
-254,help,active support,AI
-255,sky,airspace or vault over the earth,AI
-256,background,area behind depending on viewpoint,AI
-257,hint,act of drawing attention to something,AI
-258,heat,high and unpleasant warmth,AI
-259,high pressure,short for high pressure area,AI
-260,hope,belief or expectation of a desired future event,AI
-261,hotel,accommodation with rooms and services and a reception,AI
-262,dog,domestic animal descended from the wolf,AI
-263,ego,self of a person that perceives itself,AI
-264,idea,archetype of an appearance,AI
-265,India,state in South Asia,AI
-266,industry,totality of businesses in mechanical or automated production,AI
-267,inflation,sustained rise in price level with reduced purchasing power,AI
-268,infrastructure,underlying core system,AI
-269,initiative,impulse or first step to an action,AI
-270,city center,central part of a city with major services and commerce,AI
-271,island,land completely surrounded by water,AI
-272,integration,incorporation into a larger whole,AI
-273,intelligence,cognitive performance,AI
-274,interest,feeling or attitude of wanting to know more,AI
-275,Internet,worldwide public computer network,AI
-276,interview,questioning to obtain information or opinions,AI
-277,Israel,state in the Middle East,AI
-278,Italy,state in Southern Europe,AI
-279,century,period of one hundred years,AI
-280,January,first month with 31 days,AI
-281,Japan,state in East Asia,AI
-282,now,the present time,AI
-283,youth,totality of young people,AI
-284,boy,male child,AI
-285,June,sixth month of the year,AI
-286,cadre,cadre or leading members of an organization or elite,AI
-287,camera,device for taking photos,AI
-288,combat,military confrontation of enemy troops,AI
-289,Canada,state in North America,AI
-290,chancellor,federal or imperial chancellor,AI
-291,career,successful professional path,AI
-292,card,handy flat object made of paper or similar material,AI
-293,purchase,paying acquisition of goods,AI
-294,Kyiv,capital of Ukraine,AI
-295,kilometer,unit of length equal to one thousand meters,AI
-296,child,growing human not yet a youth,AI
-297,church,sanctified meeting place of a Christian community,AI
-298,clarity,state of being clear,AI
-299,class,group of similar elements,AI
-300,little girl,small girl,AI
+1001,investor,person who invests money to earn profit,AI
+1002,Iceland,island state in the North Atlantic,AI
+1003,Istanbul,city in Turkey,AI
+1004,Italian,inhabitant of Italy,AI
+1005,beginning of the year,first period of a year,AI
+1006,year end,last period of a year,AI
+1007,year change,time when a year ends and a new year begins,AI
+1008,season,segment of the year in temperate and polar regions,AI
+1009,Jena,city in Thuringia,AI
+1010,journalist,person working for newspapers radio or TV to gather and spread information,AI
+1011,jury,group of experts deciding a prize or competition,AI
+1012,judiciary,juridical power,AI
+1013,cabinet,small side room between two rooms without its own exit,AI
+1014,coffee,stimulating black brewed drink,AI
+1015,emperor,title of highest secular ruler in certain monarchies,AI
+1016,California,US state,AI
+1017,campaign,campaign,AI
+1018,candidate,person or thing available for selection,AI
+1019,chapter,large division in a written or drawn story,AI
+1020,Karlsruhe,city in Baden Wurttemberg,AI
+1021,cash box,lockable container for money,AI
+1022,Kassel,city in Hesse,AI
+1023,Qatar,state on the Persian Gulf,AI
+1024,catastrophe,large severe disaster,AI
+1025,category,unit for classifying persons or things,AI
+1026,cat,domestic cat of many breeds,AI
+1027,knowledge,knowledge about a specific matter,AI
+1028,distinguishing mark,feature by which a person or object is recognized,AI
+1029,core,central main component of a whole,AI
+1030,kilo,kilogram,AI
+1031,kilogram,SI base unit of mass,AI
+1032,kindergarten,place for pre school care and education,AI
+1033,childhood,period from birth to puberty,AI
+1034,cinema,building or room where films are shown,AI
+1035,daycare,short for daycare center,AI
+1036,complaint,expressed feeling of pain sorrow or grief,AI
+1037,clarity,state of transparency without cloudiness,AI
+1038,league survival,staying in a league level,AI
+1039,classic,artist whose works are exemplary and lasting,AI
+1040,clothing,totality of garments,AI
+1041,offal,less desirable poultry parts such as innards neck head wings,AI
+1042,climate,average state of sun temperature humidity wind and clouds,AI
+1043,climate change,change of the Earths climate over long periods,AI
+1044,clinic complex,building or complex where patients are treated,AI
+1045,knee,front part of the knee joint,AI
+1046,coalition contract,contract concluded by coalition partners,AI
+1047,colleague,person working in the same organization,AI
+1048,collision,collision or crash,AI
+1049,comment,explanation of a matter from a standpoint,AI
+1050,municipal election,election of municipal or city councils,AI
+1051,conference,meeting among experts,AI
+1052,context,context or environment of a word or action,AI
+1053,account,account or data structure with debit and credit,AI
+1054,illness,disturbance of normal physical or mental functions,AI
+1055,crab,crustacean; colloquially higher crustaceans,AI
+1056,Kremlin,fortress typical of old Russian cities,AI
+1057,cross,symbol,AI
+1058,intersection,place where two or more roads meet,AI
+1059,criminal police,police unit for solving and preventing crimes,AI
+1060,critic,person who criticizes or finds fault,AI
+1061,crown,crown worn by rulers as a sign of power,AI
+1062,cake,cake or baked pastry,AI
+1063,scenery,stage backdrop or painted side wall,AI
+1064,price target,targeted price level,AI
+1065,curve,line defined by a mathematical relation,AI
+1066,warehouse,room or building for orderly storage of goods,AI
+1067,state capital,capital of a German or Austrian federal state,AI
+1068,state government,government of a federal state,AI
+1069,regional court,in Germany court between local court and higher regional court,AI
+1070,district administrator,head of the district administration,AI
+1071,district office,district administration authority in some German states,AI
+1072,landscape,part of Earth surface with unique physical and cultural features,AI
+1073,state parliament,parliament of a federal state,AI
+1074,agriculture,economic cultivation of plants and raising of domestic animals,AI
+1075,burden,something that weighs down or pulls down also load or freight what one carries,AI
+1076,truck,motor vehicle made to transport loads,AI
+1077,run,fast movement on foot with brief moments without ground contact,AI
+1078,mood,emotional state how someone feels or what they feel like doing,AI
+1079,teacher,person who conveys knowledge skills behaviors and values to learners,AI
+1080,corpse,dead body of a human or animal especially a vertebrate,AI
+1081,female leader,female person in a leading function,AI
+1082,steering device,device for steering a vehicle,AI
+1083,reader,person who reads,AI
+1084,song,sung piece of music,AI
+1085,delivery,transport of items usually purchased to a specific place,AI
+1086,Linz,city in Austria,AI
+1087,liter,metric unit of volume equal to one cubic decimeter,AI
+1088,Liverpool,city in England,AI
+1089,pub,public bar or tavern,AI
+1090,desire,longing or wish for something,AI
+1091,Lucerne,city in Switzerland,AI
+1092,storage room,place room or building for storing stock or supplies,AI
+1093,Magdeburg,city in Saxony Anhalt,AI
+1094,Milan,city in Italy,AI
+1095,Mallorca,island of the Balearic Islands,AI
+1096,mom,child and family term for the female parent,AI
+1097,management,activity process to handle problems or lead a company,AI
+1098,manager,person often employed leadership in a company,AI
+1099,marketplace,central public square used for markets and events,AI
+1100,machine,mechanical work or production means driven by an energy source,AI
+1101,mass,cause of inertia and gravity of matter in relativity equivalent to energy,AI
+1102,match,contest where two players or teams compete directly,AI
+1103,material,collective term for raw materials and parts used to make something,AI
+1104,medicine,scientific medical art,AI
+1105,milestone,carved column stone showing mile or distance,AI
+1106,championship,competition to determine the best in a sport discipline,AI
+1107,report,passing on information or news,AI
+1108,method,way of doing something to reach a goal,AI
+1109,tenant,person who rents something,AI
+1110,billion,one thousand million 10 to the ninth,AI
+1111,female minister,female head of a ministry,AI
+1112,ministry,highest authority of a state led by a minister,AI
+1113,minus,shortfall in an account,AI
+1114,mixture,process and result of mixing different things,AI
+1115,abuse,use of something for a purpose it was not intended for,AI
+1116,mission,important task or assignment,AI
+1117,help,helping together in a matter,AI
+1118,midfield,middle part of a playing field,AI
+1119,midnight,24:00,AI
+1120,mobile,hanging balanced lightweight structure moved by air,AI
+1121,fashion,custom habit or fashion,AI
+1122,moderator,person who moderates a discussion event or broadcast,AI
+1123,female moderator,female person who moderates a discussion event or broadcast,AI
+1124,moon,celestial body orbiting a planet,AI
+1125,Monday evening,evening of a Monday,AI
+1126,Monday morning,morning of a Monday,AI
+1127,murder,intentional killing under aggravating circumstances,AI
+1128,motive,incentive or reason for an action especially a crime,AI
+1129,motivation,will to achieve a goal,AI
+1130,motor,driving machine,AI
+1131,motorcycle,two wheeled single track vehicle with an engine,AI
+1132,motorcyclist,person who rides a motorcycle,AI
+1133,pattern,constant structure underlying something that repeats,AI
+1134,succession,taking over a position office or work from a previous holder,AI
+1135,sustainability,effect lasting beyond a short period,AI
+1136,stoppage time,additional time in each half of a football match to compensate interruptions,AI
+1137,offspring,children of a family descendants also of animals,AI
+1138,nose,organ of smell and breathing in the middle of the face,AI
+1139,national team,term for a national team,AI
+1140,national team,national selection of athletes competing internationally,AI
+1141,national team player,player in a national selection team,AI
+1142,fog,mixture of fine liquid droplets or ice crystals in gases,AI
+1143,negative,photo with inverted brightness used to make prints,AI
+1144,negatives,nominative plural of Negativ,AI
+1145,network,network like connection of people or objects,AI
+1146,new arrival,person or thing newly added,AI
+1147,standard,measure or standard for calibration and control of other measures,AI
+1148,normal line,line that makes a right angle with another object,AI
+1149,Norway,state in northern Europe,AI
+1150,need,state of lack of essential necessities,AI
+1151,emergency call,signal to alert help usually by phone to emergency services,AI
+1152,necessity,unavoidable action or omission decision or object,AI
+1153,offensive,action against an opponent or enemy,AI
+1154,surgery,surgical intervention in the body,AI
+1155,opposition,opposing party or formation to a government,AI
+1156,option,choice alternative possibility to choose between offers,AI
+1157,orientation,finding ones way in space for example in terrain buildings or cities,AI
+1158,district,part of a town or city with its own name,AI
+1159,local time,time valid for all places in a time zone,AI
+1160,Oscar,Academy Award film prize statuette,AI
+1161,Baltic Sea,sea in northern Europe,AI
+1162,package,package of one or more items for protection bundling or surprise effect,AI
+1163,Pakistan,state in South Asia,AI
+1164,female partner,female person or institution pursuing a common goal,AI
+1165,partnership,cooperation between groups organizations or political institutions,AI
+1166,party,social gathering or celebration often in the evening,AI
+1167,Beijing,capital of China,AI
+1168,performance,artistic action presentation or performance,AI
+1169,perspective,way in which a thing is viewed,AI
+1170,pastor,person leading services and pastoral care and usually a congregation,AI
+1171,care,care and support for people or animals needing help,AI
+1172,duty,what must be done and is expected,AI
+1173,police inspection,police office,AI
+1174,police spokesperson,person speaking on behalf of police,AI
+1175,policeman,member of the police,AI
+1176,portal,gate entrance portal,AI
+1177,Portugal,state in southern Europe,AI
+1178,item,part of a total quantity,AI
+1179,Potsdam,city in Brandenburg,AI
+1180,premier,prime minister head of government in parliamentary states,AI
+1181,prime minister,head of government in parliamentary states,AI
+1182,press,device used for pressing,AI
+1183,press release,written or recorded announcement to journalists,AI
+1184,prince,son of a king,AI
+1185,princess,female descendant of a monarchy or wife of a prince,AI
+1186,principle,principle or standard guiding a person,AI
+1187,product,result of production or service offered,AI
+1188,professor,researcher and teacher at a university,AI
+1189,pro,person highly skilled or trained in an activity,AI
+1190,forecast,prediction of future events or development using methods,AI
+1191,permille,one thousandth,AI
+1192,protest,words or actions expressing disagreement,AI
+1193,province,administrative or self governing unit of a state,AI
+1194,qualification,entitlement or acquisition of entitlement to participate in a competition,AI
+1195,radio,electronic device to receive radio programs,AI
+1196,lawn,maintained grass area,AI
+1197,advice,recommendation to behave in a certain way,AI
+1198,bill,request for payment for services such as a restaurant or hotel,AI
+1199,regulation,ordering or rule,AI
+1200,head of government,politician leading a states government,AI
+1201,regime,non democratically legitimized form of government,AI
+1202,regional league,league organized by one or more regional associations,AI
+1203,director,person who directs and has artistic leadership,AI
+1204,range,scope of action or radius,AI
+1205,tire,part of a wheel lying on the rim,AI
+1206,purity,fresh cleanliness such as purity of the soul or of feelings,AI
+1207,female traveler,female person who takes a trip,AI
+1208,record,recognized best performance in a discipline at a given time,AI
+1209,record champion,team or athlete with the most championships,AI
+1210,pensioner,person no longer working and living on pension payments,AI
+1211,reporter,journalist at or near the scene reporting,AI
+1212,republican,adherent of the republic form of state,AI
+1213,respect,esteem and appreciation toward someone or something,AI
+1214,rescue,freeing from danger and protecting from harm,AI
+1215,rescue helicopter,helicopter equipped to transport sick and injured,AI
+1216,ambulance,vehicle that transports sick and injured,AI
+1217,recipe,instructions for mixing and processing substances to prepare something,AI
+1218,Rhine,large river in Europe,AI
+1219,female judge,female holder of a public office at a court who administers justice,AI
+1220,ring,circular usually metal piece of jewelry worn on a finger or as piercing,AI
+1221,robot,machine that autonomously performs a specific task,AI
+1222,Rostock,city in Mecklenburg Vorpommern,AI
+1223,red,red color shade and part of visible light spectrum,AI
+1224,route,determined path,AI
+1225,call,call addressed to someone,AI
+1226,retirement,life phase beginning with end of employment,AI
+1227,hall,large heated room not divided by columns,AI
+1228,Saarland,federal state in Germany,AI
+1229,Saxons,genitive singular of Sachse,AI
+1230,legend,old tale of unreal events often explaining historical facts,AI
+1231,season start,start time of a season period,AI
+1232,collection,number of stored deliberately collected objects,AI
+1233,sand,loose rock made of fine grains visible to the naked eye,AI
+1234,shadow,area not directly lit,AI
+1235,fate,higher power influencing the future of people,AI
+1236,referee,highest impartial judge at a sports event,AI
+1237,ship,large watercraft usually over 10 m hull length,AI
+1238,blow,strong impulsive force impact often by an object,AI
+1239,jewelry,objects used to decorate or beautify,AI
+1240,snow,precipitation in the form of ice crystals,AI
+1241,tailor,craftsman who makes or alters clothing,AI
+1242,debt,obligation to do or not do something,AI
+1243,shot,firing of a weapon,AI
+1244,black,name of black the darkest color tone and paint,AI
+1245,center of gravity,point where mass of a body or system seems evenly distributed,AI
+1246,sister,female child of the same parents,AI
+1247,momentum,forceful strong rapid movement,AI
+1248,soul,characteristic of living beings and the immortal part of sentient beings,AI
+1249,second,sixtieth part of a minute base unit of time,AI
+1250,senate,highest governing authority,AI
+1251,sex,sexuality and the set of attitudes and practices related to sex life,AI
+1252,winner,person who wins a victory or a contest,AI
+1253,silver,white shiny precious metal,AI
+1254,Slovakia,state in Central Europe,AI
+1255,software,program or set of programs for use on a computer or device with controllable circuits,AI
+1256,Sunday evening,evening of a Sunday,AI
+1257,voltage,potential difference between two points in an electric field,AI
+1258,blocking,act of blocking,AI
+1259,mirror,polished glass or metal surface that reflects light,AI
+1260,playing time,time a game lasts,AI
+1261,hospital,building or complex where the sick are treated or housed,AI
+1262,sports director,head for sports,AI
+1263,athlete,person who regularly practices one or more sports,AI
+1264,crack,fine crack in a solid material,AI
+1265,head of state,person who heads a state,AI
+1266,city territory,territory of a city,AI
+1267,city administration,all authorities organizing public services of a city,AI
+1268,statement,utterance that includes a claim explanation or assertion,AI
+1269,station,place where a public transport vehicle regularly stops,AI
+1270,statistics,comparative numerical presentation and study of mass phenomena,AI
+1271,status,way something is at a particular time,AI
+1272,traffic jam,disturbance of flow caused by an obstruction,AI
+1273,Styria,federal state in Austria,AI
+1274,stone,mineral material,AI
+1275,position,professional position,AI
+1276,statement,expression of an opinion on a matter incident or problem,AI
+1277,style,special manner of design in art life sport and so on,AI
+1278,standstill,end of a movement or process,AI
+1279,story,plot of a literary film or theatrical narrative,AI
+1280,penalty,sanction received for misconduct,AI
+1281,criminal proceedings,judicial process to investigate and decide on crimes,AI
+1282,shore,long flat sandy or gravel strip of land into a body of water,AI
+1283,stress,ongoing mental emotional or physical strain,AI
+1284,line,line usually short irregular drawn by a writing tool,AI
+1285,structure,constructed arrangement of several parts dependent on each other,AI
+1286,female learner,female person who is currently studying or learning intensively,AI
+1287,studio,artist workshop,AI
+1288,study,intensive mostly scientific engagement with a subject matter,AI
+1289,fall,hard fall to the ground or into the depths,AI
+1290,supermarket,large retail store selling food and daily goods,AI
+1291,symbol,representative simplified depiction of an object or matter,AI
+1292,Syrian,citizen of the Syrian Arab Republic,AI
+1293,scenario,outline of the situation and framework of an artwork,AI
+1294,table,ordered compilation of texts or data in rows and columns,AI
+1295,talent,extraordinary ability in a particular area,AI
+1296,pocket,place to store items in clothing sewn on or in,AI
+1297,fact,something actually existing,AI
+1298,Tehran,capital of Iran,AI
+1299,telephone,device for transmitting acoustic signals over distance,AI
+1300,phone number,unique number in an area code assigned to a phone connection,AI
+1301,temperature,measurable degree of heat of a substance,AI
+1302,therapy,totality of measures to treat a disease,AI
+1303,ticket,flight ticket travel ticket or admission ticket,AI
+1304,depth,distance or extent vertically downward,AI
+1305,animal shelter,facility to house stray pets or small animals,AI
+1306,Tyrol,region in Austria and Italy,AI
+1307,quiff,hairstyle with front hair combed up in waves,AI
+1308,goalkeeper,most defensive player who prevents goals often with special rights,AI
+1309,tourism,totality of tourism,AI
+1310,transfer,transfer of objects or information or knowledge,AI
+1311,transformation,significant change of a fundamental property such as form,AI
+1312,transparency,transparency of a material,AI
+1313,transport,transporting goods people or animals,AI
+1314,grief,mood in case of loss especially death of a loved one,AI
+1315,meeting point,agreed point or place to meet,AI
+1316,activity,totality of activities,AI
+1317,separation,process or result of separating substances,AI
+1318,Trier,city in Rhineland Palatinate,AI
+1319,troops,totality of the armed forces or a branch especially the army,AI
+1320,Czech Republic,state in Central Europe,AI
+1321,tunnel,long underpass through mountains or under built areas or waters for transport,AI
+1322,tournament,event with many participants where winners are determined in competitions,AI
+1323,type,set of objects with specific properties,AI
+1324,shore,edge area between water and land,AI
+1325,Ukrainian,citizen of Ukraine,AI
+1326,remodeling,major change of an existing building or more rarely a vehicle,AI
+1327,circumference,length of the edge of a surface,AI
+1328,move,change of residence within a place or to another place,AI
+1329,accident site,locatable place of an incident causing damage,AI
+1330,accident scene,locatable place of an incident causing damage,AI
+1331,discontent,negative attitude toward something,AI
+1332,insecurity,dangerous state,AI
+1333,support,material or financial support,AI
+1334,lesson,regular planned transfer of knowledge by teachers to students,AI
+1335,pretrial detention,detention before or during investigations or trial,AI
+1336,update,updated version of a file software or hardware,AI
+1337,vacationer,person on vacation,AI
+1338,variant,slightly changed form of something,AI
+1339,improvement,change that brings something to a better state,AI
+1340,felony,particularly serious crime,AI
+1341,agreement,mutual understanding,AI
+1342,union,event or action where separate things become a unit,AI
+1343,condition,physical or mental state of someone or something,AI
+1344,constitutional protection,measures to protect the constitutional order,AI
+1345,hearing,court hearing of a criminal case and similar,AI
+1346,road user,person actively involved in traffic,AI
+1347,desire,strong wish or urge to compensate a perceived lack,AI
+1348,obligation,what must be done or expected; duty,AI
+1349,assembly,gathering of several people for a common purpose,AI
+1350,promise,assurance of a course of action,AI
+1351,defense minister,government member responsible for armed forces,AI
+1352,use,using something so it serves its purpose,AI
+1353,large number,large quantity of objects or living beings,AI
+1354,quarterfinal,elimination round to determine semifinalists,AI
+1355,villa,large detached single family house with large garden,AI
+1356,visor,movable device on a helmet to protect the face,AI
+1357,vision,supernatural appearance revelation,AI
+1358,people,many similar people,AI
+1359,Vorarlberg,federal state in Austria,AI
+1360,prerequisite,condition that must be fulfilled beforehand,AI
+1361,role model,person or figure that invites imitation,AI
+1362,foreground,part of an image closest to the viewer,AI
+1363,anticipation,cheerful mood in expectation of a positive event,AI
+1364,template,aid for producing similar items or information,AI
+1365,morning,period between morning and noon,AI
+1366,caution,behavior to avoid negative consequences through vigilance or restraint,AI
+1367,chairperson,person who leads and is responsible for an organization,AI
+1368,lead,spatial or temporal distance ahead of a competitor,AI
+1369,previous day,day before a particular day,AI
+1370,lecture,public talk on a topic,AI
+1371,weapon,technical aid for hunting and fighting,AI
+1372,armistice,agreement to suspend fighting in an armed conflict,AI
+1373,probability,degree of possibility,AI
+1374,Walter,male first name,AI
+1375,wall,side or surface that bounds a space,AI
+1376,change,transition from one state to another,AI
+1377,warning,notice of danger,AI
+1378,web page,single hypertext page viewed in a browser,AI
+1379,website,totality of web pages under a domain,AI
+1380,conscription,duty of a citizen to serve in the armed forces,AI
+1381,Christmas market,market before Christmas selling seasonal foods and items,AI
+1382,wine,vine plant Vitis on which grapes grow,AI
+1383,expanse,spatial extent,AI
+1384,further development,change and improvement to reach a new stage,AI
+1385,wave,rise of water,AI
+1386,world war,armed conflict involving many countries across much of the Earth,AI
+1387,world champion,winner of a world championship competition,AI
+1388,advertising,information spread to gain customers members and similar,AI
+1389,weather service,service providing weather information,AI
+1390,Wiesbaden,state capital of Hesse,AI
+1391,meadow,treeless grassland often used for hay or grazing,AI
+1392,welcome,words gestures and actions on a guests arrival,AI
+1393,reality,outer world based on facts,AI
+1394,science,field of systematic theory based knowledge,AI
+1395,scientist,person with scientific training,AI
+1396,prosperity,good economic situation,AI
+1397,residential house,house intended for living,AI
+1398,living space,room used for sleeping or living,AI
+1399,miracle,something beyond everyday understanding or natural laws,AI
+1400,rage,strong emotion of anger often with aggressive behavior,AI
+1401,centimeter,one hundredth of a meter,AI
+1402,witness,person who saw or perceived something and can confirm it,AI
+1403,room,room in a house or apartment for peoples stay,AI
+1404,zone,defined area or sector for certain uses or tariffs,AI
+1405,zoo,scientifically managed animal collection for education research recreation and species protection,AI
+1406,coincidence,unforeseeable unplanned event,AI
+1407,access,ability to view or use something,AI
+1408,cohesion,connectedness among members of a group,AI
+1409,purpose,reason or motive an action should have,AI
+1410,grade two,school grade good in Germany,AI
+1411,departure,start of a trip (usually at a set time or place),AI
+1412,levy,payments to authorities,AI
+1413,sales,business function after procurement and production; measures for selling goods,AI
+1414,deportation,enforced removal of people who must leave a country,AI
+1415,safeguarding,measure that reduces personal risks or compensates damage,AI
+1416,intention,will to realize something,AI
+1417,crash,falling down of people or objects; an accident,AI
+1418,respect,"respect, reverence, appreciation",AI
+1419,action,very eventful process; dramatic plot,AI
+1420,address,address where a person can be found and mail sent,AI
+1421,Advent,period of about four weeks before Christmas,AI
+1422,hunch,"vague, indistinct premonition",AI
+1423,Airbus,European aircraft manufacturer,AI
+1424,academy,public or private research or educational institution,AI
+1425,stock market,market for shares,AI
+1426,acceptance,approval or recognition; willingness to accept,AI
+1427,Alaska,US state in the north,AI
+1428,analyst,person who analyzes complex facts,AI
+1429,view,the act of looking at; a view,AI
+1430,female employee,woman who provides her labor for pay (non-manual work),AI
+1431,war of aggression,surprise unlawful attack on another state,AI
+1432,run-up,run before a jump or push to gain momentum,AI
+1433,assumption,belief in an unproven fact; hypothesis or axiom,AI
+1434,arrangement,formation carried out in a certain order,AI
+1435,kick-off,signal for the start of a game,AI
+1436,arrival journey,trip to a place,AI
+1437,phone call,contacting by phone,AI
+1438,announcement,notice for a specific purpose,AI
+1439,interchange,motorway junction for entering or exiting,AI
+1440,reputation,high esteem for someone or something,AI
+1441,speech,address to a chosen audience on a topic,AI
+1442,estate,property; residential real estate,AI
+1443,appeal,urgent request or admonition,AI
+1444,unemployment,state of people seeking paid work and having none,AI
+1445,workplace,place where work is done,AI
+1446,architecture,scientific art of building,AI
+1447,argument,statement or chain of conclusions used to justify another statement,AI
+1448,poverty,lack of material means or opportunities,AI
+1449,arsenal,"facility for storage, maintenance and repair of weapons",AI
+1450,aspect,way of viewing; point of view,AI
+1451,asylum,accommodation for people without their own home,AI
+1452,asylum seeker,person seeking admission and protection,AI
+1453,processing,working through things that have accumulated over time,AI
+1454,stay,being present; remaining somewhere,AI
+1455,request,urgent request to do something,AI
+1456,emergence,emergence of a phenomenon,AI
+1457,condition,special condition that must be met to obtain permission,AI
+1458,impact,"violent, audible collision",AI
+1459,appeal,public call to do or refrain from something,AI
+1460,inscription,short written notice or label on an object,AI
+1461,upswing,"more momentum, lift, progress",AI
+1462,listing,listing of data,AI
+1463,spread,spreading or expansion of something,AI
+1464,failure,failure or loss of a system or its parts,AI
+1465,information,an item of information; a statement about something,AI
+1466,exclusion,excluding people or things from a space or event; keeping someone or something away,AI
+1467,call for bids,written announcement offering something and inviting applications or participation,AI
+1468,exit,act of leaving something,AI
+1469,broadcast,transmission of a radio or television program,AI
+1470,expansion,expansion or enlargement,AI
+1471,time-out,short interruption of a game,AI
+1472,female driver,female person who drives a car,AI
+1473,automotive industry,industry producing and servicing motor vehicles,AI
+1474,bathing,the act or concept of immersing something in a liquid and taking a bath,AI
+1475,rail route,railway line connecting two places,AI
+1476,abdomen,front part of the torso between diaphragm and pelvis,AI
+1477,beach,"long, flat sandy or gravelly strip of land jutting into water",AI
+1478,pelvis,body section below the abdomen and above the legs,AI
+1479,service,service performed by one person for another,AI
+1480,termination,ending or stopping a process or activity,AI
+1481,questioning,asking questions to witnesses or suspects,AI
+1482,liberation,ending of captivity or detention,AI
+1483,assertion,statement presented as fact without proof or justification,AI
+1484,disability,physical or mental impairment affecting participation in society,AI
+1485,passenger,person riding in the seat next to the driver,AI
+1486,leg,limb for walking and standing,AI
+1487,confession,binding statement that something attributed is indeed the case,AI
+1488,workforce,totality of employees in a company,AI
+1489,insult,injury to another's personal honor,AI
+1490,lighting,illumination of a room or object with artificial light,AI
+1491,popularity,being popular,AI
+1492,reward,recognition or recompense for something done,AI
+1493,observation,"focused, conscious examination and perception",AI
+1494,calculation,solving formulas,AI
+1495,rescue,"rescue of people in distress, injured, or dead",AI
+1496,crew,"all crew members on a ship, aircraft, or similar",AI
+1497,complaint,statement about an unwanted situation or misconduct,AI
+1498,special feature,special characteristic of something,AI
+1499,applicant,person who applies,AI
+1500,application,act of applying for something,AI

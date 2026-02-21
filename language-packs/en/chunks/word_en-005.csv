@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-401,user,person who makes use of something,AI
-402,use,use or utilization of something,AI
-403,October,tenth month of the calendar year,AI
-404,offering,usually ritual gift to a god,AI
-405,order,organization order,AI
-406,organization,ordered structured interaction of elements and factors,AI
-407,east,cardinal direction opposite west and between north and south,AI
-408,couple,two people connected by a relationship often an intimate bond,AI
-409,paper,thin sheet material from plant fibers used for writing printing and packaging,AI
-410,Pope,head of the Roman Catholic Church and bishop of Rome,AI
-411,park,extensive area mainly designed with plants,AI
-412,parking lot,area to park vehicles beyond a brief stop,AI
-413,parliament,part of the legislature where elected representatives debate and vote on laws,AI
-414,party,group of people who want to achieve the same goal,AI
-415,match,game or contest of a sport,AI
-416,partner,persons or institutions pursuing a common goal,AI
-417,person,human being,AI
-418,staff,workforce of a business or company,AI
-419,phase,steady development stage or time course,AI
-420,planning,thought out process leading to a plan or description of a project,AI
-421,platform,limited flat raised area,AI
-422,square,open area used for activity recreation events or gatherings,AI
-423,plus,plus sign,AI
-424,politics,totality of measures by state institutions to regulate affairs,AI
-425,politician,person involved in politics,AI
-426,police,authority responsible for public safety and order,AI
-427,position,place location,AI
-428,potential,development possibility and unused resources,AI
-429,practice,actual applied exercise and sum of social cultural actions,AI
-430,price,amount of money to pay for a good or service,AI
-431,premiere,first performance of a play or film,AI
-432,press conference,meeting where public interest people give information to journalists,AI
-433,problem,difficult unsolved task,AI
-434,production,creation of goods services information or energy,AI
-435,program,sequence of instructions for a machine often a computer,AI
-436,project,planned undertaking of special scope with a goal,AI
-437,percent,part of one hundred,AI
-438,process,sequence of activities leading to an end state,AI
-439,public,audience and the general public,AI
-440,point,very small thing with almost no space,AI
-441,square meter,SI area unit equal to a square with side length of one meter,AI
-442,quarter,period of three months,AI
-443,cyclist,person who rides a bicycle,AI
-444,frame,stabilizing framework for example of a vehicle or device,AI
-445,rank,level in a hierarchy,AI
-446,town hall,administrative building of a municipality or city,AI
-447,space,geometric magnitude extending in three dimensions,AI
-448,reaction,response action or effect following a prior action or stimulus,AI
-449,law,state established order of human coexistence enforced by the state,AI
-450,editorial office,editing and processing of a manuscript,AI
-451,speech,address or talk to others,AI
-452,reform,gradual planned nonviolent transformation and improvement,AI
-453,rule,rule of conduct,AI
-454,government,exercise of state power internally and externally,AI
-455,region,area that forms a unit and includes multiple cities and towns,AI
-456,row,arranged in a straight line,AI
-457,journey,travel from a starting point to a distant place with stay and return,AI
-458,relative,something relative or a relation,AI
-459,race,competition for speed of movement,AI
-460,pension,retirement pay due to age or disability,AI
-461,republic,form of state where leadership is elected,AI
-462,remainder,remaining part of a whole,AI
-463,restaurant,place where food can be bought and eaten,AI
-464,emergency medical service,service that treats and transports injured or sick in emergencies,AI
-465,judge,holder of a public office at a court who administers justice,AI
-466,direction,position or direction of movement of an object,AI
-467,risk,estimated probability of danger,AI
-468,roller,rotating circular wheel or roller,AI
-469,novel,literary genre of a long narrative in book form,AI
-470,quiet,absence of distraction noise and movement,AI
-471,round,something circular or spherical or curved,AI
-472,round,completion of a path returning to start,AI
-473,thing,single object or group of things belonging to a person or matter,AI
-474,property damage,damage or destruction of a thing,AI
-475,season,period of the year when activities are more intensive,AI
-476,Saturday,sixth day of the week by ISO 8601 seventh by other counts day between Friday and Sunday,AI
-477,Saturday evening,evening of a Saturday,AI
-478,velvet,fine cotton fabric,AI
-479,rehabilitation,restoring an orderly condition,AI
-480,sentence,completed thought built by grammar with finite verb and required parts,AI
-481,damage,undesired negative impact,AI
-482,work,productive activity,AI
-483,hatch sealing,seal of a hatch on ships,AI
-484,actor,performer in film or theater,AI
-485,actress,female performer in film theater or television,AI
-486,lock,locking device mounted on an access point,AI
-487,end,end or act of ending,AI
-488,fast person,person with high speed,AI
-489,intersection,intersection of two sets the elements common to both,AI
-490,writing,process of composing text in writing,AI
-491,step,placing a foot or the act of walking,AI
-492,school,public or private institution for teaching,AI
-493,protection,thing act or measure that improves safety or prevents harm,AI
-494,Swede genitive,genitive singular of the noun Swede,AI
-495,Switzerland,state in Central Europe,AI
-496,heaviness,property of having high weight,AI
-497,six,natural number between five and seven,AI
-498,being,state of being existence,AI
-499,side,boundary surface lying in a certain direction,AI
-500,self,ones own person as a whole,AI
+2001,fatality,person who died in an accident or disaster,AI
+2002,toilet,sanitary facility for bodily waste,AI
+2003,Tokyo,capital of Japan,AI
+2004,pot,small vessel,AI
+2005,stretcher,horizontal litter with handles to carry someone lying down,AI
+2006,training camp,stay for athletes to train intensively,AI
+2007,tractor,power vehicle used in agriculture to pull machines and loads,AI
+2008,transporter,vehicle for transporting goods,AI
+2009,trio,group of three people who do something together,AI
+2010,triumph,great success in war or competition,AI
+2011,dryness,quality of being dry or lack of moisture,AI
+2012,tower,tall slim free standing building,AI
+2013,ultra,supporter of the extreme wing of a group or party,AI
+2014,upheaval,far reaching change or upheaval especially social or technical,AI
+2015,circumstance,situation or condition relevant to an event,AI
+2016,draw,outcome of a game or match with equal points and no winner,AI
+2017,accident causer,person who is at fault for an accident,AI
+2018,wrong,violation of the law,AI
+2019,restlessness,unpleasant movements or noises,AI
+2020,accommodation,organizing lodging,AI
+2021,subsoil,deeper layer of earth,AI
+2022,accommodation,temporary lodging,AI
+2023,severe weather,extreme weather causing damage,AI
+2024,origin,time place or material from which something arose,AI
+2025,user,user,AI
+2026,Vatican,state of the Catholic Church,AI
+2027,Venice,city in Italy,AI
+2028,Venezuela,state in South America,AI
+2029,processing,use or transformation of something into a product,AI
+2030,consumer advice center,independent mostly publicly funded nonprofit that informs and advises consumers,AI
+2031,distribution,act of spreading and multiplying something,AI
+2032,bond,feeling of belonging together,AI
+2033,pursuit,chasing or following to observe catch or seize,AI
+2034,rape,sexual assault forcing a person against their expressed will,AI
+2035,traffic control,police checking of road users,AI
+2036,transport minister,head of a transport ministry,AI
+2037,publishing house,company that reproduces and distributes works of literature art music or science,AI
+2038,loan,temporary transfer,AI
+2039,loser,person or institution that loses a competition or contest,AI
+2040,landlord,person who rents something out,AI
+2041,regulation,law like rule issued by an administrative authority,AI
+2042,shift,act of shifting or being shifted,AI
+2043,mistake,unintentional misconduct,AI
+2044,insured woman,female person who has an insurance contract,AI
+2045,insurance,agreement where one party compensates damage for a fee,AI
+2046,defense ministry,ministry responsible for military matters,AI
+2047,distribution,process of distributing,AI
+2048,causer,person or thing responsible for something,AI
+2049,conviction,process or result of imposing a judgment,AI
+2050,administrative court,court that reviews actions of public administration,AI
+2051,reference,reference or pointer to something else,AI
+2052,waiver,not claiming something one is entitled to; giving up a wish,AI
+2053,virus,smallest pathogen that can only multiply in cells,AI
+2054,vitamin,organic compound needed for vital functions and mostly not produced by the body,AI
+2055,vice chancellor,deputy of the chancellor,AI
+2056,bird,vertebrate with wings and feathers,AI
+2057,big tent party,party representing a broad spectrum of society,AI
+2058,volume,space content of a body,AI
+2059,process,sequence or happening,AI
+2060,occurrence,presence of something at a place,AI
+2061,advance sale,sale of tickets before an event begins,AI
+2062,previous week,week before the current week,AI
+2063,voter turnout,share of eligible voters who voted,AI
+2064,ballot round,individual vote in an election,AI
+2065,electoral district,geographic subdivision assigning seats to voters,AI
+2066,madness,certain behavior or thought patterns; historically mental illness,AI
+2067,perception,receiving and processing stimuli by sensory organs,AI
+2068,hiker,person who goes hiking,AI
+2069,hike,walk on foot in nature longer than a stroll,AI
+2070,goods,good that can be acquired by trade or exchange,AI
+2071,hydrogen,most common and lightest chemical element in the universe,AI
+2072,military service,limited service in the armed forces by law or voluntary commitment,AI
+2073,Christmas season,period around Christmas with varying dates by rite,AI
+2074,while,indefinite shorter period of time,AI
+2075,Weimar,city in Thuringia,AI
+2076,continuation,continuation or resumption of a trip,AI
+2077,World Cup,cup competition with participants from all over the world,AI
+2078,world championship,regular sports competition to determine the best in a discipline,AI
+2079,world economy,interdependent economic system of states and regions,AI
+2080,turning point,point where a turn occurs,AI
+2081,crafts,school subject teaching practical crafts,AI
+2082,workshop,workroom of a craftsman,AI
+2083,tool,general tool or device to make or repair things,AI
+2084,being,being appearing in a certain way usually a living organism,AI
+2085,West Bank,region in the Middle East,AI
+2086,contest,competition for best performance among persons or groups,AI
+2087,contradiction,logical incompatibility of opposing information,AI
+2088,reconstruction,rebuilding of what was destroyed,AI
+2089,reunion,meeting again,AI
+2090,Oktoberfest,folk festival in Munich,AI
+2091,game,totality of wild huntable animals,AI
+2092,will,striving that determines actions,AI
+2093,angle,position of two lines or surfaces to each other,AI
+2094,chamber of commerce,chamber of commerce,AI
+2095,economy minister,head of a ministry for economic development,AI
+2096,economic policy,measures taken to influence the economy,AI
+2097,joke,short story or similar intended to make one laugh,AI
+2098,well being,feeling of well being,AI
+2099,place of residence,municipality where someone lives,AI
+2100,housing construction,construction of buildings or estates for housing,AI
+2101,living room,room for daily living in a house or apartment,AI
+2102,impact,transfer of momentum and strong intensity of energy,AI
+2103,payment,act of paying,AI
+2104,fence,fence made of wire or metal or wood bars to enclose an area,AI
+2105,schedule,planned timeline,AI
+2106,central bank,bank with monetary policy tasks of a country,AI
+2107,ceremony,solemn ritual act,AI
+2108,female witness,female person who saw or perceived something and can confirm it,AI
+2109,target group,group to be reached by a certain action or advertising,AI
+2110,carpenter,construction craftsman who works with wood,AI
+2111,sugar,sweet food obtained from plants,AI
+2112,approval,process of approval or permission,AI
+2113,increase,process of increasing in amount or volume,AI
+2114,interaction,cooperative interaction among persons in play or sports,AI
+2115,entry,act of entering a building area or room,AI
+2116,confidence,firm belief that something positive will happen,AI
+2117,growth,increase in size or value,AI
+2118,twenty,natural number between nineteen and twenty one,AI
+2119,tack,short nail with a wide head,AI
+2120,incident,unforeseen disruptive event,AI
+2121,termination,ending of something,AI
+2122,dinner,meal eaten at the end of the day,AI
+2123,Abitur,final exam at higher school,AI
+2124,turning away,ceasing to follow a direction; distancing from a person,AI
+2125,subscription,subscription,AI
+2126,deterrence,inducing fear to prevent something,AI
+2127,agreement,understanding about future actions or omissions,AI
+2128,relegation battle,fight to avoid relegation to a lower league,AI
+2129,absence,state of not being physically present,AI
+2130,withdrawal,troop withdrawal; tactical movement,AI
+2131,eagle,large birds of prey from the hawk family,AI
+2132,aggression,action against someone or something,AI
+2133,airline,company transporting passengers by airplane,AI
+2134,actor,person who acts,AI
+2135,share price,current trading value of a share,AI
+2136,nightmare,unpleasant dream,AI
+2137,avenue,long straight road lined with trees on both sides,AI
+2138,retirement provision,measures to secure living standards after leaving work,AI
+2139,aluminum,chemical element; silvery lightweight metal,AI
+2140,ambience,"surroundings, atmosphere of a place",AI
+2141,rampage,spree of violence by an amok runner,AI
+2142,cultivation,cultivation of useful or ornamental plants,AI
+2143,tethering,fastening of animals or movable parts with chains or ropes,AI
+2144,influx,large influx of people,AI
+2145,statement,"statement, claim, or information",AI
+2146,increase,raising to a higher value,AI
+2147,contact point,institution or person to turn to for help or support,AI
+2148,bonds,plural of Anleihe,AI
+2149,instructions,written explanation how to use something,AI
+2150,purchase,acquisition of something,AI
+2151,participation,participation in a competition,AI
+2152,user,person who uses or applies something,AI
+2153,presence,state of being present,AI
+2154,approach,act of drawing or moving closer,AI
+2155,pharmacy,shop selling medicines and remedies,AI
+2156,chamber of labor,representation of employees,AI
+2157,working group,group of people working together,AI
+2158,working time,fixed period in which work is performed,AI
+2159,architect,trained professional who plans buildings,AI
+2160,archive,collection of historically or otherwise significant documents,AI
+2161,argumentation,presentation of arguments to support a thesis; reasoning,AI
+2162,ash,combustion residue,AI
+2163,asphalt,mixture of bitumen and minerals used in road construction,AI
+2164,breath,air stream exhaled from the lungs,AI
+2165,Athens,capital of Greece,AI
+2166,Atlantic,ocean between America and Europe/Africa,AI
+2167,nuclear program,plan for the civilian or military use of nuclear power,AI
+2168,assassination,"murder or attempted murder of a public, usually political, figure or a group",AI
+2169,opinion,personal assessment; way someone understands something,AI
+2170,marriage banns,public notice of a marriage,AI
+2171,abolition,ending or abolishing something previously existing,AI
+2172,catch-up,effort to make up a deficit,AI
+2173,impact,"striking, hitting hard on a fall",AI
+2174,supervision,"observation, control, oversight",AI
+2175,endurance,ability to persevere for a long time,AI
+2176,exit,place where one can leave by driving,AI
+2177,initial situation,situation before the start,AI
+2178,starting point,beginning or origin of something,AI
+2179,livelihood,means to cover daily needs,AI
+2180,utilization,"capacity utilization, workload",AI
+2181,delivery,delivery or extradition,AI
+2182,state of emergency,extraordinary situation; exception to the normal state,AI
+2183,exhibitor,person who exhibits something; participant in an exhibition,AI
+2184,withdrawal,"leaving an organization, party, company, or association",AI
+2185,car maker,person or company that builds cars,AI
+2186,car manufacturer,company that produces cars,AI
+2187,automation,process of transferring work from humans to machines,AI
+2188,automobile industry,industry for manufacturing and servicing automobiles and other motor vehicles,AI
+2189,excavator,machine for digging or removing earth or rubble,AI
+2190,platform,platform beside the tracks for boarding trains,AI
+2191,bandwidth,range of varieties or scope of something,AI
+2192,banner,flag fixed to a crossbar and the flagpole,AI
+2193,barrel,"unit of volume; various imperial and US barrels, including for oil or brewing",AI
+2194,beard,facial hair,AI
+2195,basketball,team sport throwing a ball through a hoop,AI
+2196,battery,energy storage and power source based on chemical to electrical conversion,AI
+2197,farm,"small agricultural operation with house, barns, yard, and fields",AI
+2198,building block,stone for building walls or structures,AI
+2199,structure,immovable object built by humans,AI
+2200,construction time,time required for building,AI
+2201,processing,process of changing an object in form or content,AI
+2202,condition,requirement on which something depends,AI
+2203,female passenger,female person riding next to the driver,AI
+2204,fame,being known by many,AI
+2205,evidence,proof,AI
+2206,gasoline,organic compound; petroleum distillate used as fuel,AI
+2207,professional fire brigade,municipal fire brigade with full-time staff,AI
+2208,procurement,obtaining material or immaterial goods,AI
+2209,notice,"message about a decision, often in written form",AI
+2210,description,listing or depiction of features of something,AI
+2211,shelling,act of shooting at someone or something,AI
+2212,improvement,"getting better, usually of health",AI
+2213,Best,proper name or surname,AI
+2214,order,requesting a product or service,AI
+2215,concrete,"building material made from cement, water, and aggregate",AI
+2216,works council,elected body representing employees' interests,AI
+2217,operating system,basic software managing computer resources,AI
+2218,payment,"things of value, usually money, received for a service",AI
+2219,district league,regional sports league,AI
+2220,biography,life story of a person,AI
+2221,blue,blue color; a segment of visible light,AI
+2222,blue light,blue light for medical use or to influence sleep cycles,AI
+2223,blockade,blocking of access routes,AI
+2224,flower,blooming plant,AI
+2225,Lake Constance,lake in the Alpine foothills,AI
+2226,arc,curved line or curve,AI
+2227,bomb,weapon that causes an explosion,AI
+2228,boom,sudden phase of rapid growth,AI
+2229,boss,person in a high position who gives instructions,AI
+2230,brewery,company that brews beer or other fermented drinks,AI
+2231,Bregenz,city in Austria (Vorarlberg),AI
+2232,glasses,frame with lenses worn on the eyes for vision or protection,AI
+2233,broker,securities dealer,AI
+2234,browser,program for viewing web pages and documents,AI
+2235,fraction,small part of a whole,AI
+2236,boy,male child,AI
+2237,Bulgaria,state in Southeast Europe,AI
+2238,federal prosecutor's office,prosecutor's office at the Federal Court of Justice,AI
+2239,federal level,highest level concerning the whole state,AI
+2240,federal court,highest court in a federal state,AI
+2241,federal interior minister,head of the interior ministry,AI
+2242,bus driver,driver of a bus,AI
+2243,bus stop,official place where buses stop,AI
+2244,campsite,designated area for camping,AI
+2245,Caritas,church welfare association,AI
+2246,head coach,head coach of a team,AI
+2247,Chile,state in South America,AI
+2248,cockpit,area of an aircraft where it is controlled,AI
+2249,Cottbus,city in Brandenburg,AI
+2250,coup,bold and unexpected successful action,AI
+2251,court,playing field,AI
+2252,crash,collision of vehicles,AI
+2253,Dachau,city in Bavaria,AI
+2254,Damascus,capital of Syria,AI
+2255,dan,one of the ten rank grades in budo sports,AI
+2256,gratitude,"recognition for goodwill, help, or support received",AI
+2257,loan,sum of money provided to someone for a certain time,AI
+2258,performer,"person who portrays something, e.g., in theater or film",AI
+2259,database,large organized collection of data allowing complex queries,AI
+2260,thumb,"finger with two phalanges, opposing the other fingers",AI
+2261,lid,device for covering or closing,AI
+2262,defect,fault or malfunction,AI
+2263,definition,precise determination of the meaning of an expression,AI
+2264,decree,official or judicial order,AI
+2265,depot,place or building for storing things,AI
+2266,depression,dejection and joylessness; despair,AI
+2267,designer,person who designs consumer goods,AI
+2268,Deutschlandfunk,German radio station,AI
+2269,diabetes,metabolic disease characterized by lack of insulin and increased urination,AI
+2270,thief,person who steals,AI
+2271,stolen goods,items stolen by a thief,AI
+2272,service provider,person or company providing a service,AI
+2273,public office,public institution or authority,AI
+2274,dictator,ruler with unrestricted power,AI
+2275,diplomacy,interstate understanding by peaceful means,AI
+2276,female director,female head of a public institution,AI
+2277,discourse,theoretical discussion or systematic treatment,AI
+2278,dividend,profit share paid to company owners,AI
+2279,dominance,assertiveness over the weaker,AI
+2280,double pack,package containing two of an item,AI
+2281,thorn,sharp structure on a plant,AI
+2282,download,transfer of data to the recipient,AI
+2283,screenplay,list of dialogue and directions for a film,AI
+2284,urgency,quality of being urgent,AI
+2285,scent,pleasant smell; organic or chemical compound,AI
+2286,diameter,distance across a circle through its center,AI
+2287,dynamo,machine generating electric power from mechanical energy,AI
+2288,edition,edition or issue of books,AI
+2289,ambition,strong striving to success,AI
+2290,honoring,ceremonial expression of respect,AI
+2291,intervention,interference to effect change,AI
+2292,unity,general agreement or agreement on a question,AI
+2293,shopping center,"area with many stores, usually outside city center",AI
+2294,admission,access to a place or event,AI
+2295,capture,occupation or conquest against resistance,AI
+2296,incident site,place where an operation takes place,AI
+2297,insight,recognition and understanding enabling purposeful behavior,AI
+2298,immigration,permanent settlement in a foreign country,AI
+2299,Eisenach,city in Thuringia,AI
+2300,ice hockey,winter sport with a puck and sticks,AI
+2301,elite,small group with high social status,AI
+2302,energy supply,provision and delivery of energy,AI
+2303,entertainer,person who entertains an audience,AI
+2304,entertainment,professional activity with the purpose of entertaining,AI
+2305,resolve,strong-willed approach toward a goal,AI
+2306,apology,expression of regret for a mistake,AI
+2307,natural gas,"combustible gas in the Earth's crust, mostly methane",AI
+2308,success story,very successful development or report,AI
+2309,permission,consent to do something,AI
+2310,appointment,granting of a title or status,AI
+2311,construction,construction of a building or monument,AI
+2312,phenomenon,circumstance perceived by the senses,AI
+2313,appearance,external visible image,AI
+2314,expectation,state of tension waiting and impatience,AI
+2315,acquisition,act of acquiring,AI
+2316,upbringing,social interaction in which educators aim to develop or reinforce desired behavior in the person being educated,AI
+2317,Estonia,state in the Baltic region,AI
+2318,evacuation,removal of people from a dangerous location such as clearing a home or area before during or after disasters like floods fires or bomb alerts,AI
+2319,executive branch,executive power in state theory one of three powers alongside legislative and judicial,AI
+2320,exile,self chosen or forced banishment,AI
+2321,expansion,increase of spatial extent,AI
+2322,infill panel,space between beams of a half timbered wall filled with clay or bricks,AI
+2323,flag,unique piece of fabric attached to a pole to convey information,AI
+2324,roadside edge,side edge of a road or a bike path,AI
+2325,timetable,overview of the travel times of a transport service,AI
+2326,cyclist,person who moves by bicycle,AI
+2327,driving style,way of driving,AI
+2328,family company,company run by a family,AI
+2329,family father,man with at least one child who usually cares with the mother within a family,AI
+2330,mounting,fastening or holder for something,AI
+2331,fascination,attractive effect,AI
+2332,feature,non fictional radio genre,AI
+2333,misconduct,wrong inappropriate behavior,AI
+2334,delicacy,something fine or delicate,AI
+2335,glacier,mass of ice formed from firn that flows slowly downhill,AI
+2336,ceremonial act,celebration of a festival,AI
+2337,festival tent,temporary event space made of poles and tarps for festivals and other events,AI
+2338,fat,group of organic chemical substances; tri esters of glycerol and various fatty acids,AI
+2339,moisture,state of being moist; presence of water in small amounts,AI
+2340,firehouse,building of the fire brigade,AI
+2341,fever,increase in body temperature during illness; defense reaction to kill pathogens,AI
+2342,filmmaker,person who directs feature short or documentary films often also the author,AI
+2343,tax office,local authority responsible for administering taxes,AI
+2344,finance ministry,ministry responsible for a state finances,AI
+2345,fitness,physical and mental well being,AI
+2346,flair,positive personal atmosphere usually of a place,AI
+2347,flank,side of the body of four legged mammals,AI
+2348,pilot,operator of an aircraft,AI
+2349,fleet,group of several related civilian or military ships,AI
+2350,airline,company providing regular air transport for passengers or freight,AI
+2351,high tide,period of rising water at sea coasts usually twice a day,AI
+2352,football,umbrella term for team sports played with the foot,AI
+2353,force,strength in English,AI
+2354,forint,medieval means of payment in Europe,AI
+2355,wording,deliberate choice of words to express a thought,AI
+2356,photographer,person who professionally makes and edits photos,AI
+2357,foul,rule violation that unfairly disadvantages an opponent,AI
+2358,question mark,punctuation that marks a sentence as a question,AI
+2359,group leader,person who leads a parliamentary group,AI
+2360,peace plan,plan to create peace,AI
+2361,frost,cold below zero degrees Celsius,AI
+2362,guarantee,assurance or binding promise,AI
+2363,inn,place where one can eat drink or stay overnight,AI
+2364,opposite carriageway,lane or lanes for traffic in the opposite direction,AI
+2365,opponent,person one competes against in a game,AI
+2366,conceded goal,goal scored by the opposing team,AI
+2367,oncoming traffic,traffic moving in the opposite direction,AI
+2368,intelligence service,agency that secretly gathers information to protect the state,AI
+2369,wallet,small bag for cash,AI
+2370,chief prosecutors office,highest authority in a state responsible for prosecution,AI
+2371,general meeting,annual meeting of shareholders or members to discuss developments,AI
+2372,courtroom,large room where a court can hear cases,AI
+2373,smell,emanation perceived by the sense of smell; subjective sensory perception,AI
+2374,entire year,period covering a whole year,AI
+2375,total damage,total damage,AI
+2376,singing,use of the voice to produce sound and melody by humans or certain animals,AI
+2377,shape,outer form outline or schema,AI
+2378,health minister,head of a health ministry,AI
+2379,health system,totality of institutions and rules serving public health,AI
+2380,healthcare provision,provision of health care,AI
+2381,state of health,condition of a persons health,AI
+2382,trade,commercial activity aimed at earning,AI
+2383,industrial area,area where only commercial industrial use is allowed,AI
+2384,certainty,secured knowledge leaving hardly any doubt,AI
+2385,summit meeting,conference of leading politicians,AI
+2386,guitar,popular plucked instrument with four to twelve strings,AI
+2387,track,railway track consisting of two parallel rails,AI
+2388,glacier,mass of ice that flows slowly downhill under its own weight,AI
+2389,globe,sphere with depiction of a celestial body such as the Earth,AI
+2390,ditch,long excavation in the ground,AI
+2391,graphics,drawing writing or printing art,AI
+2392,grass,monocot plant with narrow usually green leaves,AI
+2393,grill,device using charcoal gas or electricity for grilling food,AI
+2394,basic law,constitution of a state especially Germany,AI
+2395,basic security,provision of basic needs for those in need,AI
+2396,foundation stone,first stone symbolically set when building,AI
+2397,property tax,tax on ownership of land and buildings,AI
+2398,expert appraiser,expert who assesses a situation for an authority,AI
+2399,hacker,computer specialist who can break into systems often illegally,AI
+2400,remand judge,judge who decides on a warrant for a detained suspect,AI
+2401,hail,precipitation of small ice pellets,AI
+2402,rooster,male animal of various bird species,AI
+2403,Halloween,evening of 31 October the eve of All Saints,AI
+2404,holder,device that holds something in place,AI
+2405,handball,leather ball filled with air for handball,AI
+2406,trade partner,state or company that trades with another,AI
+2407,handbag,small to medium bag carried by hand or over the shoulder,AI
+2408,craftsman,person who practices a trade professionally,AI
+2409,slope,natural slope or embankment,AI
+2410,harmony,good agreement especially between partners,AI
+2411,Hartmann,family name,AI
+2412,main reason,decisive cause,AI
+2413,head office,most important seat of a company or institution,AI
+2414,home,house or apartment where someone lives,AI
+2415,home win,win by the home team,AI
+2416,hero,person who acts bravely or successfully for others or a cause,AI
+2417,helper,person who helps,AI
+2418,helicopter,aircraft kept aloft by one or more horizontal rotors,AI
+2419,brightness,presence of light,AI
+2420,rulership,designation for rulers or persons with leadership roles,AI
+2421,duchess,female person holding the dignity of a duke,AI
+2422,haste,extreme haste,AI
+2423,heat wave,long period of very hot days,AI
+2424,Hofmann,family name,AI
+2425,Holocaust,mass systematic persecution and extermination of European Jews by Nazi Germany,AI
+2426,Hong Kong,special administrative region in China,AI
+2427,honey,product made by honey bees from nectar,AI
+2428,horizon,boundary line between the visible earth and sky,AI
+2429,ideology,worldview or system of ideas supporting a social standpoint,AI
+2430,immune system,biological defense system of higher organisms,AI
+2431,vaccination,administration of antigen to produce immunity,AI
+2432,impulse,stimulus or prompt,AI
+2433,commissioning,first time use of a plant or machine,AI
+2434,infection,transmission of pathogens,AI
+2435,home country,ones own country or the country one refers to,AI
+2436,inner courtyard,open space surrounded by buildings,AI
+2437,authority,authority or institution for a matter,AI
+2438,website,overall internet presence of a company organization or person,AI
+2439,interpretation,attempt to uncover meaning in a work,AI
+2440,Isar,river in Bavaria,AI
+2441,Islam,monotheistic religion founded in 7th century by Muhammad,AI
+2442,joker,playing card of special value that can replace other cards,AI
+2443,Jordan,river and also a proper name,AI
+2444,journalism,practical work of a journalist,AI
+2445,youth work,work with youth,AI
+2446,female jurist,female person who studied law,AI
+2447,prison,prisons for serving sentences or pre trial detention,AI
+2448,female justice minister,female head of the justice ministry,AI
+2449,justice ministry,ministry responsible for justice,AI
+2450,correctional facility,facility housing prisoners serving sentences or remand,AI
+2451,Canadian,citizen of Canada,AI
+2452,cardinal,religious title granted by the Pope eligible to elect a pope,AI
+2453,Caribbean,southeastern part of the American Mediterranean with islands,AI
+2454,carnival,period of exuberant celebration before Lent,AI
+2455,box,lockable box shaped container,AI
+2456,merchant,owner of a trading business or skilled employee in one,AI
+2457,purchase price,amount of money to pay for acquiring goods,AI
+2458,foosball,table football game and table,AI
+2459,childcare,caring for and educating small children,AI
+2460,kiosk,freestanding booth open on several sides,AI
+2461,parish,smallest organized unit of a Christian community,AI
+2462,plain text,unencrypted and directly understandable text,AI
+2463,piano,keyboard instrument producing sound by strings,AI
+2464,dress,one piece garment for women,AI
+2465,small town,town with 5000 to 20000 inhabitants in German speaking area,AI
+2466,compact car,small but full fledged automobile with affordable price,AI
+2467,bang,very short loud noise like a detonation,AI
+2468,squire,assistant and apprentice of a knight,AI
+2469,knot,tightly interlaced part of a thread or rope,AI
+2470,Koblenz,city in Rhineland Palatinate,AI
+2471,car trunk,space for luggage usually in the rear of a car,AI
+2472,coal,carbon rich combustible substance from fossilized plants,AI
+2473,commander,person commanding a unit or facility,AI
+2474,complex,collection of interrelated details forming a whole,AI
+2475,console,electronic device for setting various functions,AI
+2476,constellation,position of planets relative to each other and zodiac signs,AI
+2477,construction,designing and planning a tangible thing,AI
+2478,counterattack,quick counterattack by a team under pressure,AI
+2479,contrast,noticeable difference between things,AI
+2480,header,ball played with the head,AI
+2481,correction,spelling and grammar correction of a text,AI
+2482,health insurance fund,carrier of statutory health insurance,AI
+2483,health insurance,insurance covering costs in case of illness,AI
+2484,district league,league level limited to a sports district,AI
+2485,district council,local representative body of a district,AI
+2486,roundabout,circular road layout with entrances and exits,AI
+2487,war end,end of a war; time when hostilities cease,AI
+2488,war crime,acts in war violating international law,AI
+2489,Crimea,peninsula on the Black Sea,AI
+2490,crime story,story about a serious crime,AI
+2491,criminal police,short for criminal police,AI
+2492,Cuba,state in the Caribbean,AI
+2493,cubic meter,unit of volume of a cube one meter on a side,AI
+2494,plastic,solid material made of synthetic or semi synthetic polymers,AI
+2495,artwork,creative work of an artist,AI
+2496,courier,someone who delivers confidential messages on official duty,AI
+2497,course change,change of direction of movement,AI
+2498,brine,solution of salt water and possibly other spices for pickling food,AI
+2499,state office,authority in the responsibility of a federal state,AI
+2500,state criminal police office,top state authority subordinate to the interior ministry,AI

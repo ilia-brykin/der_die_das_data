@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-1501,designation,code of signs and symbols referring to an object or concept,AI
-1502,library,institution where books and media can be read or borrowed,AI
-1503,bond,"connectedness, close relationship",AI
-1504,bishop,church dignitary leading a diocese,AI
-1505,blood sample,blood taken for tests,AI
-1506,ambassador,highest diplomatic representative abroad,AI
-1507,arson,intentional or negligent setting of a fire,AI
-1508,cause of fire,trigger of a fire event,AI
-1509,brown,brown color,AI
-1510,Briton,citizen of Great Britain,AI
-1511,bronze,alloy of copper and tin,AI
-1512,well,structure for obtaining groundwater or spring water,AI
-1513,beech,deciduous tree of the genus Fagus,AI
-1514,Budapest,capital of Hungary,AI
-1515,federal state,state that is a relatively autonomous part of a larger state,AI
-1516,Federal Constitutional Court,highest German constitutional court,AI
-1517,castle,medieval fortified residence,AI
-1518,business,profit-oriented enterprise,AI
-1519,butter,"spreadable fat made from milk, at least 80% milk fat",AI
-1520,camp,camp in leisure activities or during holidays,AI
-1521,campus,grounds of a university,AI
-1522,cause,legal ground,AI
-1523,Celsius,designation of the Celsius temperature scale; used as degrees Celsius,AI
-1524,charm,"charming, winning manner",AI
-1525,boss,female boss,AI
-1526,chemistry,science of composition and properties of substances,AI
-1527,Chicago,city in the USA,AI
-1528,code,system mapping signs and sequences,AI
-1529,container,standardized transport container,AI
-1530,contest,contest (English),AI
-1531,crew,crew of a ship,AI
-1532,home,one's home,AI
-1533,data protection,protection of personal data from misuse,AI
-1534,date,calendar day,AI
-1535,cover,closed surface or cover,AI
-1536,deficit,"lack of something, usually money",AI
-1537,delegation,sending representatives to an event,AI
-1538,dementia,loss of cognitive abilities such as memory and orientation,AI
-1539,monument,object erected to commemorate a person or event,AI
-1540,Tuesday afternoon,afternoon of a Tuesday,AI
-1541,diesel,short for diesel engine,AI
-1542,dimension,extent of something,AI
-1543,thing,object with unspecified properties,AI
-1544,discrimination,unequal treatment or separation,AI
-1545,discipline,orderly behavior,AI
-1546,documentary,film or radio program depicting a topic realistically,AI
-1547,document,official written document,AI
-1548,documentation,collecting and organizing information,AI
-1549,Danube,major river in Europe,AI
-1550,Thursday morning,morning of a Thursday,AI
-1551,Thursday afternoon,afternoon of a Thursday,AI
-1552,threat,announcement of unpleasant or illegal action,AI
-1553,Dubai,city and emirate in the UAE,AI
-1554,darkness,dark or low-light state or place,AI
-1555,search,systematic search to find hidden items,AI
-1556,real time,time in which system change matches real-world change,AI
-1557,corner,corner,AI
-1558,volunteer position,voluntary unpaid engagement,AI
-1559,property,something that belongs to someone,AI
-1560,single-family house,building with one housing unit for one family,AI
-1561,operation,medical procedure on the body,AI
-1562,compliance,compliance with a rule,AI
-1563,shopping,purchase of something for money,AI
-1564,harmony,agreement; harmony,AI
-1565,entry,crossing a border to travel into another country,AI
-1566,loneliness,state of being alone or abandoned,AI
-1567,individual case,single event or occurrence,AI
-1568,retail,sale of goods directly to consumers,AI
-1569,scandal,incident that causes great attention and offense,AI
-1570,element,building block; basic component,AI
-1571,penalty kick,penalty shot from 11 meters,AI
-1572,reception,receiving a transmission,AI
-1573,final,match deciding the overall winner,AI
-1574,angel,"supernatural being, messenger of God",AI
-1575,distance,length between two points,AI
-1576,release,permission or compulsion to leave a place or institution,AI
-1577,decision,decision,AI
-1578,relaxation,relief or end of tension,AI
-1579,origin,process of becoming or creating,AI
-1580,all-clear,lifting of a previously declared alarm,AI
-1581,episode,short section in a longer process,AI
-1582,earthquake,tremors of the Earth's surface,AI
-1583,ground floor,floor at ground level,AI
-1584,rise,small hill,AI
-1585,relief,reduction of weight,AI
-1586,investigation proceedings,proceedings for investigation,AI
-1587,renewal,renovation or replacement of parts,AI
-1588,emergency,critical situation with a negative outcome,AI
-1589,harvest,work to bring in crops,AI
-1590,first aid,providing first aid,AI
-1591,stage,section stage or leg,AI
-1592,euphoria,enthusiastic state of joy and a temporary elevated good feeling,AI
-1593,Eurovision,association of European broadcasting organizations for exchange of television and radio productions,AI
-1594,existence,presence of an object or state in reality,AI
-1595,experiment,scientific trial,AI
-1596,female expert,female person very knowledgeable in a field,AI
-1597,factory,buildings facilities workforce and management at one site for industrial mass production,AI
-1598,driving permit,permission to drive a motor vehicle,AI
-1599,lane,part of a road available to a vehicle for travel in one direction,AI
-1600,fact,actual circumstance and indisputable fact,AI
+7501,dessert,final course of a meal served after the main dish,AI
+7502,needle,long thin tool with a point shaped for various uses,AI
+7503,local supply,provision of goods and services within easy reach of consumers,AI
+7504,name giver,something or someone after which something is named,AI
+7505,anesthesia,medically induced controlled unconsciousness often with pain suppression and muscle relaxation,AI
+7506,conservation association,association for nature conservation,AI
+7507,nephew,son of a sister or brother also of a sibling in law,AI
+7508,new appointment,refilling a position anew,AI
+7509,novelty,state of being new and not existing before,AI
+7510,neurology,medical field dealing with structure physiology and diseases of the nervous system,AI
+7511,northern Europe,northern part of Europe,AI
+7512,notebook,book with blank pages for notes ideas excerpts and sketches,AI
+7513,amendment,changing or supplementing an existing law,AI
+7514,nut,edible oily seed with a hard shell,AI
+7515,upper arm,upper part of the arm from elbow to shoulder,AI
+7516,higher court,higher court,AI
+7517,lieutenant colonel,staff officer rank between major and colonel,AI
+7518,odyssey,the journey of Odysseus,AI
+7519,written offer,written offer for goods or services,AI
+7520,earwig,small usually winged insect living in cracks or crevices,AI
+7521,operetta,light stage work with singing dialogue and dance,AI
+7522,female organizer,female person who prepares actions or processes,AI
+7523,organ donation,donation of ones own organ for transplantation,AI
+7524,local head,head of a municipality,AI
+7525,town center,central part of a town,AI
+7526,East Asia,region in East Asia,AI
+7527,page,hotel page hotel servant in uniform,AI
+7528,palazzo,Italian palace,AI
+7529,Palermo,city in Sicily,AI
+7530,paper,individual short scientific publication,AI
+7531,park grounds,grounds designed as a park,AI
+7532,parking deck,deck for parking cars,AI
+7533,party chair,chairmanship of a party,AI
+7534,party headquarters,head office of a political party,AI
+7535,patent,document granting exclusive right to exploit an invention,AI
+7536,patriarchy,society in which men have dominance,AI
+7537,patrol,individual or group performing a specific tactical task,AI
+7538,female pensioner,female person no longer employed receiving retirement benefits,AI
+7539,staffing decision,decision when filling a job or office,AI
+7540,local passenger transport,transport of people over short distances,AI
+7541,passenger transport,all means of passenger transport,AI
+7542,parsonage,building where the pastor has residence or office,AI
+7543,whistle,short sound produced by whistling or signal tone,AI
+7544,Pentecost Sunday,Christian holiday on Sunday of Pentecost,AI
+7545,care allowance,social benefit due to increased care needs,AI
+7546,phantom,something that exists only in imagination and is not real,AI
+7547,pipit,ground nesting songbird of genus Anthus,AI
+7548,plague,supernatural punishment,AI
+7549,laceration,open injury of the skin,AI
+7550,playboy,financially independent man who pursues pleasures,AI
+7551,plenary session,session where all participants should be present,AI
+7552,police union,organization representing police interests,AI
+7553,position paper,document stating positions,AI
+7554,post branch,branch of the post,AI
+7555,postulate,demand,AI
+7556,price war,competition over prices,AI
+7557,price increase,increasing costs of a good or service,AI
+7558,press agency,company that collects and prepares information for mass media,AI
+7559,press report,report published in the press,AI
+7560,primary school,primary school in Switzerland,AI
+7561,princely couple,prince or princess as successor with spouse,AI
+7562,privatization,sale or transfer of state enterprises or assets to private hands,AI
+7563,professorship,office or title of a professor,AI
+7564,programming,creating computer programs with programming languages,AI
+7565,project developer,person or firm that develops projects,AI
+7566,prose,literary genre not bound by meter rhyme or rhythm,AI
+7567,prostitute,female person offering sexual acts for payment,AI
+7568,crosswise,position or course that cuts across something else,AI
+7569,cross section,plane cut of a body at 90 degrees to its long axis,AI
+7570,receipt,confirmation of receipt or payment,AI
+7571,raven,black bird species the common raven,AI
+7572,rage,uncontrolled excitement,AI
+7573,Ramsau,place name and mountain region,AI
+7574,scuffle,small harmless fight not intended to injure,AI
+7575,rap,spoken song over repeating drum and bass patterns,AI
+7576,Rappen,coin unit in Upper Rhine region from 13th century,AI
+7577,predator,mammal of order Carnivora that feeds on other animals,AI
+7578,smoke cloud,large dense mass of smoke,AI
+7579,drug,collective term for substances that cause intoxication,AI
+7580,legal system,totality of measures and organizations safeguarding law,AI
+7581,reference rate,reference price or rate,AI
+7582,rainbow,optical phenomenon from light refraction in raindrops,AI
+7583,government work,activity of a government,AI
+7584,government responsibility,responsibility for government action,AI
+7585,Reichstag,assembly of princes envoys or elected deputies at imperial level,AI
+7586,cleaning agent,chemical substance used for cleaning,AI
+7587,female rider,female person who rides a horse donkey camel and so on,AI
+7588,record number,highest number so far,AI
+7589,relation,relationship or ratio,AI
+7590,freedom of religion,constitutional right to choose and practice religion,AI
+7591,racing bike,bicycle designed for racing,AI
+7592,race day,day with horse races,AI
+7593,race car,vehicle designed for car racing,AI
+7594,reputation,standing gained through outstanding performance,AI
+7595,restructuring,reordering of structures,AI
+7596,reference value,value used as a guideline,AI
+7597,cattle,cloven hoofed animal species group,AI
+7598,role playing,game where players take on other roles and behaviors,AI
+7599,role distribution,distribution of roles,AI
+7600,jerk,abrupt impulse causing a shift,AI
+7601,rugby,team game with an oval leather ball,AI
+7602,rune,oldest script characters of the Germanic peoples,AI
+7603,slide,structure with a sloped chute to slide down,AI
+7604,case worker,person handling a specific subject area,AI
+7605,safari,trip through Africa to hunt or observe big game,AI
+7606,saga,literary genre of Old Icelandic prose,AI
+7607,season hit,score within the period of a competition,AI
+7608,sport coat,mens jacket with buttons of not too soft fabric,AI
+7609,salt water,water with dissolved salt,AI
+7610,sauerkraut,white cabbage preserved by lactic acid fermentation,AI
+7611,sheikh,head of a family or tribe,AI
+7612,spotlight beam,light emitted by spotlights,AI
+7613,shyness,timid reserved behavior,AI
+7614,arbitration tribunal,private decision body whose ruling has effect of a court judgment,AI
+7615,sleeping place,area suitable for resting in a state of outer calm,AI
+7616,mud fight,play on muddy ground,AI
+7617,defeat,losing in a military personal or sport conflict,AI
+7618,inflatable boat,boat with inflatable hull made of hard rubber or similar plastics,AI
+7619,gorge,narrow and steep cut in a valley,AI
+7620,final third,closing third,AI
+7621,snout,protruding mouth and nose area of animals,AI
+7622,sniffing,act of inhaling a substance through the nose,AI
+7623,school operation,operation of a school,AI
+7624,debt level,amount of debt,AI
+7625,debtor,person or organization that owes money to a creditor,AI
+7626,shoulder injury,injury that affects the shoulder,AI
+7627,shootout,conflict in which firearms are fired at each other,AI
+7628,safety zone,area meant to provide safety for someone or something,AI
+7629,swallow,agile songbird of the family Hirundinidae,AI
+7630,Swedish woman,female citizen of Sweden,AI
+7631,daughter in law,wife of the son or daughter,AI
+7632,sailboat,sport boat powered mainly by wind,AI
+7633,soap,water soluble cleaning agent for body hygiene,AI
+7634,sect,small religious community split from large religious communities,AI
+7635,self image,assessment someone develops of themselves,AI
+7636,self doubt,uncertainty about what one does can do or wants,AI
+7637,sequence,series of similar things,AI
+7638,security guarantee,assurance that someone or something will remain safe in a threatening situation,AI
+7639,preventive detention,detention of an offender after prison to protect the public when still dangerous,AI
+7640,sieve,surface with holes for separating mixed materials also used figuratively,AI
+7641,silhouette,outline that stands out dark against a background,AI
+7642,symphony,large work for orchestra whose first movement is usually in sonata form,AI
+7643,ski slope,part of a mountain opened for downhill skiing,AI
+7644,script,written notes or transcript of a lecture,AI
+7645,immediate program,program with immediate measures,AI
+7646,female soldier,female member of military personnel of a country,AI
+7647,special envoy,envoy for special tasks,AI
+7648,special commission,working group set up for a specific task,AI
+7649,sunburn,skin burn caused by the sun,AI
+7650,social work,qualified help in difficult life situations,AI
+7651,female social worker,qualified female helper in difficult life situations,AI
+7652,female social democrat,female supporter of social democracy or member of a social democratic party,AI
+7653,social partner,partner in social partnership,AI
+7654,social welfare system,all institutions and measures concerning social care and provision in a society,AI
+7655,spaghetti,long thin pasta usually made from durum wheat semolina,AI
+7656,Sparta,ancient city in Greece,AI
+7657,tinsmith,craftsman who works and produces metal objects,AI
+7658,reflection,image of an object in a mirror,AI
+7659,game community,grouping of people for the purpose of playing together,AI
+7660,spider,small eight legged animal that often spins threads,AI
+7661,spy,secret unrecognized observer who scouts the opposing side,AI
+7662,sports federation,sports federation,AI
+7663,language use,use of language in utterances,AI
+7664,spook,unexplained or eerie threatening event,AI
+7665,state council,council of a state,AI
+7666,coup,violent sudden overthrow,AI
+7667,state treaty,binding agreement between autonomous territorial entities,AI
+7668,chief of staff,superior of a group of officers who advise him,AI
+7669,city archive,municipal institution for preserving regional history and official documents,AI
+7670,urban motorway,motorway located within a city,AI
+7671,city district,district of a city or municipality with its own name,AI
+7672,city border,territorial border of a city,AI
+7673,city hall building,building in a city,AI
+7674,steel plant,plant that produces steel,AI
+7675,path,simple path in steep terrain,AI
+7676,Stone Age,prehistoric period when humans made tools from stone not metal,AI
+7677,death,archaic form of dying,AI
+7678,star singers,children dressed as the Three Kings who sing and collect donations around January 6,AI
+7679,observatory,place for space observations with scientific instruments,AI
+7680,tax policy,political activities concerning taxes part of fiscal policy,AI
+7681,boot,shoe with a shaft,AI
+7682,silence,act of not speaking,AI
+7683,criminal court,court for criminal cases,AI
+7684,offense elements,statutory elements defining punishability,AI
+7685,defense counsel,defender appointed to an accused in criminal proceedings,AI
+7686,penal enforcement,execution of a final prison sentence,AI
+7687,route network,totality of routes of a transport system covering an area,AI
+7688,strings player,person who plays a string instrument,AI
+7689,power line,electrical line carrying current,AI
+7690,stube,heated living room or heated room,AI
+7691,kilometers per hour,km per hour,AI
+7692,mare,female animal of horses or camels,AI
+7693,swamp,shallow standing water area with vegetation,AI
+7694,sushi,Japanese dish of cooked rice and raw fish originally any bite sized food with vinegar rice,AI
+7695,symbiosis,living together of organisms of different species for mutual benefit,AI
+7696,syndrome,totality of symptoms of an illness,AI
+7697,synonym,word with the same meaning as another in a specific context,AI
+7698,system change,change of a system,AI
+7699,agenda item,item on an agenda,AI
+7700,typhoon,tropical cyclone in the northwestern Pacific,AI
+7701,take,film take attempt in English,AI
+7702,Tallinn,capital of Estonia,AI
+7703,lower station,lowest departure station of a mountain or cable railway,AI
+7704,tango,dance from South America with strong rhythm and body contact,AI
+7705,fir tree,tall evergreen fir tree with upright cones,AI
+7706,energy,willingness and ability to act,AI
+7707,Taunus,low mountain range in Germany,AI
+7708,team manager,manager of a team,AI
+7709,field of participants,all persons involved in a competition,AI
+7710,Terra,third planet of the solar system where humans live,AI
+7711,terror act,act consisting of unrestrained violence,AI
+7712,theologian,person who has studied theology,AI
+7713,female therapist,female person who applies therapies,AI
+7714,civil engineering office,office for civil engineering,AI
+7715,ink,liquid used for writing drawing painting and calligraphy,AI
+7716,Tirana,capital of Albania,AI
+7717,Tyrolean woman,female inhabitant of Tyrol,AI
+7718,subsidiary,legally independent but economically dependent company run by parent,AI
+7719,fatal result,consequence with fatalities,AI
+7720,goalkeeper,player whose task is to prevent goals,AI
+7721,Toto,totalizator for placing bets,AI
+7722,female tourist,female person who travels for pleasure,AI
+7723,tragedy,tragic character,AI
+7724,dream couple,couple seen as ideal and well matched,AI
+7725,small staircase,small staircase,AI
+7726,turnaround,major change in a situation such as politics economy weather or mood,AI
+7727,exchange,exchange,AI
+7728,environmental organization,organization that works to protect the environment,AI
+7729,accident victim,person who suffered damage through an accident,AI
+7730,mischief,absurd or improper condition or action,AI
+7731,unique piece,document existing in only one copy,AI
+7732,Union politician,politician who is a member of the Union party,AI
+7733,disorder,situation characterized by lack of order,AI
+7734,foundation,foundation construction of a building,AI
+7735,entrepreneurship,entrepreneurial activity,AI
+7736,lower leg,part of the leg between knee and foot,AI
+7737,ignorance,quality of not knowing many things,AI
+7738,vacuum,almost airless space,AI
+7739,cyclist,bicycle rider in Swiss usage,AI
+7740,valve,shutoff device for gases and liquids,AI
+7741,compression,process of becoming denser,AI
+7742,veneration,worship of gods,AI
+7743,constitutional complaint,complaint to the federal constitutional court to enforce basic rights,AI
+7744,forgiveness,act of forgiving,AI
+7745,traffic calming,measures to slow or reduce motor traffic in certain areas,AI
+7746,transport concept,concept for transport,AI
+7747,scarcity,process in which something decreases in stock,AI
+7748,deepening,intensive engagement to deepen understanding,AI
+7749,confidentiality,quality of being confidential and limited to a circle,AI
+7750,administrative head,head of an administration,AI
+7751,interlocking,interaction of parts,AI
+7752,directory,overview list of information structured in a list,AI
+7753,veto right,right to veto,AI
+7754,violin,string instrument with flat body and four strings tuned G D A E,AI
+7755,public survey,non binding poll of eligible voters,AI
+7756,completion,finishing something,AI
+7757,preparation time,time for preparation,AI
+7758,previous year winner,person who won in the previous year,AI
+7759,board spokesperson,board member tasked with speaking for the board,AI
+7760,prejudice,preconceived often false opinion not based on knowledge,AI
+7761,railcar,railway car,AI
+7762,freedom of choice,unaffected possibility to choose between options,AI
+7763,election commission,commission for elections,AI
+7764,election advertising,advertising for an election,AI
+7765,forest edge,border area of a forest,AI
+7766,journeyman travel,traditional wandering of craftsmen after training,AI
+7767,waterworks,facility for providing drinking water,AI
+7768,water management,totality of measures for managing and using water,AI
+7769,move away,change of residence to another place,AI
+7770,auxiliary bishop,auxiliary bishop in the church,AI
+7771,worldview,system of ideas someone has about the world,AI
+7772,World Cup win,win in the World Cup,AI
+7773,world trip,journey around the world,AI
+7774,apocalypse,end of humanity earth or universe by natural artificial or divine means,AI
+7775,World Economic Forum,forum for world economy WEF,AI
+7776,Westerwald,German low mountain range bounded by Rhine Sieg Lahn and Dill,AI
+7777,western Switzerland,western part of Switzerland,AI
+7778,west side,western side,AI
+7779,whiskey,whisky made in Ireland or America from rye or corn,AI
+7780,revocation,declaration that something should be invalid,AI
+7781,wildlife park,park with wild animals,AI
+7782,wild animal,animal living in the wild not accustomed to humans,AI
+7783,great speed,very fast speed,AI
+7784,wind turbine,wind turbine producing usable mechanical energy,AI
+7785,cold snap,sudden onset of cold temperatures snow and ice,AI
+7786,winter semester,winter half of an academic year,AI
+7787,cyclone,storm system with a vertical axis of rotation,AI
+7788,hostess,female person who hosts guests,AI
+7789,housing company,company with apartments,AI
+7790,compilation of numbers,worked out collection of numbers and values,AI
+7791,payment transactions,total movement of means of payment within a country,AI
+7792,time frame,given time frame,AI
+7793,newspaper report,report with detailed information in a newspaper,AI
+7794,final straight,last section of a race track before the finish,AI
+7795,interest level,level of interest rates,AI
+7796,compilation,arrangement of selected items,AI
+7797,immigrant,person who moves long term to another place in the same country,AI
+7798,twin brother,male person whose sibling was carried at the same time,AI
+7799,cylinder,geometric solid with a circular base and a congruent top,AI
+7800,dismissal,"removal of a person from office, function, or activity",AI
+7801,tray,open container or place to put things (usually paper),AI
+7802,agreement,verbal or written agreement that is binding,AI
+7803,secondment,sending a group of people in the employer's interest,AI
+7804,depreciation,reduction of book value due to wear or uncollectibility,AI
+7805,descent,origin in evolutionary lineage; family origin,AI
+7806,voting behavior,how someone votes,AI
+7807,badge,wearable copy of a sign or symbol,AI
+7808,Aden,city in Yemen,AI
+7809,admiral,naval rank,AI
+7810,joint-stock company,corporation whose capital is divided into shares,AI
+7811,acoustics,study of sound and tones,AI
+7812,alcoholic,person dependent on alcohol,AI
+7813,Allah,God in Islam,AI
+7814,Alpine area,regions in and around the Alps,AI
+7815,old-age provision,comprehensive provision for people in retirement,AI
+7816,old master,long-recognized master of a craft or art,AI
+7817,ambivalence,double meaning; inner conflict,AI
+7818,ant,social insect of the family Formicidae,AI
+7819,Amman,capital of Jordan,AI
+7820,abuse of office,misuse of the power of office,AI
+7821,hint,"indirect, vague hint",AI
+7822,Andorra,small state between France and Spain,AI
+7823,contestation,request to reconsider an unfair decision,AI
+7824,pivot point,point around which a body can rotate,AI
+7825,Angola,state in southwest Africa,AI
+7826,crediting,offset or crediting of a performance or period,AI
+7827,entitlement,right to acquire or claim something,AI
+7828,form of address,designation used to address people,AI
+7829,collection,a quantity of unspecified number,AI
+7830,incitement,inducing someone to commit a crime or bad act,AI
+7831,anti-fascism,political opposition to fascism and developments toward it,AI
+7832,attraction,place or event that arouses interest,AI
+7833,apartheid,former racial segregation in South Africa,AI
+7834,employee representative,person representing the interests of all employees,AI
+7835,work permit,official permit for a foreigner to seek and take paid work,AI
+7836,employment service,service for job placement,AI
+7837,labor minister,head of a labor ministry,AI
+7838,dashboard,panel with gauges and controls in a vehicle or machine,AI
+7839,performer,"performing artist, mainly in variety or circus",AI
+7840,nuclear facility,"technical facility of nuclear research, industry or armament",AI
+7841,nuclear power,state possessing ready-to-use nuclear weapons,AI
+7842,atrium,square inner room of a Roman house with an opening in the ceiling,AI
+7843,Attersee,lake in Austria,AI
+7844,medical certificate,doctor's certificate or health certificate,AI
+7845,audience,formal reception by a high-ranking person or celebrity,AI
+7846,audience,group of listeners,AI
+7847,print,something printed on fabric or paper,AI
+7848,residence permit,official permit to stay in a country for a limited time,AI
+7849,staff room,room in a company or authority where staff may stay,AI
+7850,essay,short written composition,AI
+7851,supervisory board chair,person who chairs the supervisory board,AI
+7852,awarding of contracts,award of orders,AI
+7853,apprenticeship position,training position for a person receiving vocational training,AI
+7854,curfew,official prohibition on leaving home within a set time,AI
+7855,balance,"balance, equilibrium",AI
+7856,display,"presentation of goods, e.g., in shop windows or markets",AI
+7857,exercise run,free movement for someone or something,AI
+7858,discontinued model,product still available but outdated,AI
+7859,exploitation,use of something for one's benefit,AI
+7860,exhibition room,room in a building where exhibitions are held,AI
+7861,automotive group,very large company in the automotive sector,AI
+7862,automation,production of goods that runs largely on its own,AI
+7863,avenue,street leading to a particular place,AI
+7864,bakery workshop,room where bakery and confectionery products are made,AI
+7865,bathing resort,place at a lake or sea whose main income is bathing tourism,AI
+7866,ballad,long poem often with a tragic ending,AI
+7867,ballast,material or component that stabilizes an object and is heavy for its size,AI
+7868,rally,alternating play of the ball in racket sports,AI
+7869,bank branch,branch office of a bank,AI
+7870,mercy,the quality of being merciful,AI
+7871,baseball,team sport with a bat and ball,AI
+7872,farmhouse,house used and inhabited by farmers,AI
+7873,Bauhaus,design and architecture movement,AI
+7874,construction industry,companies producing structures and related services and products,AI
+7875,tree trunk,connection between roots and crown of a tree,AI
+7876,wadding,formless soft wool-like mass,AI
+7877,construction rubble,waste produced at a construction site or demolition,AI
+7878,construction halt,interruption of construction activity,AI
+7879,construction contractor,operator or owner of a construction company,AI
+7880,case of need,situation in which something is needed,AI
+7881,time to think,period to reflect,AI
+7882,talent,innate above-average ability,AI
+7883,lust,passionate desire,AI
+7884,circle of acquaintances,set of people one knows at some distance,AI
+7885,consulting firm,firm that provides advice,AI
+7886,department head,head of a department or responsibility area,AI
+7887,on-call duty,time an employee must be on standby,AI
+7888,mountaineering,mountain hiking or alpine climbing in high regions,AI
+7889,vocational education,training for a profession,AI
+7890,occupying power,state whose troops occupy an area,AI
+7891,gift-giving,distribution of Christmas gifts on Christmas Eve,AI
+7892,corruptibility,morally reprehensible character trait,AI
+7893,endeavor,serious effort to reach a goal,AI
+7894,number of visitors,number of people who visited,AI
+7895,subject,subject of a document or email,AI
+7896,staff meeting,assembly of the workforce,AI
+7897,paternalism,interference that excludes free decisions,AI
+7898,favoritism,preferential treatment,AI
+7899,evidence material,objects and records that clarify a case,AI
+7900,female applicant,female person who applies,AI
+7901,application deadline,period during which applications are possible,AI
+7902,hospitality,providing guests with food and drink,AI
+7903,recipient,person who receives something,AI
+7904,bee,hairy flying insect of the order Hymenoptera,AI
+7905,beer bottle,bottle for storing beer,AI
+7906,beer tent,tent at festivals where beer is served,AI
+7907,visual language,effect produced by an artist's images,AI
+7908,approval,approving attitude; consent,AI
+7909,bandage,narrow woven or cut strip of fabric,AI
+7910,biologist,scientist who studies living nature,AI
+7911,right to stay,right to remain in a place,AI
+7912,blizzard,severe snowstorm,AI
+7913,Blocher,surname,AI
+7914,blouse,"light upper garment, especially for women",AI
+7915,bloodbath,brutal killing of many people,AI
+7916,bleeding,escape of blood from the vascular system,AI
+7917,receipt,payment slip from a cash register,AI
+7918,bora,"dry, cold, gusty wind on the eastern Adriatic coast",AI
+7919,brothel,building where sexual services are offered for payment,AI
+7920,Bosporus,strait between the Black Sea and the Sea of Marmara,AI
+7921,boutique,"small shop, especially for fashion",AI
+7922,firewood,wood burned for heating or cooking,AI
+7923,breach,gap in a defensive structure created by attackers,AI
+7924,Brittany,region in France,AI
+7925,breeze,light wind,AI
+7926,book author,author of a book,AI
+7927,book trade,trade in books,AI
+7928,budget deficit,shortfall in the budget,AI
+7929,Federal Labour Court,highest court for labor law cases in Germany,AI
+7930,federal average,average value in the federal territory,AI
+7931,federal law,law passed by a federal parliament,AI
+7932,federal health minister,head of health at federal level,AI
+7933,federal parliament building,parliament building at federal level,AI
+7934,federal party,party at federal level,AI
+7935,Federal Cross of Merit,award granted by the federal president,AI
+7936,federal economics minister,head of the economics ministry,AI
+7937,bureau,office or business premises,AI
+7938,cape,"light sleeveless cloak, often waist length",AI
+7939,chairman,chairman,AI
+7940,charter,charter,AI
+7941,chief conductor,lead conductor of an orchestra,AI
+7942,boss's chair,chair belonging to the company head,AI
+7943,chemist,trained specialist in chemistry,AI
+7944,Chinese woman,female citizen of China,AI
+7945,surgeon,specialist for operative treatment,AI
+7946,cholesterol,"lipid, component of animal cell membranes",AI
+7947,cop,member of the U.S. police,AI
+7948,roofer,"craftsman who builds, covers, seals, and insulates roofs and installs roof windows or solar panels",AI
+7949,umbrella organization,organization consisting of several related sub-organizations,AI
+7950,badger,mammal with gray fur and white-black head pattern; the European badger,AI
+7951,steam locomotive,abbreviation of steam locomotive,AI
+7952,data exchange,mutual transmission of data between systems,AI
+7953,data processing,targeted transformation of large data sets by people or machines,AI
+7954,dent,depression caused by mechanical impact,AI
+7955,democratization,implementation of democratic principles,AI
+7956,reminder,"memory aid, reminder",AI
+7957,disinterest,lack of interest,AI
+7958,foreign exchange market,market for foreign currencies,AI
+7959,diabetic,person with diabetes,AI
+7960,deacon,person holding a clerical office below priest,AI
+7961,service union,union in the service sector,AI
+7962,working hours,time of day when work is done,AI
+7963,differentiation,fine distinction of something in detail,AI
+7964,diploma,certificate honoring certain achievements,AI
+7965,direct candidate,person elected directly in a constituency,AI
+7966,disposition,free disposal,AI
+7967,distribution,distribution of goods,AI
+7968,disciplinary proceedings,procedure to examine and sanction misconduct,AI
+7969,diva,woman famous for exceptional talent,AI
+7970,dock,basin or floating structure for drying ships,AI
+7971,doctoral title,academic degree awarded after doctoral examination,AI
+7972,doping,use of prohibited substances to enhance performance,AI
+7973,double victory,two consecutive wins,AI
+7974,double room,room for two people,AI
+7975,village festival,large festive event for villagers,AI
+7976,village center,central part of a village,AI
+7977,dramaturgy,science of the laws of drama and its staging,AI
+7978,three quarters of an hour,period of 45 minutes,AI
+7979,dual,inflectional category used for exactly two,AI
+7980,duke,duke (English),AI
+7981,haze,fine mist,AI
+7982,march through,almost unhindered march through a territory,AI
+7983,dynasty,family from which a line of rulers emerged,AI
+7984,ebb,period of falling tide,AI
+7985,efficiency increase,increase in efficiency,AI
+7986,own needs,need for oneself,AI
+7987,own contribution,own performance or contribution,AI
+7988,shopping market,market for shopping,AI
+7989,area of operation,area where tasks are carried out,AI
+7990,uniqueness,quality of being unique,AI
+7991,drainage basin,area from which a river receives water,AI
+7992,ice rink,ice-covered area for skating,AI
+7993,iron ore,rock or mineral mixture containing iron,AI
+7994,ulna,one of the two forearm bones,AI
+7995,enamel,colored enamel coating on metal,AI
+7996,sensitivity,quality of being easily affected,AI
+7997,remuneration,payment for work performed,AI
+7998,expert opinion,expert report or statement,AI
+7999,success record,record of successes,AI
+8000,Eritrea,state in East Africa,AI

@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-1701,decade,period of ten years,AI
-1702,jazz,music genre originating in the USA with roots in blues,AI
-1703,afterlife,supernatural realm entered after death,AI
-1704,female journalist,female person working in journalism,AI
-1705,cheering,expression of great joy through gestures and voice,AI
-1706,cabin,small enclosed room in a vehicle,AI
-1707,Kaiserslautern,city in Rhineland Palatinate,AI
-1708,calendar,listing of days weeks and months with various information,AI
-1709,chamber,room often unheated and used for a specific purpose,AI
-1710,canal,artificial waterway or traffic route,AI
-1711,female candidate,female person available for selection,AI
-1712,candidacy,standing as a candidate in an election,AI
-1713,cantonal police,police of a Swiss canton,AI
-1714,chancellery,authority serving or supporting a chancellor,AI
-1715,capital,money or values used in production to earn profit,AI
-1716,cottage,house of a small farmer or day laborer,AI
-1717,goalkeeper,most defensive player preventing goals often with special rights,AI
-1718,chain,series of connected movable links,AI
-1719,sound,how something sounds,AI
-1720,monastery,building where monks or nuns live in seclusion,AI
-1721,bone,part of the skeleton of vertebrates,AI
-1722,coalition partner,member of a coalition,AI
-1723,suitcase,container for transporting clothes or other items,AI
-1724,cocaine,intoxicant from coca plant leaves,AI
-1725,female colleague,female person working in the same profession or company,AI
-1726,Colombia,state in South America,AI
-1727,comfort,convenience through external conditions,AI
-1728,commune,political and legal community in a city,AI
-1729,competence,personal ability or capability,AI
-1730,compromise,agreement where all parties give up some points,AI
-1731,congress,assembly or conference of people with common interests,AI
-1732,business cycle,overall economic situation including future trends,AI
-1733,consensus,agreement of opinions; unanimity,AI
-1734,consequence,impact or result of an action,AI
-1735,continent,continent of the Earth,AI
-1736,concentration,mental focus and tension,AI
-1737,Copenhagen,capital of Denmark,AI
-1738,corruption,abuse of position for personal advantage,AI
-1739,Krefeld,city in North Rhine Westphalia,AI
-1740,Croatia,state in Southeast Europe,AI
-1741,sphere,volume whose points are equidistant from a center,AI
-1742,rally,public expression or demonstration,AI
-1743,clientele,totality of customers,AI
-1744,laboratory,room or facility where scientific technical and medical investigations analyses and experiments are carried out,AI
-1745,lady,English noble title wife of a lord or female equivalent of a lord,AI
-1746,state court,court under the responsibility of the federal states,AI
-1747,state governor,chairman of a state government,AI
-1748,state election,election of a state parliament in Germany or Austria,AI
-1749,landing,touchdown of an aircraft or spacecraft,AI
-1750,farmer,person who independently produces plant and animal products,AI
-1751,laptop,portable computer with battery power usually heavier and larger than a notebook,AI
-1752,career,personal career in a persons working life,AI
-1753,travel time,time spent for a route,AI
-1754,life threatening danger,possibility that someone is so ill or injured that they could die,AI
-1755,lee,in geography leeward form used in seafaring often without article,AI
-1756,legend,story about events life and death of persons in elevated manner similar to saga or myth,AI
-1757,legislative term,legally defined time interval of a legislative body between elections,AI
-1758,female teacher,female person who conveys knowledge often with an educational role,AI
-1759,suffering,deep sorrow severe psychological or emotional pain,AI
-1760,canvas,fabric made of linen fibers,AI
-1761,benchmark index,the key indicator that best reflects market development,AI
-1762,reading,public reading of a text at an event or service,AI
-1763,level,achieved position in a ranking,AI
-1764,lights,nominative plural of the noun Licht,AI
-1765,Lithuania,state in the Baltic region,AI
-1766,literature,totality of linguistic written tradition of a nation or language,AI
-1767,logo,graphic mark used by a company or institution as an identifier often a stylized word or icon,AI
-1768,wage,payment for work of workers,AI
-1769,look,external appearance fashion trend style,AI
-1770,Lufthansa,German airline,AI
-1771,airspace,air filled space above the Earth surface,AI
-1772,air force,branch of the armed forces for air war,AI
-1773,magnifying glass,lens usually of glass for optical magnification,AI
-1774,luxury,goods or behaviors beyond the usual for personal pleasure,AI
-1775,ruler,person who holds power or governing authority,AI
-1776,Main,river in Germany,AI
-1777,mandate,commission of the people to a representative,AI
-1778,navy,armed forces for naval warfare,AI
-1779,marketing,measures to promote sales and market oriented management,AI
-1780,market share,sales or revenue share of a company in its market,AI
-1781,wall,wall of a building made of stone concrete or clay,AI
-1782,medal,coin not used for payment meant to commemorate a person or event,AI
-1783,physician,person who studied medicine,AI
-1784,apartment building,residential building for multiple households,AI
-1785,added value,additional economic or financial benefit,AI
-1786,steward,official of a noble or clerical lord managing an estate,AI
-1787,freedom of opinion,right to express and spread ones opinion,AI
-1788,humankind,totality of all humans,AI
-1789,human weakness,human weakness,AI
-1790,metal,solid with characteristic luster and high heat and electrical conductivity,AI
-1791,metropolis,very large or important city dominating a region,AI
-1792,Miami,city in the USA,AI
-1793,milk,nutritive fluid produced by female mammals also used as food,AI
-1794,minority,group that is fewer in number compared to the whole,AI
-1795,minimum wage,lowest amount employers may pay employees,AI
-1796,Minsk,capital of Belarus,AI
-1797,female employee,female worker or employee in a company or organization,AI
-1798,membership,state of being a member,AI
-1799,midfielder,player who organizes play in midfield,AI
-1800,Mediterranean Sea,very large marginal sea of an ocean,AI
+8501,assurance,binding promise or reassurance,AI
+8502,escalation,driving toward an extreme state,AI
+8503,contribution,help or assistance,AI
+8504,two year contract,contract valid for two years,AI
+8505,second vote,vote by which a voter chooses a party,AI
+8506,dwarf,small fairy tale creature,AI
+8507,interim report,report on an interim status,AI
+8508,intermediate storage,place where something is stored temporarily,AI
+8509,feud,lasting dispute or rift,AI
+8510,Last Supper,the last ceremonial meal of Jesus of Nazareth with his twelve apostles,AI
+8511,outflow,that which flows off,AI
+8512,seclusion,state of being secluded or alone,AI
+8513,formal warning,formal request to refrain from certain behavior in the future,AI
+8514,sealing off,shielding/closing off,AI
+8515,takeoff,act at the start of a jump,AI
+8516,abstinence,abstinence,AI
+8517,Achilles tendon,tendon attaching calf muscles to heel bone,AI
+8518,arable land,land suitable for farming,AI
+8519,blood vessel,term for blood vessels,AI
+8520,bloodletting,"letting blood, historically; via leeches or draining",AI
+8521,administrator,"caretaker, manager",AI
+8522,stock index,indicator of selected share prices,AI
+8523,Alabama language,"language spoken by the Alabama people in the southeastern USA, similar to Coushatta",AI
+8524,Albanian,citizen of Albania,AI
+8525,Algerian,person born in Algeria,AI
+8526,alcoholism,mental and physical dependence on alcohol,AI
+8527,Alpine republic,humorous term for Austria,AI
+8528,magpie,magpie; garden crow,AI
+8529,former chancellor,chancellor no longer in office,AI
+8530,amen,acclamation at the end of a prayer or blessing,AI
+8531,Ammann,Swiss official title,AI
+8532,amnesty,full or partial pardon,AI
+8533,official act,single sovereign act,AI
+8534,anatomy,study of the structure of the body,AI
+8535,beginning,initial period of something,AI
+8536,Andalusia,region in southern Spain,AI
+8537,appropriation,taking possession of ownerless property,AI
+8538,attack,sudden severe onset of illness,AI
+8539,adjustment,change to make something more similar or fit better,AI
+8540,clue,indication that supports the correctness of an assumption,AI
+8541,plant builder,company that plans and builds technical plants,AI
+8542,accusation,charge of guilt,AI
+8543,apple juice,drink made from apple juice,AI
+8544,apostle,one of the twelve disciples sent by Jesus,AI
+8545,application,a petition or formal request,AI
+8546,area of work,specialist or task area worked on,AI
+8547,labor dispute,organized conflict between employees and employers using strikes or lockouts,AI
+8548,worker,person performing (manual) labor,AI
+8549,occupational safety,measures and rules to protect workers from harm,AI
+8550,female job seeker,female person looking for work,AI
+8551,study,room in a house where professional work is done,AI
+8552,arrangement,act of reaching an agreement and its result,AI
+8553,Assisi,city in Italy,AI
+8554,nuclear weapon,weapon whose explosive energy comes from nuclear processes,AI
+8555,nuclear non-proliferation treaty,international treaty signed in 1968 regulating spread of nuclear weapons and peaceful use of nuclear energy,AI
+8556,construction work,work to build a structure or system,AI
+8557,storage,protection from external influences,AI
+8558,presentation,external design or appearance,AI
+8559,split,division into several parts,AI
+8560,rearing,care and feeding of immature living beings,AI
+8561,feast for the eyes,"pleasant, pleasing sight",AI
+8562,training company,company that trains apprentices,AI
+8563,expressiveness,ability to express oneself effectively,AI
+8564,saying,"short, important statement, often by famous people",AI
+8565,dropout,person who has abruptly and completely quit something,AI
+8566,car owner,person who owns a car,AI
+8567,autograph,signature made by a famous person,AI
+8568,car brand,brand of cars,AI
+8569,Babylon,ancient city in Mesopotamia,AI
+8570,swim trunks,garment worn on the lower body for swimming or sunbathing,AI
+8571,barometer,instrument for measuring air pressure,AI
+8572,tree stock,totality of trees in a given area,AI
+8573,inhibition,uncertainty or hesitation toward a matter,AI
+8574,commander,person who has command authority,AI
+8575,fastening,act of fastening something to an object,AI
+8576,satisfaction,fulfillment of desires; satisfying,AI
+8577,hatchet,short one-handed tool with a sharp blade,AI
+8578,accessory,additional but non-essential element,AI
+8579,mountain railway,transport for people and goods up a mountain,AI
+8580,mine,operation for extracting raw materials from a mountain,AI
+8581,professional association,association of a profession,AI
+8582,resolution,"decision on a matter, often by a committee",AI
+8583,composure,state of mental presence,AI
+8584,salary,pay of a public servant,AI
+8585,top form,best performance; peak condition,AI
+8586,top grade,highest desired grade in a grading system,AI
+8587,investment company,company for equity participation,AI
+8588,beggar,needy person who lives on alms,AI
+8589,state of evidence,sum of proven and missing facts for a case,AI
+8590,district committee,local body representing citizens' interests,AI
+8591,biennial,exhibition held every two years,AI
+8592,bikini,two-piece swimsuit for women,AI
+8593,photo book,book mainly containing pictures,AI
+8594,portrait,pictorial representation of a person,AI
+8595,educational offerings,range of educational opportunities provided,AI
+8596,education sector,overall system of education institutions and organizations,AI
+8597,caption,text under an illustration,AI
+8598,biogas,gas from anaerobic fermentation of organic substrates,AI
+8599,biotope,natural habitat for certain plants and animals,AI
+8600,pear,type of fruit tree,AI
+8601,wind orchestra,large group of musicians playing wind instruments,AI
+8602,bodywork damage,accident damage with only material damage,AI
+8603,drill,rod-shaped tool for making round holes,AI
+8604,Botswana,state in southern Africa,AI
+8605,ribcage,bony cage enclosing heart and lungs,AI
+8606,bookshop,shop selling books,AI
+8607,federal health ministry,top health authority of a federal state,AI
+8608,federal constitution,constitution of a federal state,AI
+8609,top management,company leadership,AI
+8610,top job,position as top leader,AI
+8611,chemical,chemical substance produced industrially or in a lab,AI
+8612,Chiemsee,lake in Bavaria,AI
+8613,Chinese,citizen of China,AI
+8614,chlorine,"chemical element, atomic number 17",AI
+8615,cup winner,winner of a cup competition,AI
+8616,Dakar,capital of Senegal,AI
+8617,delegates' assembly,assembly of delegates,AI
+8618,idiot,person with lower intelligence or sense,AI
+8619,detective,usually private investigator,AI
+8620,employee,employee (Austrian),AI
+8621,dispute,exchange of arguments to convince the other side,AI
+8622,disqualification,exclusion from competition for rule violations,AI
+8623,dogma,fundamental doctrine with binding truth claim,AI
+8624,donna,title of address for certain Italian noblewomen,AI
+8625,bicycle,bicycle,AI
+8626,dramatist,person who writes dramas,AI
+8627,turnstile,cross-shaped device allowing one person at a time,AI
+8628,understanding,understanding of connections,AI
+8629,mean value,mean value of measurements,AI
+8630,honorary member,member with honorary status,AI
+8631,reverence,awe based on respect,AI
+8632,initiative,activity initiated without outside stimulus,AI
+8633,ingenuity,having many ideas,AI
+8634,integration,integration into a larger unit,AI
+8635,income tax,tax on income of natural persons,AI
+8636,emergency vehicle,specially equipped vehicle used in service operations,AI
+8637,task force,group for an operation,AI
+8638,formal objection,formal objection,AI
+8639,registration,act of writing into an official place,AI
+8640,objection,reaction expressing concerns,AI
+8641,individual,person alone without companions,AI
+8642,individual time trial,time trial in cycling,AI
+8643,iceberg,large floating mass of ice,AI
+8644,vanity,excessive concern for one's own perfection,AI
+8645,release,"release from something, especially an obligation",AI
+8646,expedition,journey to discover something new,AI
+8647,remuneration,consideration agreed in a contract,AI
+8648,derailment,accident where a rail vehicle leaves the tracks,AI
+8649,epidemic,mass occurrence of a disease in a population,AI
+8650,epic,long narrative in verse,AI
+8651,team,group of athletes competing together,AI
+8652,success rate,share of successful cases,AI
+8653,world of experiences,experience world,AI
+8654,encouragement,attempt to give someone more courage,AI
+8655,substitute,substitute player,AI
+8656,astonishment,state of having to be amazed,AI
+8657,paid work,work to earn a living,AI
+8658,eater,person who is eating or likes to eat a lot or has certain eating habits,AI
+8659,Estonian,citizen of Estonia,AI
+8660,female European champion,female leader in a discipline; winner of a European championship,AI
+8661,subsistence minimum,amount of material means minimally necessary to make a living,AI
+8662,export economy,economy of exports,AI
+8663,facet,angular cut surface; one of the many faces of a cut gemstone,AI
+8664,field of expertise,area of work or knowledge focused on a specific coherent part of the world,AI
+8665,professional competence,professional competence,AI
+8666,technical school,educational institution specialized in a field and teaching it in a specialized program,AI
+8667,family property,everything owned by a family,AI
+8668,family drama,tragic complicated event in a family,AI
+8669,farmer,person who owns and usually operates a farm,AI
+8670,laziness,inner mood or attitude of not wanting to do anything strenuous,AI
+8671,fig,edible sweet fleshy fruit of the fig tree,AI
+8672,fig leaf,leaf of the fig tree,AI
+8673,boulder,piece of rock,AI
+8674,feminist,female person advocating feminism and womens rights,AI
+8675,heel,back part of the foot,AI
+8676,landline network,system of telephone connections via cables and lines,AI
+8677,festive speech,solemn speech,AI
+8678,fire chief,leader of a fire brigade,AI
+8679,financial strength,ability to have or obtain funds,AI
+8680,financial market,totality of markets where financial resources are traded,AI
+8681,Finke,family name,AI
+8682,fish market,market where usually fresh fish is sold or auctioned,AI
+8683,butcher,craft profession dealing with slaughter and preparing meat for food,AI
+8684,flight risk,possible danger that someone will flee,AI
+8685,escape route,designated safe route for self rescue and access for rescuers,AI
+8686,fund company,company that collects investor money and issues fund shares,AI
+8687,forestry office,office responsible for forestry,AI
+8688,locomotion,movement or getting ahead from a point,AI
+8689,fossil,evidence of past life older than 10000 years,AI
+8690,photo appointment,appointment for taking photos,AI
+8691,womens movement,large group seeking recognition and equality of women,AI
+8692,womens day,day for women on 8 March,AI
+8693,freestyle,free style for example in sports,AI
+8694,exemption,making free or being exempted,AI
+8695,leisure activities,shaping of leisure time,AI
+8696,peace mission,assignment to ensure security and peace,AI
+8697,peace prize,prize for peace achievements,AI
+8698,gangster,member of a criminal gang,AI
+8699,garden show,exhibition for horticulture,AI
+8700,innkeeper,person who runs a hospitality business,AI
+8701,Gebauer,family name,AI
+8702,birth house,house where someone was born,AI
+8703,birthday gift,gift given for a birthday,AI
+8704,memorial stone,stone block set up to remember something or someone,AI
+8705,region,landscape or region,AI
+8706,interweaving,interwoven structure,AI
+8707,followers,totality of followers of someone or something,AI
+8708,counterattack,attack that follows an enemy attack,AI
+8709,opposite pole,other pole or counterpart with distinctly different properties,AI
+8710,equivalent,value considered an equivalent replacement,AI
+8711,financial institution,company for financial transactions where customers deposit or withdraw money,AI
+8712,community project,project carried out jointly,AI
+8713,chief music director,leading music director of an institution,AI
+8714,generator,machine that converts mechanical energy into electrical energy,AI
+8715,Genesis,first book of Moses,AI
+8716,genetics,science and study of heredity,AI
+8717,genius,creative spirit inherent in a person,AI
+8718,genetic engineering,technology for changing genetic material,AI
+8719,geologist,scientist working in geology,AI
+8720,overall ranking,overall ranking in a competition,AI
+8721,sexual intercourse,sexual union involving penetration,AI
+8722,speed limit,setting of a maximum speed on roads,AI
+8723,amendment,change to a law,AI
+8724,gesture style,way of behavior toward others,AI
+8725,use of violence,use of violence,AI
+8726,weight class,classification of athletes by body weight,AI
+8727,Gibraltar,British overseas territory at the southern tip of Spain,AI
+8728,equation,treating and considering as equivalent,AI
+8729,Gulf state,state located on the Persian Gulf,AI
+8730,gorilla,member of the genus of great apes,AI
+8731,gravestone,memorial stone placed on a grave,AI
+8732,grenade,projectile filled with explosive charge and fuse,AI
+8733,Greek,citizen of Greece,AI
+8734,basic research,research into fundamentals without focusing on practical use,AI
+8735,groundbreaking,ceremonial start of construction,AI
+8736,goulash,stew with small pieces of meat strongly seasoned,AI
+8737,oats,cereal with loose panicles,AI
+8738,Haifa,city in Israel,AI
+8739,commercial register,public register of merchants at the registry court,AI
+8740,harp,very old string instrument with a triangular frame,AI
+8741,harmonization,action to align things or sounds,AI
+8742,hard court,playing field with hard surface often reddish sand,AI
+8743,main occupation,primary occupation providing most of the livelihood,AI
+8744,chief inspector,high police rank,AI
+8745,main part,largest and central part of a whole,AI
+8746,house entrance,entrance of a house,AI
+8747,building services,technology in a building,AI
+8748,lifter,person or device that lifts,AI
+8749,pike,elongated freshwater predatory fish with long head and strong teeth,AI
+8750,yeast,single celled fungus reproducing by budding or fission,AI
+8751,home village,small settlement one considers home,AI
+8752,local museum,museum dedicated to regional topics,AI
+8753,cheerfulness,cheerful relaxed mood,AI
+8754,female helper,female person who helps or supports someone,AI
+8755,stallion,uncastrated male of horse and related animals,AI
+8756,herring,fish with green blue back and silvery sides,AI
+8757,heart content,for pleasure and whim,AI
+8758,hypocrisy,pretending untruths; a form of lying,AI
+8759,rear axle,axle behind the vehicle center of mass holding rear wheels,AI
+8760,ambush,concealed place from which one attacks by surprise,AI
+8761,turning toward,orientation toward something with interest,AI
+8762,busy period,very strong activity,AI
+8763,high mountains,mountain range reaching over 1500 m,AI
+8764,high jump,competition where athletes jump over a bar,AI
+8765,engine displacement,volume displaced by all pistons in a combustion engine,AI
+8766,hundred,item with size value measure or number 100,AI
+8767,individual,an individual in its totality and uniqueness,AI
+8768,industrial conglomerate,large company selling industrially produced goods,AI
+8769,industrialized country,highly developed country with much industry,AI
+8770,industrialist,owner of an industrial company,AI
+8771,industrial location,location of industry,AI
+8772,infectious disease,disease caused by pathogens,AI
+8773,computer scientist,person working in computer science,AI
+8774,interior senator,senator responsible for internal affairs in city states,AI
+8775,instrumentalization,misuse of something for own purposes,AI
+8776,conflict of interest,conflict of different interests,AI
+8777,internationalization,expansion of action beyond national borders,AI
+8778,internet access,hardware and software prerequisites to access the internet,AI
+8779,interpellation,formal request for information by parliamentarians to the government,AI
+8780,Interpol,international organization for crime fighting based in Lyon,AI
+8781,investment bank,bank for investments,AI
+8782,investment program,plan for investing capital to maximize profit,AI
+8783,investment volume,totality of funds invested,AI
+8784,Irishman,citizen of Ireland,AI
+8785,annual balance,total annual accounts of a company,AI
+8786,millennium,period of 1000 years,AI
+8787,youth department,department for youth,AI
+8788,youth center,house for youth work,AI
+8789,youth hostel,simple hotel where youths can stay cheaply,AI
+8790,Yugoslavia,former state in southeastern Europe,AI
+8791,junker,young land nobleman or noble estate owner,AI
+8792,junta,military government,AI
+8793,female justice senator,female senator for justice,AI
+8794,camera team,team for filming,AI
+8795,chamber orchestra,orchestra with few musicians,AI
+8796,fighter aircraft,aircraft armed for military missions,AI
+8797,cantonal government,government of a canton,AI
+8798,potato,crop plant with white bluish flowers and green berries,AI
+8799,cash register,cash register,AI
+8800,Catholic,member of the Roman Catholic Church,AI
+8801,throat,part of the neck under the chin; throat or gullet,AI
+8802,waitress,female restaurant employee serving guests,AI
+8803,core competence,special skills or resources giving advantage,AI
+8804,child upbringing,education of young people,AI
+8805,childrens festival,celebratory event for children,AI
+8806,childrens center,facility for child care,AI
+8807,childrens home,facility where children live if they cannot with family,AI
+8808,child protection association,organization for protecting children,AI
+8809,childrens game,game for children,AI
+8810,chin,protuberance below the mouth,AI
+8811,church board,leadership of a parish,AI
+8812,kirsch,short for kirschwasser cherry brandy,AI
+8813,clarinet,woodwind instrument with cylindrical bore and single reed,AI
+8814,classroom,room where a class is taught,AI
+8815,adhesive tape,tape coated with adhesive on one or both sides,AI
+8816,glue,substance used to bond two parts,AI
+8817,climber,person or animal that climbs well,AI
+8818,climbing wall,artificial wall for climbing,AI
+8819,cliff,large rock near the coast protruding from the sea,AI
+8820,club chairwoman,chairwoman of a club or parliamentary group,AI
+8821,code,totality of rules and norms of a society,AI
+8822,carbon monoxide,very poisonous colorless odorless gas from incomplete combustion,AI
+8823,collaboration,collaboration with the enemy,AI
+8824,colossus,very large statue,AI
+8825,company,military unit of 100 to 250 soldiers,AI
+8826,compromise proposal,proposal aimed at finding a compromise,AI
+8827,consulate,representation of a state administration abroad,AI
+8828,consumer protection,protection of consumers,AI
+8829,drawback,negative consequence or effect,AI
+8830,double bass,largest and lowest string instrument in the orchestra,AI
+8831,cobblestone,paving made of rounded natural stones,AI
+8832,coupling,mechanical electromagnetic or conceptual connection,AI
+8833,cost pressure,pressure to reduce expenses to meet financial goals,AI
+8834,sick pay,money paid by health insurance when unable to work,AI
+8835,clinical picture,all symptoms characterizing an illness,AI
+8836,female district chair,chairwoman of a district,AI
+8837,cruiser,fast medium sized lightly armored warship,AI
+8838,creditor damage,financial harm to creditors during bankruptcy,AI
+8839,criminalization,classifying something as a criminal offense,AI
+8840,female critic,female person who criticizes,AI
+8841,crocodile,reptile of the order Crocodilia,AI
+8842,ballpoint pen,pen dispensing ink through a rolling ball,AI
+8843,cult figure,person admired without reservation,AI
+8844,culture office,office for culture,AI
+8845,culture senator,senator responsible for culture in city states,AI
+8846,art market,all people businesses and events trading art,AI
+8847,spa town,place where medical therapies as cures are offered,AI
+8848,price crash,strong decline of a rate,AI
+8849,price loss,loss due to falling stock prices,AI
+8850,stuffed animal,toy made of soft material modeled on an animal or fantasy creature,AI
+8851,cutter,single masted seaworthy sailer for sport and cargo transport,AI
+8852,shoplifter,person who takes items in a shop with intent to steal,AI
+8853,final approach,last flight phase from descent to touchdown and rollout,AI
+8854,landing site,small airport or landing area for helicopters or point of impact such as a probe on Mars,AI
+8855,state championship,championship at state level,AI
+8856,state party,party branch in a state,AI
+8857,landscape protection area,large designated area where the traditional landscape is preserved,AI
+8858,lance,weapon for close combat and also for throwing like a spear long pole with a hard tip,AI
+8859,truck,motor vehicle mainly for transporting goods,AI
+8860,military hospital,hospital for sick and wounded soldiers,AI
+8861,age,time a person has lived up to a point,AI
+8862,life experience,insights acquired through events of a life,AI
+8863,loam,quartz rich lime free clay rich in iron compounds good for ceramics and bricks,AI
+8864,teaching office,office held by teachers,AI
+8865,master teacher,person who trains someone in theory and practice,AI
+8866,regret,feeling of regret,AI
+8867,guiding principle,model presentation an ideal worth striving for,AI
+8868,leitmotif,artistic device recurring throughout a work,AI
+8869,Leslie,given name,AI
+8870,Latvian,inhabitant of Latvia short form,AI
+8871,liaison,combination or connection of partners or objects,AI
+8872,liberalism,19th century worldview rooted in individualism emphasizing freedom autonomy responsibility and personal development,AI
+8873,string lights,several lights on a common holder,AI
+8874,heartache,sadness due to threatened or failed love,AI
+8875,Lombardy,region in northern Italy,AI
+8876,air pressure,force exerted by the mass of the atmosphere on a unit area,AI
+8877,lyric poetry,literary art form of poetry,AI
+8878,macho,man who presents himself as overly masculine,AI
+8879,mammary gland,organ of milk production in mammals,AI
+8880,St Marys church,church dedicated to Mary the mother of Jesus,AI
+8881,marionette,puppet moved by strings,AI
+8882,marble,very hard often veined limestone used for sculpture and building,AI
+8883,martyrdom,heavy suffering,AI
+8884,massage,therapy or relaxation by pressing kneading and stroking body parts,AI
+8885,seawater,salt water that makes up the seas,AI
+8886,additional burden,additional burden,AI
+8887,human rights advocate,person who works for human rights,AI
+8888,message,message in English,AI
+8889,fair city,city where fairs are regularly held,AI
+8890,Messiah,Messiah promised to Jews in the Old Testament and linked to Jesus,AI
+8891,mead,spiced fermented honey diluted with water,AI
+8892,trade,field of work someone has learned,AI
+8893,tenants association,association of tenants,AI
+8894,microgram,one millionth of a gram,AI
+8895,ministerial office,office of a minister,AI
+8896,middle class,middle social or technical class,AI
+8897,shared responsibility,shared responsibility,AI
+8898,poppy,plant genus with flowers and four large thin petals,AI
+8899,dairy,plant for processing milk,AI
+8900,monthly salary,salary per month,AI
+8901,monument,large stone memorial also of other materials,AI
+8902,attempted murder,attempt to commit murder,AI
+8903,trough,elongated rounded vessel with a shallow hollow made from one piece,AI
+8904,muse,ancient Greek goddess of the arts and sciences,AI
+8905,music festival,festival of music,AI
+8906,music industry,industry for mass production and exploitation of music on recordings,AI
+8907,muscle,organ that moves internal and external structures by contracting and relaxing,AI
+8908,mutation,change in genetic material by altering base sequence or chromosome number not due to recombination or segregation,AI
+8909,neighboring municipality,municipality located next to another,AI
+8910,posterity,future generations,AI
+8911,national library,central scholarly book collection of a state that collects and archives national literature,AI
+8912,national gallery,museum for national art,AI
+8913,National Council member,member of the National Council,AI
+8914,national theater,state theater,AI
+8915,temperament,peculiar character disposition,AI
+8916,Neanderthal,extinct relative of modern humans in genus Homo,AI
+8917,reconstruction,building anew,AI
+8918,newcomer,person who starts something new or a new job,AI
+8919,new version,new version or edition,AI
+8920,Nicosia,capital of Cyprus,AI
+8921,nun,member of a female religious order,AI
+8922,emergency exit,exit of a building to be used in an emergency,AI
+8923,walnut tree,deciduous tree from the walnut family,AI
+8924,senior physician,doctor in a leading position,AI
+8925,upper league club,sports club in an upper league,AI
+8926,Upper Rhine,region on the Upper Rhine,AI
+8927,authorities,responsible holders of state or church power,AI
+8928,observatory,place for space observation with scientific instruments,AI
+8929,obsession,very strong emotional enthusiasm for a topic hobby work or action,AI
+8930,ode,lyric with musical accompaniment,AI
+8931,affidavit of disclosure,oath where debtor declares assets and inability to pay,AI
+8932,bus,public transport for passenger transport,AI
+8933,organist,person who plays the organ,AI
+8934,Orient,region including at least the Near East and possibly Middle East Far East North Africa and Russia,AI
+8935,orientation aid,something that helps with orientation,AI
+8936,townscape,view a settlement presents,AI
+8937,pairing,formation of a pair,AI
+8938,lease,contractual transfer of a thing for use against money,AI
+8939,panic mongering,attempt to artificially cause panic,AI
+8940,Parma,city in Italy,AI
+8941,party base,large body of voting party members without office,AI
+8942,parcel,surveyed plot of land with defined ownership,AI
+8943,patriarch,title for a highest ranking clergyman,AI
+8944,cartridge,cylindrical metal case containing propellant and projectile for firearms,AI
+8945,pacifism,ideology rejecting war and violence and advocating peace,AI
+8946,Pegasus,winged horse from Greek mythology,AI
+8947,whip,long flexible stick with a cord or strap used to drive draft animals or punish,AI
+8948,fur,animal hide with hair,AI
+8949,personal union,union of several offices in one person,AI
+8950,petit,small delicate in French,AI
+8951,parish,community of believers with a pastor,AI
+8952,pfennig,historic German coin subunit of various currencies,AI
+8953,flora,plants present in a region or epoch,AI
+8954,care worker,person caring for people in nursing home or hospital,AI
+8955,gate,small door or entrance gate,AI
+8956,heavy drinker,person who regularly drinks large amounts of alcohol,AI
+8957,pioneering work,work that decisively advances something,AI
+8958,planning approval procedure,procedure for planning approval,AI
+8959,plateau,flat area on a height or mountain,AI
+8960,record label,company that produces records and media,AI
+8961,space available,available space,AI
+8962,chat,casual conversation,AI
+8963,polemic,public sharp dispute aiming to morally discredit the opponent,AI
+8964,portrait,depiction of a person often as a painting,AI
+8965,post office,single branch or office of the postal service,AI
+8966,pricing policy,policy of price setting,AI
+8967,private clinic,clinic in private ownership,AI
+8968,private school,school in private not state ownership,AI
+8969,test drive,drive to try a vehicle or check for damage,AI
+8970,production site,place of production,AI
+8971,professional league,professional sports league,AI
+8972,prologue,introduction to a drama or performance,AI
+8973,prophet,person called by a god to proclaim messages of a religion,AI
+8974,prophecy,act or content of predicting,AI
+8975,audience magnet,person event attraction or sight that draws many visitors,AI
+8976,poodle,medium sized dog breed with often curly coat,AI
+8977,puzzle,game of assembling a cut up picture,AI
+8978,pyramid,geometric body with polygon base and triangular sides meeting at a point,AI
+8979,python,snake of the Pythonidae family,AI
+8980,quantum leap,sudden transition between quantum states,AI
+8981,quintet,group of five musicians,AI
+8982,field strip,strip of field without crops on the boundary of two fields,AI
+8983,ranch,large scale livestock farm,AI
+8984,advice,specific recommendation to solve a problem,AI
+8985,rat,mouse like rodent,AI
+8986,spatial planning,planning for the targeted use of an area,AI
+8987,grape variety,grape varieties bred from wild grapevines,AI
+8988,final accounting,final settlement,AI
+8989,right wing extremist,person on the far right of the political spectrum,AI
+8990,reformer,person who wants to improve something,AI
+8991,reform process,process of reform,AI
+8992,rainy season,period in the tropics with much rain,AI
+8993,reggae,Jamaican music style,AI
+8994,friction,force opposing relative motion of contacting bodies,AI
+8995,terraced house,one of several houses built in a row,AI
+8996,riding hall,hall for riding,AI
+8997,relief,forms of the earth surface,AI
+8998,religious education,class in religion focused on a specific faith,AI
+8999,rendezvous,meeting or date with romantic intent,AI
+9000,racing,all sports with speed competitions,AI

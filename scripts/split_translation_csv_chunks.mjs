@@ -4,7 +4,7 @@ import path from "node:path";
 
 function parseArgs(argv = process.argv.slice(2)) {
   const args = {
-    chunkSize: 100,
+    chunkSize: 500,
     input: "",
     outDir: "",
     prefix: "chunk",
@@ -111,6 +111,13 @@ function padNumber(value, width) {
   return String(value).padStart(width, "0");
 }
 
+async function clearDirectory(dirPath) {
+  const entries = await fs.readdir(dirPath, { withFileTypes: true });
+  await Promise.all(
+    entries.map(entry => fs.rm(path.join(dirPath, entry.name), { recursive: true, force: true })),
+  );
+}
+
 async function main() {
   const args = parseArgs();
   if (args.help) {
@@ -142,6 +149,7 @@ async function main() {
   const chunkPad = Math.max(3, String(totalChunks).length);
 
   await fs.mkdir(outDirPath, { recursive: true });
+  await clearDirectory(outDirPath);
 
   for (let index = 0; index < totalChunks; index += 1) {
     const start = index * args.chunkSize;

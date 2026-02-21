@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-2101,living room,room for daily living in a house or apartment,AI
-2102,impact,transfer of momentum and strong intensity of energy,AI
-2103,payment,act of paying,AI
-2104,fence,fence made of wire or metal or wood bars to enclose an area,AI
-2105,schedule,planned timeline,AI
-2106,central bank,bank with monetary policy tasks of a country,AI
-2107,ceremony,solemn ritual act,AI
-2108,female witness,female person who saw or perceived something and can confirm it,AI
-2109,target group,group to be reached by a certain action or advertising,AI
-2110,carpenter,construction craftsman who works with wood,AI
-2111,sugar,sweet food obtained from plants,AI
-2112,approval,process of approval or permission,AI
-2113,increase,process of increasing in amount or volume,AI
-2114,interaction,cooperative interaction among persons in play or sports,AI
-2115,entry,act of entering a building area or room,AI
-2116,confidence,firm belief that something positive will happen,AI
-2117,growth,increase in size or value,AI
-2118,twenty,natural number between nineteen and twenty one,AI
-2119,tack,short nail with a wide head,AI
-2120,incident,unforeseen disruptive event,AI
-2121,termination,ending of something,AI
-2122,dinner,meal eaten at the end of the day,AI
-2123,Abitur,final exam at higher school,AI
-2124,turning away,ceasing to follow a direction; distancing from a person,AI
-2125,subscription,subscription,AI
-2126,deterrence,inducing fear to prevent something,AI
-2127,agreement,understanding about future actions or omissions,AI
-2128,relegation battle,fight to avoid relegation to a lower league,AI
-2129,absence,state of not being physically present,AI
-2130,withdrawal,troop withdrawal; tactical movement,AI
-2131,eagle,large birds of prey from the hawk family,AI
-2132,aggression,action against someone or something,AI
-2133,airline,company transporting passengers by airplane,AI
-2134,actor,person who acts,AI
-2135,share price,current trading value of a share,AI
-2136,nightmare,unpleasant dream,AI
-2137,avenue,long straight road lined with trees on both sides,AI
-2138,retirement provision,measures to secure living standards after leaving work,AI
-2139,aluminum,chemical element; silvery lightweight metal,AI
-2140,ambience,"surroundings, atmosphere of a place",AI
-2141,rampage,spree of violence by an amok runner,AI
-2142,cultivation,cultivation of useful or ornamental plants,AI
-2143,tethering,fastening of animals or movable parts with chains or ropes,AI
-2144,influx,large influx of people,AI
-2145,statement,"statement, claim, or information",AI
-2146,increase,raising to a higher value,AI
-2147,contact point,institution or person to turn to for help or support,AI
-2148,bonds,plural of Anleihe,AI
-2149,instructions,written explanation how to use something,AI
-2150,purchase,acquisition of something,AI
-2151,participation,participation in a competition,AI
-2152,user,person who uses or applies something,AI
-2153,presence,state of being present,AI
-2154,approach,act of drawing or moving closer,AI
-2155,pharmacy,shop selling medicines and remedies,AI
-2156,chamber of labor,representation of employees,AI
-2157,working group,group of people working together,AI
-2158,working time,fixed period in which work is performed,AI
-2159,architect,trained professional who plans buildings,AI
-2160,archive,collection of historically or otherwise significant documents,AI
-2161,argumentation,presentation of arguments to support a thesis; reasoning,AI
-2162,ash,combustion residue,AI
-2163,asphalt,mixture of bitumen and minerals used in road construction,AI
-2164,breath,air stream exhaled from the lungs,AI
-2165,Athens,capital of Greece,AI
-2166,Atlantic,ocean between America and Europe/Africa,AI
-2167,nuclear program,plan for the civilian or military use of nuclear power,AI
-2168,assassination,"murder or attempted murder of a public, usually political, figure or a group",AI
-2169,opinion,personal assessment; way someone understands something,AI
-2170,marriage banns,public notice of a marriage,AI
-2171,abolition,ending or abolishing something previously existing,AI
-2172,catch-up,effort to make up a deficit,AI
-2173,impact,"striking, hitting hard on a fall",AI
-2174,supervision,"observation, control, oversight",AI
-2175,endurance,ability to persevere for a long time,AI
-2176,exit,place where one can leave by driving,AI
-2177,initial situation,situation before the start,AI
-2178,starting point,beginning or origin of something,AI
-2179,livelihood,means to cover daily needs,AI
-2180,utilization,"capacity utilization, workload",AI
-2181,delivery,delivery or extradition,AI
-2182,state of emergency,extraordinary situation; exception to the normal state,AI
-2183,exhibitor,person who exhibits something; participant in an exhibition,AI
-2184,withdrawal,"leaving an organization, party, company, or association",AI
-2185,car maker,person or company that builds cars,AI
-2186,car manufacturer,company that produces cars,AI
-2187,automation,process of transferring work from humans to machines,AI
-2188,automobile industry,industry for manufacturing and servicing automobiles and other motor vehicles,AI
-2189,excavator,machine for digging or removing earth or rubble,AI
-2190,platform,platform beside the tracks for boarding trains,AI
-2191,bandwidth,range of varieties or scope of something,AI
-2192,banner,flag fixed to a crossbar and the flagpole,AI
-2193,barrel,"unit of volume; various imperial and US barrels, including for oil or brewing",AI
-2194,beard,facial hair,AI
-2195,basketball,team sport throwing a ball through a hoop,AI
-2196,battery,energy storage and power source based on chemical to electrical conversion,AI
-2197,farm,"small agricultural operation with house, barns, yard, and fields",AI
-2198,building block,stone for building walls or structures,AI
-2199,structure,immovable object built by humans,AI
-2200,construction time,time required for building,AI
+10501,sporting event,significant sporting event,AI
+10502,sports festival,festive sports event,AI
+10503,sports studio,sports newsroom or studio,AI
+10504,Sprenger,surname also destroyer,AI
+10505,state exam,final exam in certain German programs taken by state examiners,AI
+10506,city state,state consisting only of the territory of a city and its surroundings,AI
+10507,standard work,book considered authoritative in a field,AI
+10508,stand dative,dative singular of the noun stand,AI
+10509,jump start,help to start such as a car jump start,AI
+10510,engraver,person who makes engravings for printing plates,AI
+10511,hobby horse,old fashioned childrens toy a stick with a horse head,AI
+10512,step,step dance step in English,AI
+10513,tax law,legal regulation that concerns taxes,AI
+10514,stigma,conspicuous often negatively rated feature,AI
+10515,stylistic device,deliberate form that draws attention to a main statement,AI
+10516,brief visit,short visit,AI
+10517,stool,simple seat without backrest,AI
+10518,foray,movement on foot or vehicle in an area,AI
+10519,disputed case,matter that becomes a dispute,AI
+10520,strip,striptease,AI
+10521,electricity market,market for electricity,AI
+10522,Struck,surname,AI
+10523,stucco,material made from mortar sand lime and or gypsum,AI
+10524,study place,place or admission to a course of study,AI
+10525,period of study,time period during which someone studies,AI
+10526,storm surge,water piled up by storm at coasts causing flooding and damage,AI
+10527,subsidization,financial support by the state often direct payments tax breaks or loans,AI
+10528,addictive drug,harmful substance leading to dependence,AI
+10529,superlative,highest degree of comparison of adjectives and some adverbs,AI
+10530,swimming pool,pool filled with clear chlorinated water for swimming often private,AI
+10531,tobacco tax,tax levied on the distribution of tobacco products,AI
+10532,taboo topic,topic that must not be spoken about,AI
+10533,dam system,installation consisting of a dam a reservoir and other facilities,AI
+10534,dancing talent,talent for dancing,AI
+10535,dance music,rhythmic music suitable for dancing,AI
+10536,wallpaper,wall covering made of thin flexible material glued to a wall,AI
+10537,calculator,handheld electronic calculator,AI
+10538,complexion,state and color of facial skin,AI
+10539,schedule,plan for the timing of a course of events,AI
+10540,testosterone,hormone responsible for male characteristics,AI
+10541,textile industry,all companies that make textiles or provide textile services,AI
+10542,animal feed,food given to animals,AI
+10543,female title defender,female person defending a title,AI
+10544,tomato,plant species solanum lycopersicum of the nightshade family,AI
+10545,concert hall,concert hall,AI
+10546,pitch,pitch or vocal tone,AI
+10547,top manager,manager in leading position with very high income,AI
+10548,tourism industry,industry focused on selling travel,AI
+10549,trampoline,springy sports device for jumps,AI
+10550,memorial service,religious service for the deceased before burial,AI
+10551,tragic drama,literary genre of drama with tragic ending,AI
+10552,tribunal,raised place for the judge,AI
+10553,driving spring,spring that triggers the drive of something,AI
+10554,small consolation,small compensation that helps over a great disappointment or loss,AI
+10555,fool,stupid person,AI
+10556,tube,flexible container for thick substances with a cap,AI
+10557,type character,single element of a typeface,AI
+10558,overview,overview,AI
+10559,transshipment point,place where goods are transferred between transport modes,AI
+10560,Hungarian woman,female citizen of Hungary,AI
+10561,ignorance,lack of knowledge about a field,AI
+10562,subconscious,part of the psyche not directly accessible to consciousness,AI
+10563,consumer electronics,group of electronic devices for entertainment,AI
+10564,lower abdomen,lower part of the belly usually in humans,AI
+10565,incompatibility,state where two or more things exclude each other,AI
+10566,vacation country,country where people take vacation,AI
+10567,vacation day,day off granted by employer,AI
+10568,primeval forest,natural original forest without major human intervention,AI
+10569,female organizer,female person who prepares an event,AI
+10570,association head,head of an association,AI
+10571,order of merit,award for special merits such as civic or military,AI
+10572,standardization,making something similar or identical,AI
+10573,revenue collection,receipt of money,AI
+10574,narrowing,process of narrowing,AI
+10575,code of conduct,set of rules or principles determining behavior,AI
+10576,transport planning,planning of traffic,AI
+10577,traffic fatalities,dead in road traffic,AI
+10578,contracting partner,person entering mutual obligations,AI
+10579,contract corpus,totality of contracts,AI
+10580,length of stay,duration of stay,AI
+10581,quarter million,250000,AI
+10582,bird species,group of birds sharing key traits with fertile offspring,AI
+10583,people's hall,house for the people or event venue,AI
+10584,representative,person elected as a representative,AI
+10585,economist,economist,AI
+10586,lecture,course at a university where a lecturer speaks on a topic,AI
+10587,opening program,program before the main part,AI
+10588,device,tool or apparatus for a specific purpose,AI
+10589,right to propose,right to make suggestions,AI
+10590,tryout,playing or performing before others to have ones skills judged,AI
+10591,board meeting,meeting of board members of an organization,AI
+10592,imagination,ability to imagine a person object or scene vividly,AI
+10593,going first,act of setting off before another person,AI
+10594,area code,number prefix for certain places and countries,AI
+10595,volcanic eruption,eruption of lava rock and ash,AI
+10596,growth market,market with economic growth,AI
+10597,weapons embargo,embargo intended to prevent arms deliveries,AI
+10598,risk,condition with danger or action involving conscious risk,AI
+10599,election year,year in which an election takes place,AI
+10600,campaign issue,topic important in an election campaign,AI
+10601,electorate,totality of eligible voters,AI
+10602,candidate proposal,proposal for election candidates,AI
+10603,pilgrimage,journey or procession to a pilgrimage site for religious reasons,AI
+10604,wandering,longer wandering,AI
+10605,hydroelectric plant,power plant using water to generate electricity,AI
+10606,change,money returned in a cash payment after deducting the price,AI
+10607,interaction,mutual influence,AI
+10608,weekend,period covering Saturday and Sunday as non working days,AI
+10609,distance,length of a path,AI
+10610,hunter,hunter,AI
+10611,continued construction,act of continuing a started construction,AI
+10612,world elite,those who achieve the best performances worldwide in a field,AI
+10613,world music,music style blending western pop with traditional non western music,AI
+10614,advertising agency,company that creates advertising for others,AI
+10615,wasp,black and yellow stinging insect of paper wasps with folded forewings,AI
+10616,west motorway,motorway toward the west,AI
+10617,competitive pressure,pressure from competition,AI
+10618,distortion of competition,distortion of competition by unfair advantage,AI
+10619,recycling,reuse or recycling,AI
+10620,diaper,absorbent worn close to the body for urine or feces,AI
+10621,chaos,chaotic process or state,AI
+10622,economic committee,committee dealing with economic policy topics,AI
+10623,economic researcher,person researching the economy,AI
+10624,business enterprise,company of the economy,AI
+10625,economic representative,representative of the economy,AI
+10626,industry sector,group of companies producing related products and services,AI
+10627,science minister,head of a science ministry,AI
+10628,residential quarter,residential area or quarter,AI
+10629,Wonderland,fairy tale land,AI
+10630,miracle cure,remedy with extremely high effect,AI
+10631,tick,parasitic arachnid,AI
+10632,time bomb,bomb with a time fuse,AI
+10633,calendar system,structure of the calendar,AI
+10634,zentner,unit of 50 kilograms,AI
+10635,target specification,predefined target,AI
+10636,citadel,inner strongest part of a fortress,AI
+10637,feeder,means of transport to reach a longer distance route,AI
+10638,allowance,something added additionally,AI
+10639,compensation,settlement or compensation,AI
+10640,derivation,forming new words with grammatical morphemes (except inflection),AI
+10641,parking space,place to park vehicles,AI
+10642,compartment,separate section in a building,AI
+10643,arable farming,land use based on cultivation and crop production,AI
+10644,farewell,parting greeting,AI
+10645,female agent,"female person who provides brokerage services; intermediary, sales agent",AI
+10646,agitation,political outreach or propaganda,AI
+10647,agriculture minister,head of a ministry of agriculture,AI
+10648,acupuncture,traditional Chinese therapy with needles inserted into the skin,AI
+10649,alga,"lower plant organism, often aquatic, unicellular or multicellular",AI
+10650,one-man entertainer,performer who appears alone,AI
+10651,general education,"basic, non-specialized education; general knowledge",AI
+10652,amok,extreme psychological state with violent behavior,AI
+10653,analogy,similarity or correspondence,AI
+10654,anarchy,society without rulers or ruling classes,AI
+10655,filing of an indictment,bringing of a formal charge,AI
+10656,advertisement,ad in a newspaper or magazine,AI
+10657,view,way of looking at or interpreting something,AI
+10658,antisemite,person hostile toward Jews or Judaism,AI
+10659,macaw,New World long-tailed parrot,AI
+10660,labor movement,organized association of dependent workers aiming to improve working and living conditions,AI
+10661,work program,what needs to be done or worked on,AI
+10662,asshole,anus,AI
+10663,association,group loosely joined for a purpose; organization founded for a purpose,AI
+10664,astronaut,space traveler participating in a space flight,AI
+10665,dummy,deceptive replica without full function of the original,AI
+10666,attribute,optional modifier in a sentence element,AI
+10667,supervisor,person who guards or oversees,AI
+10668,promotion match,match for promotion,AI
+10669,order volume,scope of orders,AI
+10670,eyebrow,hairy arch above the eyes,AI
+10671,training year,one-year period of training in company and vocational school,AI
+10672,outsourcing,transfer of production or administrative processes to partners,AI
+10673,excretion,term for metabolic processes in biology and medicine and resulting products like feces and urine,AI
+10674,oyster,mollusk whose interior is edible and considered a delicacy,AI
+10675,car radio,radio installed in a car,AI
+10676,hour's drive,distance a car covers in one hour,AI
+10677,swimsuit,"one-piece garment worn for swimming, covering the front of the torso",AI
+10678,badminton,racket sport played with a shuttlecock,AI
+10679,train journey,trip by train,AI
+10680,dance hall,building for balls or dance events,AI
+10681,band leader,leader of a band,AI
+10682,band member,person who belongs to a music group,AI
+10683,banking supervision,supervision of banks,AI
+10684,bank,bank; banking firm,AI
+10685,barbarism,"unbridled brutality, vandalism",AI
+10686,Basque Country,region in northern Spain and southwestern France,AI
+10687,bastion,advanced defensive point of a fortress,AI
+10688,battalion,military unit composed of subunits of a branch of service,AI
+10689,architectural monument,building designated as a monument,AI
+10690,construction conglomerate,very large company in the construction industry,AI
+10691,minister of construction,head of a construction ministry,AI
+10692,beach volleyball,volleyball played on sand,AI
+10693,liberator,person who frees someone or something from constraint,AI
+10694,pacification,measure that suppresses or resolves a conflict,AI
+10695,event,something that happened,AI
+10696,dwelling,"simple, plain, sometimes makeshift accommodation",AI
+10697,control,exercise of control over something or someone,AI
+10698,instruction,imparting knowledge; admonition,AI
+10699,assessment base,basis for determining tax liability,AI
+10700,clean-up,removal of disturbing or superfluous elements,AI
+10701,professional profile,set of features and tasks of a profession,AI
+10702,employers' liability insurance,carrier of statutory accident insurance for private companies,AI
+10703,occupational group,group of professions with common characteristics,AI
+10704,insult,act of insulting,AI
+10705,seizure,confiscation by official order,AI
+10706,squatter,male person who unlawfully occupies something,AI
+10707,ideal cast,ideal casting or lineup,AI
+10708,operating company,company that operates something,AI
+10709,work climate,workplace atmosphere affecting morale,AI
+10710,female works council chair,chairwoman of the works council,AI
+10711,guard,person who guards,AI
+10712,district advisory board,advisory committee of a district,AI
+10713,district council assembly,assembly of district councillors,AI
+10714,biathlete,athlete who practices biathlon,AI
+10715,low-cost airline,airline offering very low prices,AI
+10716,biodiesel,fuel for diesel engines made from renewable raw materials,AI
+10717,birch,representative of the genus Betula,AI
+10718,paleness,state of being pale,AI
+10719,pencil,writing instrument made of wood with a graphite core,AI
+10720,blindness,inability to see,AI
+10721,flash,brief very bright light used in photography,AI
+10722,floral decoration,decoration made of flowers,AI
+10723,bomb attack,attack carried out with a bomb,AI
+10724,bon mot,witty remark or saying,AI
+10725,onboard computer,computer in a vehicle,AI
+10726,fallow land,uncultivated field,AI
+10727,fire disaster,fire with major personal or material damage,AI
+10728,breaking machine,device for breaking material,AI
+10729,brakeman,person who brakes vehicles,AI
+10730,Breslau,German name of the city Wroclaw,AI
+10731,postage stamp,adhesive stamp used to pay postal fees,AI
+10732,bronchitis,inflammation of the bronchi,AI
+10733,brood,act of brooding or incubation,AI
+10734,bookkeeper,person working in accounting,AI
+10735,bookmaker,person offering bets with odds,AI
+10736,budgeting,planning a budget,AI
+10737,Bulgarian,person from Bulgaria,AI
+10738,bulletin,official published statement,AI
+10739,boomerang,flat throwing object that returns to the thrower,AI
+10740,Federal Garden Show,national gardening exhibition,AI
+10741,Federal Ministry of Defence,federal defense ministry,AI
+10742,young man,young man,AI
+10743,bosom,female breast and cleavage,AI
+10744,cafe,coffeehouse; cafe,AI
+10745,Canberra,capital of Australia,AI
+10746,caravan,caravan,AI
+10747,cheerleader,person who encourages applause,AI
+10748,editor-in-chief,editor-in-chief,AI
+10749,chronicler,person who writes a chronicle,AI
+10750,Coca-Cola,bottle of Coca-Cola,AI
+10751,Colt,revolver,AI
+10752,Connecticut,U.S. state,AI
+10753,container ship,freight ship for containers,AI
+10754,controlling,department for internal accounting,AI
+10755,color,optical appearance of visible radiation; a color,AI
+10756,cowboy,trigger-happy western hero,AI
+10757,steamship,ship driven by a steam engine,AI
+10758,deflation,general and lasting fall in prices with delayed purchasing,AI
+10759,decadence,"decline, moral or cultural decay",AI
+10760,denial,official refutation of a claim,AI
+10761,female demonstrator,female person participating in a demonstration,AI
+10762,German class,class focused on German language and literature,AI
+10763,service sector,service sector,AI
+10764,service company,company offering services for pay,AI
+10765,business trip,trip on official duty,AI
+10766,defamation,targeted slander of others,AI
+10767,direct election,voting directly for a candidate,AI
+10768,discus,throwing disc in athletics,AI
+10769,doctoral candidate,student seeking a doctorate,AI
+10770,dagger,knife with two edges,AI
+10771,double murder,murder of two people,AI
+10772,village church,rural church,AI
+10773,rotation speed,number of rotations per time unit,AI
+10774,third state,state outside an alliance,AI
+10775,drug policy,political measures regarding drugs,AI
+10776,Dubrovnik,city in Croatia,AI
+10777,ductus,"line style in writing, drawing, and painting",AI
+10778,average income,arithmetic average income of a group,AI
+10779,Eicher,surname,AI
+10780,self-interest,interest driven by one's own advantage,AI
+10781,life of its own,development taking its own path,AI
+10782,self-promotion,advertising for oneself,AI
+10783,submission,introduction or contribution,AI
+10784,intruder,person who gains unwanted access,AI
+10785,stew,dish cooked and served in a single pot,AI
+10786,individual performance,individual performance,AI
+10787,single room,room for one person,AI
+10788,railway worker,employee of a railway company,AI
+10789,figure skating,form of skating with artistic figures and jumps,AI
+10790,ice stadium,stadium for ice sports,AI
+10791,parent council,parents' committee,AI
+10792,parents' association,organized group of parents supporting a school,AI
+10793,gallery,elevated gallery or tribune,AI
+10794,final settlement,final accounting,AI
+10795,final product,final product not further processed,AI
+10796,decision process,process of a decision,AI
+10797,determination,determination,AI
+10798,pressure to succeed,pressure to be successful,AI
+10799,lack,"only used in the phrase ""in Ermangelung""",AI
+10800,conqueror,person who takes territory by force,AI
+10801,arousal,state of nervous excitement,AI
+10802,ore,naturally occurring metal bearing minerals and mixtures from which metals are obtained by smelting,AI
+10803,stage finish,finish of a stage,AI
+10804,Ethernet,standard for wired data transmission for local area networks,AI
+10805,ethnic group,group of people who feel belonging to a culture language or religion,AI
+10806,ethos,overall attitude toward moral values,AI
+10807,labeling fraud,fraud through false or misleading labeling of a product or matter,AI
+10808,evergreen,old but still very popular and well known piece of music,AI
+10809,exam,examination to complete a course of training or a section of it,AI
+10810,expert group,group of experts,AI
+10811,exhibit,object presented in an exhibition,AI
+10812,driving performance,performance while driving,AI
+10813,fanaticism,ruthless uncompromising effort to enforce what one believes is right,AI
+10814,fascist,supporter of the fascist ideology or fascism,AI
+10815,handgun,short portable firearm held and operated with one hand,AI
+10816,missed blow,blow that misses its target,AI
+10817,cowardice,cowardly trait of fear or shyness before any danger or risk,AI
+10818,hostility,feeling of enmity,AI
+10819,television film,film shown on TV and produced specifically for this medium,AI
+10820,flint,stone used especially in the Stone Age for tools and to make fire,AI
+10821,baptism of fire,first severe test,AI
+10822,fiddle,historical bowed string instrument,AI
+10823,branch network,totality of branches of a company in a given area,AI
+10824,film art,totality of efforts and institutions for artistic design of films,AI
+10825,film stock,physical carrier of photographic recordings,AI
+10826,film museum,museum of film history,AI
+10827,film project,plan for a new film,AI
+10828,film director,person who directs films,AI
+10829,film studio,room or building where films are produced,AI
+10830,final match,match between two participants that determines the overall winner,AI
+10831,financial aid,money support granted by a public body such as a city or state,AI
+10832,financing model,model for financing,AI
+10833,financial distress,situation with little money available,AI
+10834,finesse,particularly sophisticated approach,AI
+10835,flipper,forelimbs of whales and sea turtles,AI
+10836,flight ticket,document that entitles someone to take a specific flight,AI
+10837,research facility,institution where research is done,AI
+10838,tailcoat,formal black mens jacket with tails,AI
+10839,group colleague,colleague in a parliamentary group,AI
+10840,female Frankfurter,female resident of the city of Frankfurt,AI
+10841,free trade zone,area of several states with agreed free trade,AI
+10842,open field,uncovered cultivation area outdoors,AI
+10843,leisure offer,offer for leisure activities,AI
+10844,radio building,building with facilities important for broadcasting,AI
+10845,husband,husband,AI
+10846,juggler,person who performs tricks for an audience,AI
+10847,counterargument,argument against another,AI
+10848,opposing candidate,candidate competing with another,AI
+10849,cash flow,smooth flow of financial transactions,AI
+10850,female scholar,female person with extensive knowledge in a field,AI
+10851,joint,movable connection of bones,AI
+10852,municipal code,law that defines how municipalities are organized,AI
+10853,massacre,simultaneous killing of many people,AI
+10854,consulate general,independent consular mission of a sovereign state,AI
+10855,general contractor,main contractor for a construction project,AI
+10856,nape,back of the neck,AI
+10857,cooperative bank,bank that is a cooperative or joint stock company,AI
+10858,forensic physician,doctor of forensic medicine,AI
+10859,history science,science that researches and teaches human history,AI
+10860,journeyman,craftsman who has passed the journeyman exam,AI
+10861,board game,game played by two or more people for leisure or pleasure,AI
+10862,point of view,way something is viewed,AI
+10863,goldsmith,person who works gold into jewelry,AI
+10864,deity,supernatural being worshiped by humans,AI
+10865,borderland,area at a border,AI
+10866,groschen,thick silver coin minted in Germany from 14th to 19th century,AI
+10867,crypt,stone chamber where a coffin is buried,AI
+10868,share capital,financial base stock for an enterprise,AI
+10869,ground plan,vertical projection of an object onto a horizontal plane,AI
+10870,principle decision,fundamental decision,AI
+10871,half brother,brother sharing only one parent,AI
+10872,half board,travel stay with breakfast and one meal per day,AI
+10873,dump,man made mound or heap,AI
+10874,trading house,company that engages in trade,AI
+10875,trading company,business engaged in trade,AI
+10876,harmonica,instrument producing tones by air through bellows or breath,AI
+10877,main concern,central most important concern,AI
+10878,budget policy,policy of budget management,AI
+10879,boom,upswing or increase in economic conditions,AI
+10880,splendor,something that cannot be more pleasant or great,AI
+10881,Parnassia,plant of the genus Parnassia,AI
+10882,hunt,chase where game is hunted with dogs,AI
+10883,slash,heavy blow with a sharp object,AI
+10884,rear part,back part of the body used for sitting,AI
+10885,hit parade,ranking of hits by popularity,AI
+10886,logging road,road primarily for transporting wood that often ends in a forest,AI
+10887,hotel chain,company operating many hotels,AI
+10888,company,unit of about one hundred persons,AI
+10889,horn,device producing a warning or signal sound,AI
+10890,hypnosis,procedure to put someone into a hypnotic state,AI
+10891,hysteria,neurotic disorder or neurosis,AI
+10892,imagination,ability to vividly imagine something,AI
+10893,real estate company,company for real estate,AI
+10894,importer,merchant who imports goods from abroad,AI
+10895,industrial plant,totality of buildings facilities and machines of an industrial operation,AI
+10896,industry minister,minister responsible for industry,AI
+10897,industry sector,group of companies producing related goods or services,AI
+10898,information flow,flow of information,AI
+10899,information source,person or place where one can get information,AI
+10900,information office,place or institution where information is obtained,AI
+10901,incompetence,lack of skills or competence,AI
+10902,inspector,person who checks something thoroughly,AI
+10903,inspector,person who inspects,AI
+10904,interest representative,representative of interests,AI
+10905,intolerance,intolerance toward another opinion or attitude,AI
+10906,investment sum,total amount of investments,AI
+10907,investment banking,field of investment banking,AI
+10908,jacket,short close fitting mens jacket,AI
+10909,yearbook,annual book of an institution with events and contributions,AI
+10910,midyear,middle part of a year,AI
+10911,annual program,program for a year,AI
+10912,annual conference,meeting of a group held once a year,AI
+10913,grade level,school grade of a cohort,AI
+10914,jazz musician,person who plays jazz professionally,AI
+10915,youth home,home for youths,AI
+10916,youth leader,leader of a youth group,AI
+10917,Art Nouveau,art style around 1900 with plant motifs and curved lines,AI
+10918,young entrepreneur,entrepreneur of young age running a company,AI
+10919,Kalashnikov,automatic rifle with long magazine,AI
+10920,chamber music,instrumental music in small ensembles,AI
+10921,pulpit,raised platform in a church for preaching,AI
+10922,capital investment,investment of capital,AI
+10923,Kappel,place name; name of several places,AI
+10924,collision,collision of vehicles,AI
+10925,chestnut avenue,avenue lined with chestnut trees,AI
+10926,Caucasus,mountain region between Europe and Asia,AI
+10927,caviar,cleaned and salted roe of sturgeon species,AI
+10928,chalice,slender drinking vessel with high stem,AI
+10929,core area,central area,AI
+10930,core territory,central essential part of a country or region,AI
+10931,keyboard player,person who plays the keyboard,AI
+10932,child seat,seat adapted to children for safe transport,AI
+10933,church asylum,asylum granted by a church community,AI
+10934,nave,main longitudinal space in a church,AI
+10935,church tax,tax collected for religious communities in some states,AI
+10936,farce,loud nonsense,AI
+10937,class teacher,teacher responsible for a class,AI
+10938,tedious work,work that progresses slowly step by step,AI
+10939,wisdom,ability or wisdom,AI
+10940,kink,sharp bend with very small radius,AI
+10941,culinary art,art and craft of preparing food,AI
+10942,colonial period,period when a country had colonies,AI
+10943,combined athlete,athlete in a combined event,AI
+10944,communication technologies,technologies of communication,AI
+10945,conference room,room available for conferences,AI
+10946,economic slump,weak phase of the business cycle,AI
+10947,competitive pressure,performance pressure caused by competition,AI
+10948,convent,assembly or convent,AI
+10949,group profit,profit made by a corporate group,AI
+10950,group management,management of a corporate group,AI
+10951,concert organizer,person who organizes concerts,AI
+10952,headache,pain sensation in the head,AI
+10953,Cossack,member of a semi nomadic people in Eastern Europe,AI
+10954,cost expenditure,costs incurred,AI
+10955,crane,bird family,AI
+10956,hospital bed,bed for a sick person,AI
+10957,nursing,measures for care and support of the sick,AI
+10958,curly hair,curly hair,AI
+10959,credit institution,bank or credit institution,AI
+10960,district hospital,hospital of a district,AI
+10961,crossroads,intersection of paths; place where paths fork,AI
+10962,crisis team,group that convenes to handle emergencies,AI
+10963,female Croatian,female citizen of Croatia,AI
+10964,croup,diphtheria disease,AI
+10965,Cuban,citizen of Cuba,AI
+10966,Kuhl,family name,AI
+10967,cultural sector,totality of persons institutions and activities in culture,AI
+10968,cultural award,award for cultural achievement,AI
+10969,female culture senator,female senator responsible for culture,AI
+10970,Kurdistan,region in the Middle East,AI
+10971,curiosity,something that seems very strange to the observer,AI
+10972,capital gain,profit from a rate increase,AI
+10973,short visit,short visit of brief duration,AI
+10974,layperson,someone without specialist knowledge or training in a field,AI
+10975,agriculture,agriculture especially arable farming and fruit and wine growing,AI
+10976,state institution,institution of a federal state,AI
+10977,state bishop,highest leader of a Protestant regional church,AI
+10978,state central office,central institution of the state,AI
+10979,breach of public peace,crime against public order or peace through violent riot,AI
+10980,landscape conservation,care and protection of the landscape,AI
+10981,state election campaign,campaigning by parties and candidates for a state election,AI
+10982,laser beam,beam of light emitted by a laser,AI
+10983,idling,state of a drive running without load or work,AI
+10984,fief,something lent also feminine,AI
+10985,teaching profession,profession requiring special training,AI
+10986,apprentice training,training of apprentices,AI
+10987,lightweight,weight class for boxers and weightlifters,AI
+10988,performance showcase,presentation of achievements,AI
+10989,editorial,news article at prominent position with an authors opinion,AI
+10990,clearing,area in a forest without trees,AI
+10991,love letter,very personal letter to a loved person,AI
+10992,song repertoire,totality of songs of a certain type,AI
+10993,linesman,person who assists the referee on out of bounds or offside decisions,AI
+10994,female resident of Linz,woman who lives in Linz,AI
+10995,liturgy,all proper religious service actions,AI
+10996,licensee,recipient of a license,AI
+10997,Locarno,city in Switzerland,AI
+10998,hole punch,device that punches holes in paper at fixed spacing,AI
+10999,air strike,air attack bombing with combat aircraft,AI
+11000,style,form or shape something has,AI

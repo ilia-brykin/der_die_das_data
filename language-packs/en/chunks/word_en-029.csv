@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-2801,effectiveness,state or degree of being effective,AI
-2802,host,person who hosts guests or runs an inn,AI
-2803,economic growth,growth of an economy especially change in GDP,AI
-2804,residential area,built area where only residential use is permitted,AI
-2805,residence,place where someone lives permanently,AI
-2806,workshop,seminar with discussion and practical exercises,AI
-2807,wreck,damaged vehicle fit only for scrap,AI
-2808,throw,act or result of throwing an object through the air,AI
-2809,sausage,elongated meat product often stuffed into a casing,AI
-2810,youngster,young athlete or new young player in a team,AI
-2811,era,large section of human history,AI
-2812,stuff,objects of all kinds material or equipment,AI
-2813,quote,verbatim citation of a text in quotation marks,AI
-2814,civil society,part of society outside politics state apparatus and economy,AI
-2815,preparation,process of preparing something often following instructions,AI
-2816,access,possibility to drive to a particular destination,AI
-2817,satisfaction,being happy with a situation or circumstance,AI
-2818,supplier,business supplying components to other businesses,AI
-2819,commitment,promise regarding a specific measure,AI
-2820,merger,connection of different persons or companies,AI
-2821,composition,way something is composed,AI
-2822,surcharge,additional charge paid or received for special services,AI
-2823,subsidy,amount of money as additional financial support,AI
-2824,encouragement,encouraging words conveying support,AI
-2825,immigration,permanent relocation of one or more persons into the area,AI
-2826,compulsion,internal or external pressure to do something,AI
-2827,duel,confrontation between two persons or parties,AI
-2828,interim,period between two points in time,AI
-2829,Cyprus,island state in the Mediterranean,AI
-2830,ABC,alphabetical order of letters; the alphabet based on Latin letters,AI
-2831,waste,remaining residue after use or processing (also figuratively),AI
-2832,member of parliament,elected member of a parliamentary assembly,AI
-2833,demarcation,establishing boundaries,AI
-2834,abyss,"a terrifying, dangerous depth",AI
-2835,remedy,elimination of a burden; contribution to improvement,AI
-2836,buyer,person or institution that accepts delivered goods against consideration,AI
-2837,billing,"calculation of costs, effort, consumption, quantities",AI
-2838,shooting,killing animals with a weapon; the number and type of such killings,AI
-2839,defender,defensive player who disrupts opponents and prevents goals,AI
-2840,axis,vertical or horizontal line; center line of rotation,AI
-2841,Advent season,four weeks before Christmas when Christians prepare,AI
-2842,agent,"person who provides brokerage services, especially for artists, writers, athletes; intermediary, sales agent",AI
-2843,activist,"engaged, goal-oriented person, often social or political",AI
-2844,female activist,"politically engaged, goal-oriented female person",AI
-2845,Albania,state in Southeast Europe,AI
-2846,alcohol impairment,effect of alcohol on a person,AI
-2847,alcohol consumption,intake of alcohol,AI
-2848,the general public,the whole; everyone,AI
-2849,age group,group of people of the same age range,AI
-2850,initial phase,first phase marking the start of a development,AI
-2851,incentive,something that motivates to act,AI
-2852,caller,person who establishes a phone connection,AI
-2853,appearance,property of creating a suspicion or impression,AI
-2854,consolation goal,goal that reduces the deficit to the leading team by one,AI
-2855,allusion,"casual, subtle reference",AI
-2856,contact person,designated contact for questions,AI
-2857,effort,great exertion or diligence to achieve something,AI
-2858,assault,forceful rapid attack by many attackers,AI
-2859,sympathy,sharing in another's feelings,AI
-2860,drive,technical device that propels or moves something,AI
-2861,instruction,directive about who should receive something,AI
-2862,Appenzell,region or canton in Switzerland,AI
-2863,workday routine,usual course of a working day,AI
-2864,unemployment rate,proportion of people without a job among the civilian labor force,AI
-2865,workday,day on which one works,AI
-2866,world of work,conditions and environment of employment,AI
-2867,biodiversity,diversity of species living together in a habitat,AI
-2868,medicinal product,substance or preparation applied to heal diseases or replace bodily substances,AI
-2869,ace,colloquial:,AI
-2870,Azerbaijan,state in the Caucasus,AI
-2871,assistant,usually academically trained assistant,AI
-2872,asylum policy,policy on asylum,AI
-2873,atelier,artist's workshop or studio,AI
-2874,departure,beginning of a process of leaving,AI
-2875,whereabouts,place where someone is permanently or temporarily located,AI
-2876,rear-end collision,accident where a vehicle runs into the one ahead,AI
-2877,surcharge,additional sum to be paid for a product or service,AI
-2878,allocation,assignment of parts of a whole to people or entities,AI
-2879,appreciation,process of increasing value,AI
-2880,moment,"short duration, instant",AI
-2881,focus,"conscious, targeted perception; focus",AI
-2882,auction,event where items are sold to the highest bidder,AI
-2883,exclusion,exclusion of something or someone,AI
-2884,draw,drawing of a winner in a lottery,AI
-2885,departure,travel from one country to another,AI
-2886,suspension,interruption or temporary cessation,AI
-2887,way out,path leading out of a dangerous or unpleasant place,AI
-2888,ID card,document serving as proof or identification with personal data,AI
-2889,payout,"money dispensed, e.g., by an ATM, and the act of paying out",AI
-2890,female trainee,female person who has a training contract with a company,AI
-2891,motorway police,police responsible for safety on the motorway,AI
-2892,car accident,accident involving a car,AI
-2893,bachelor's degree,lowest academic degree,AI
-2894,cheek,cheek,AI
-2895,bathroom,room in a home for body cleaning,AI
-2896,rail traffic,movement of rail vehicles in the rail network,AI
-2897,banishment,"expulsion of a person or group from a community, especially from the church",AI
-2898,basketball player,athlete who plays basketball,AI
-2899,bass,low male singing voice,AI
-2900,construction phase,significant part of a construction project,AI
+14001,life circumstance,circumstance of life,AI
+14002,educational institution,institution whose task is to teach,AI
+14003,teaching assignment,authorization obligation to conduct a course or courses,AI
+14004,teaching post,position for a teacher,AI
+14005,balance of payments,balance sheet of foreign trade,AI
+14006,rood screen,stone or wooden screen separating choir from nave in a church,AI
+14007,Lebanese,citizen of Lebanon,AI
+14008,light year,distance light travels in one year about 9.46 trillion kilometers,AI
+14009,favorite topic,topic someone likes to talk about often,AI
+14010,affair,temporary intimate relationship,AI
+14011,supply contract,contract for deliveries,AI
+14012,league member,member of a league,AI
+14013,limit value,threshold or upper bound,AI
+14014,Lipizzaner,horse breed from Lipizza,AI
+14015,writer,person engaged in writing often without much creativity,AI
+14016,wage demand,demand for higher wages,AI
+14017,wage round,wage negotiations between unions and employers usually yearly,AI
+14018,local derby,derby between local rivals,AI
+14019,lolita,childlike appearing woman with erotic charisma,AI
+14020,pilot,seaman who guides ships through difficult waters,AI
+14021,Lummer,family name,AI
+14022,pleasure garden,park like garden for recreation,AI
+14023,comedy,humorous theatrical presentation,AI
+14024,Luxor,city in Egypt,AI
+14025,intrigue,secret questionable deal or plot,AI
+14026,claim to power,claim to power,AI
+14027,Macedonia,region or state in southeastern Europe,AI
+14028,waste paper,defective print sheets or unusable printed products,AI
+14029,painting competition,competition in painting,AI
+14030,mammoth,extinct elephant genus Mammuthus,AI
+14031,Managua,capital of Nicaragua,AI
+14032,man marker,football player who closely marks an opponent,AI
+14033,model,female person who presents clothes,AI
+14034,teammate,person on the same team,AI
+14035,team championship,championship for teams,AI
+14036,brand product,high quality product of a well known brand,AI
+14037,market opportunity,opportunity in the market,AI
+14038,marquis,French noble title,AI
+14039,Marxist,adherent of Marxism,AI
+14040,mass circulation paper,newspaper for a large and undemanding readership,AI
+14041,mass dismissal,simultaneous termination of many employment relationships,AI
+14042,mass flight,flight of a large number of people,AI
+14043,weapon of mass destruction,weapon causing severe and lasting damage to large populations,AI
+14044,focusing screen,translucent screen where an image is projected for manual focus,AI
+14045,Moor,member of Berber tribes in North Africa later Islamized by Arabs,AI
+14046,Mautner,family name,AI
+14047,medical student,person who studies medicine,AI
+14048,megahertz,unit of frequency one million hertz,AI
+14049,additional expense,additional financial outlay beyond expected,AI
+14050,additional income,additional income beyond expected or usual,AI
+14051,majority decision,decision by the majority,AI
+14052,majority voting system,election method where majority chooses from options,AI
+14053,human rights group,group for human rights,AI
+14054,human rights violation,violation of one or more human rights,AI
+14055,measured value,result of a measurement expressed by number and unit,AI
+14056,methadone,opioid with analgesic effect,AI
+14057,rental income,income from renting,AI
+14058,microorganism,microscopic organism visible only with a microscope,AI
+14059,microprocessor,very small processor with all components on a substrate,AI
+14060,dairy product,food made from milk usually cow milk,AI
+14061,mimus,actor in ancient Rome also mime poet,AI
+14062,revenue shortfall,loss of income,AI
+14063,mineral nutrient,inorganic trace element or salt required for life functions taken in food or supplements,AI
+14064,ministerial councillor,senior official in a ministry,AI
+14065,mass,term for the Roman Catholic mass and its musical setting,AI
+14066,membership fee,annual fee paid by members,AI
+14067,mid sized company,medium sized company by staff or turnover,AI
+14068,metacarpus,middle part of the hand between wrist and fingers,AI
+14069,mediator,person who mediates between persons groups or institutions,AI
+14070,modernizer,person who modernizes,AI
+14071,molotov cocktail,improvised incendiary device often a gasoline filled bottle,AI
+14072,monopolist,holder of a monopoly,AI
+14073,monotony,tedious uniformity boring repetition,AI
+14074,moralist,person who advocates moral principles,AI
+14075,mosquito,tropical mosquito,AI
+14076,mullah,title for Islamic scholars,AI
+14077,mudslide,water caused slide of earth and stones on sloped terrain,AI
+14078,female musician,female person who makes music for dance or entertainment sometimes with a negative tone,AI
+14079,music lover,person who loves music,AI
+14080,music life,totality of activities in the field of music,AI
+14081,musketeer,heavily armed infantry soldier of the 16th and 17th centuries later a rank,AI
+14082,test case,court case to clarify the legal situation and serve as example for future cases,AI
+14083,successor state,new sovereign state that arises after the breakup of a larger state,AI
+14084,investigation,attempt to find something out by following a matter,AI
+14085,postwar year,year after the end of a war,AI
+14086,reference work,collection of data in alphabetical or systematic order,AI
+14087,night hour,sixty minute unit during nighttime,AI
+14088,young talent,young new worker,AI
+14089,nature lover,person who loves nature,AI
+14090,tributary,river flowing into a larger river,AI
+14091,taker,person who takes or accepts something,AI
+14092,nerve cell,cell that transmits impulses,AI
+14093,new hiring,new hiring of staff,AI
+14094,new issue,issue of new securities,AI
+14095,new acquisition,newly acquired object,AI
+14096,New Guinea,island in Oceania,AI
+14097,neurosis,psychological disorder with behavioral disturbance and awareness by the patient,AI
+14098,neutron,neutral nucleon in the atomic nucleus made of up and down quarks,AI
+14099,first registration,first official approval for a car to drive on roads,AI
+14100,non member,person or organization that does not belong to a group,AI
+14101,nomad,member of a people who moves from place to place without fixed residence,AI
+14102,nomenklatura,ruling class in a state especially in socialist communist states,AI
+14103,North Baden,region in Baden Wurttemberg,AI
+14104,northern lights,aurora of the northern polar circle,AI
+14105,emergency doctor vehicle,rescue service vehicle for initial care and transport,AI
+14106,nuclear weapon,weapon whose explosive energy comes from nuclear processes,AI
+14107,commercial vehicle,vehicle used economically for transport or work,AI
+14108,high church leader,senior church leader,AI
+14109,commander in chief,person with command authority over an armed force,AI
+14110,upper secondary center,center for upper grades,AI
+14111,obligation,financial or contractual duty,AI
+14112,odeon,concert or theater house,AI
+14113,oven opening,opening of an oven,AI
+14114,offer,offer in Swiss usage,AI
+14115,occupation,military occupation of foreign territory with transfer of state authority,AI
+14116,Olympic host city,city where the Olympic Games are or were held,AI
+14117,opposition group,group of opposition members,AI
+14118,steward,person for maintaining order,AI
+14119,annatto,orange red dye from the annatto shrub used to color food,AI
+14120,ornament,artistic or architectural decoration,AI
+14121,Easter egg,decorated or artificial egg used at Easter,AI
+14122,eastern policy,policy toward Eastern Europe,AI
+14123,eastern state,state in the east,AI
+14124,East Timor,state in Southeast Asia,AI
+14125,ozone level,measured amount of ozone in air or stratosphere,AI
+14126,Paisley,paisley pattern form,AI
+14127,Pale,city in Bosnia also English pale,AI
+14128,parliament debate,discussion of a topic in parliament,AI
+14129,political parties law,law regulating processes within a political party,AI
+14130,party comrade,member of the political party one belongs to,AI
+14131,partisan,variant of Partisan,AI
+14132,register,alignment of colors in multi color printing,AI
+14133,flap,ornament on clothing in the form of an attached piece of fabric,AI
+14134,pension entitlement,earned claim to a pension,AI
+14135,perestroika,slogan of Soviet leader Mikhail Gorbachev for reforming the USSR state and economy,AI
+14136,Persian,member of an oriental people,AI
+14137,Persia,historical name for Iran,AI
+14138,staffing issue,question about staffing situation,AI
+14139,peseta,former Spanish currency also used in Andorra until 2002,AI
+14140,pessimist,person with a negative attitude to life,AI
+14141,covered bond,interest bearing bond issued by a Pfandbrief bank,AI
+14142,plant species,taxonomic rank below genus and above subspecies,AI
+14143,philologist,person trained in philology working with texts of languages,AI
+14144,philology,umbrella term for language and literature studies,AI
+14145,phrasing,shaping of musical phrases,AI
+14146,pilot,pilot in French,AI
+14147,pinakothek,art gallery for paintings,AI
+14148,brushstroke,short irregular line made with a brush,AI
+14149,pipa,Peruvian wind instrument,AI
+14150,billboard,area often outdoors repeatedly covered with posters ads or party posters,AI
+14151,plank,thick heavy board,AI
+14152,planning department,department for planning,AI
+14153,plebiscite,vote of the electorate on an important political topic,AI
+14154,plutonium,chemical element atomic number 94 actinide,AI
+14155,pneumatic tire,air cushioned tire short for pneumatic,AI
+14156,police statement,official statement by police,AI
+14157,pop song,song from pop music,AI
+14158,pore,small cavity or opening in a material or tissue,AI
+14159,portfolio folder,folder often a collection of prior work as sample,AI
+14160,trombonist,male person who plays trombone,AI
+14161,postal officer,person employed by a postal company as a civil servant,AI
+14162,postal union,union of the post,AI
+14163,postal worker,postal employee,AI
+14164,pound,british currency pound,AI
+14165,price fixing,agreement among producers of similar products about prices,AI
+14166,press comment,comment published in a current medium or style of reporting,AI
+14167,press officer,person responsible for press work,AI
+14168,press center,space equipped for press work at large events,AI
+14169,Prim,family name also prime number in mathematics,AI
+14170,chief physician,chief physician in Austria,AI
+14171,primo,first also a given name,AI
+14172,print medium,classic paper based medium such as newspaper magazine or book,AI
+14173,privatdozent,habilitated lecturer without professorship,AI
+14174,private company,private company,AI
+14175,private initiative,initiative by private persons,AI
+14176,private customer,individual private customer as opposed to companies,AI
+14177,private radio,private radio station,AI
+14178,private collection,collection in private ownership,AI
+14179,privilege,privileged right in Latin,AI
+14180,propagandist,person who spreads propaganda,AI
+14181,proportion,more or less balanced ratio of sizes between parts,AI
+14182,protectorate,protectorate over something,AI
+14183,Protestantism,political religious movement against the Catholic Church in 16th and 17th centuries,AI
+14184,psychopath,person with impaired empathy and conscience,AI
+14185,psychotropic drug,drug that affects mental state,AI
+14186,purist,representative of the art movement Purism,AI
+14187,coup plotter,person who plans or carries out a coup,AI
+14188,quarterly figures,figures published every three months for company finances,AI
+14189,quarrel,dispute based on competing interests,AI
+14190,cross connection,connection across something,AI
+14191,etching,graphic technique or work,AI
+14192,radio program,content program broadcast by a radio station,AI
+14193,radio station,local facility of a radio broadcaster,AI
+14194,framework condition,condition imposed from outside a system or process,AI
+14195,fringe group,group differing from the majority and often isolated or discriminated,AI
+14196,Rangoon,former capital of Myanmar,AI
+14197,dragnet search,search for suspects by criteria in a larger group using computers,AI
+14198,rationalization,optimization of operations and efficiency,AI
+14199,pirated copy,illegal copy of copyrighted media,AI
+14200,robbery murder,crime where victim is murdered and robbed,AI
+14201,spatial planning procedure,procedure of spatial planning,AI
+14202,realist faction supporter,adherent of pragmatic realpolitik positions,AI
+14203,spelling reform,renewal of spelling rules,AI
+14204,right wing radicalism,radical right wing ideology,AI
+14205,legal provision,law regulation or decree,AI
+14206,editorial member,member of an editorial office,AI
+14207,trainee lawyer,civil service trainee who passed first state exam in Germany,AI
+14208,reform plan,plan for reforms,AI
+14209,reform state,state in a reform phase,AI
+14210,heavy rain,usually heavy rain,AI
+14211,government circle,people within a government,AI
+14212,government troops,troops of the government,AI
+14213,regime critic,person who publicly criticizes the regime,AI
+14214,friction,friction or conflict,AI
+14215,travel company,company in the travel sector,AI
+14216,REM,REM sleep phase,AI
+14217,pension contribution,contribution to pension insurance,AI
+14218,bond market,market for bonds,AI
+14219,rep,abbreviation for Republican or reporter,AI
+14220,repair work,work for repair,AI
+14221,reprisal,measure contrary to international law taken in response,AI
+14222,prop,stage property or set piece,AI
+14223,reservation,reservation or booking,AI
+14224,remaining ticket,remaining admission ticket,AI
+14225,restriction,limitation of action or choice,AI
+14226,rescue worker,worker used in rescue operations,AI
+14227,rescue team,group trained for rescue operations,AI
+14228,auditor,person who checks economic or administrative actions,AI
+14229,receptor,cell or structure for perceiving changes,AI
+14230,Rhone,river in France and Switzerland,AI
+14231,doe,female roe deer,AI
+14232,mad cow disease,prion disease in cattle that is always fatal,AI
+14233,mad cow disease,prion disease in cattle that is always fatal,AI
+14234,risk provision,precaution against risks,AI
+14235,female fish,female fish carrying roe,AI
+14236,pipeline,long pipe with pump stations for continuous transport of liquids or gases,AI
+14237,commodity price,price for a raw material,AI
+14238,novelist,author who writes novels,AI
+14239,raisin,dried grape,AI
+14240,rowdy,person who behaves overly rough and violent,AI
+14241,Russian German woman,female person in Russia with German ancestry,AI
+14242,Sabena,former Belgian airline,AI
+14243,factual question,question about the matter,AI
+14244,expertise,knowledge of an expert in a field,AI
+14245,noncash prize,prize in the form of an item,AI
+14246,necessity,compulsion due to factual reasons,AI
+14247,Saigon,former name of Ho Chi Minh City,AI
+14248,string,thin taut string made of gut plant fibers or synthetic,AI
+14249,saltworks,operation producing salt by evaporation of brine,AI
+14250,sandbag,bag filled with sand made of natural fibers or plastic,AI
+14251,upright person,person who is decent and morally correct,AI
+14252,claim for damages,claim for compensation,AI
+14253,control center,central point hub,AI
+14254,shaman,person who in trance connects with spirits to help community,AI
+14255,shading,slight gradation in color,AI
+14256,treasury chancellor,historic title finance minister,AI
+14257,display board,large board explaining a topic,AI
+14258,debit card,colloquial for debit card,AI
+14259,reprimand,loudly expressed rebuke,AI
+14260,henchman,person who carries out orders with force,AI
+14261,shift,layer in Austria also worker,AI
+14262,Shiite,person belonging to Shia Islam,AI
+14263,sloppiness,lack of order,AI
+14264,back way,secret little known path away from the main roads,AI
+14265,smear,elongated form of semi liquid material on a surface that affects light and sight,AI
+14266,clearance sale,sale of goods at reduced prices at end of a season,AI
+14267,bribe,money used to bribe someone,AI
+14268,snow cannon,device for producing artificial snow,AI
+14269,mass of snow,large amount of snow,AI
+14270,writers association,organization of writers,AI
+14271,debt forgiveness,waiver of collecting financial claims,AI
+14272,school service,work of a teacher at a school or service in school,AI
+14273,conventional medicine,medicine based on scientific methods,AI
+14274,school type,type of school,AI
+14275,school pilot project,trial or project in education,AI
+14276,farce,usually humorous short tale about a trivial topic often a prank,AI
+14277,black African,person from Africa south of the Sahara,AI
+14278,undeclared worker,person who works without compliance with legal employment rules and without taxes or contributions,AI
+14279,black money,income that is not taxed,AI
+14280,sulfur dioxide,colorless gas that irritates mucous membranes smells pungent tastes sour and is poisonous,AI
+14281,emerging country,country in transition from developing to industrial nation,AI
+14282,Scientologist,member of the religious movement Scientology,AI
+14283,Scientology,sect founded by science fiction author L Ron Hubbard,AI
+14284,six cylinder engine,internal combustion engine with six cylinders,AI
+14285,seal,species of true seal,AI
+14286,nautical mile,unit of length at sea equals 1.852 kilometers,AI
+14287,sideways glance,sly glance from the side at something,AI
+14288,self portrait,depiction of the person who created the depiction,AI
+14289,suicide attempt,attempt to take ones own life,AI
+14290,senate resolution,resolution of a senate,AI
+14291,senate spokesperson,spokesperson of the senate,AI
+14292,Send fair,annual fair in Munster called Send,AI
+14293,transmission facility,technical facility for sending information using electromagnetic waves such as radio or television transmitters,AI
+14294,separatist,person who seeks political separation for example of parts of a country,AI
+14295,standard equipment,equipment provided in a series,AI
+14296,service,service provided to support customers usually for payment,AI
+14297,security force,state executive organ that serves to preserve or restore internal security,AI
+14298,safety deficiency,lack of safety,AI
+14299,security standard,standard of safety,AI
+14300,safety measure,measure taken to ensure safety of someone or something,AI
+14301,victorious power,state that emerged as victor from a war,AI
+14302,singing group,singing group choir,AI
+14303,singing game,childrens game with dancing and singing often in a ring,AI
+14304,Sinto,member of a subgroup of European Roma living in German speaking areas since the 15th century,AI
+14305,skinhead,member of the skinhead movement often recognized by very short hair heavy boots suspenders rolled jeans and bomber jacket,AI
+14306,slave,person who is property of another person,AI
+14307,smog,high concentration of pollutants in the air over densely populated areas,AI
+14308,software company,company for software,AI
+14309,solidarity pact,agreement for solidarity,AI
+14310,special program,program with special measures,AI
+14311,solar collector,device for obtaining heat energy from solar radiation,AI
+14312,Sunday speech,fine or festive speech whose statements do not match reality,AI
+14313,soviet,workers peasants and soldiers councils formed during Russian revolutions of 1905 and 1917,AI
+14314,social expert,expert in social issues,AI
+14315,social history,history of social developments,AI
+14316,national product,value of all output of an economy,AI
+14317,social reform,reform in social field,AI
+14318,social insurance contribution,contribution to social insurance,AI
+14319,social science,science that studies phenomena of social life,AI
+14320,peeper,person who secretly watches others,AI
+14321,savings deposit,amount on a savings account,AI
+14322,speculator,person who speculates and buys low hoping for higher prices and takes risk of loss,AI
+14323,donation money,money collected through donations,AI
+14324,slot machine,automatic gambling device activated by coin insertion,AI
+14325,casino,building or business where gambling for money takes place,AI
+14326,rule,mandatory rule according to which a game is played,AI
+14327,spirit,high proof distilled alcoholic drink,AI
+14328,best time,best time,AI
+14329,sponsorship money,money from sponsors,AI
+14330,spur,spur on a riding boot to drive a mount,AI
+14331,sports fan,fan or lover of sports as participant or spectator,AI
+14332,chant,large group of people speaking the same text together,AI
+14333,state office,exercise of a function in service of the state,AI
+14334,government bond,interest bearing security issued by a state,AI
+14335,state expenditure,expenses of the state,AI
+14336,top national league,highest league of a state,AI
+14337,public debt,owed liabilities of a state to creditors,AI
+14338,state security service,secret police of the German Democratic Republic,AI
+14339,city law,special rights that apply in a city,AI
+14340,city tour,guided trip often by bus through a city to see tourist sites,AI
+14341,district politician,politician of a city district,AI
+14342,stable building,large building for housing domestic animals,AI
+14343,family record book,folder with official or church documents of a family,AI
+14344,share capital,base capital of a company,AI
+14345,stem cell,undifferentiated cell that can develop into any cell type,AI
+14346,standard value,security of standard quality,AI
+14347,registrar,official who records civil status and conducts civil weddings,AI
+14348,start hole,start pit starting point,AI
+14349,growth rate,rate of increase,AI
+14350,partition,moveable wall that can be set up or removed as needed,AI
+14351,stilt,pole used to lengthen a leg used in pairs,AI
+14352,tax shortfall,non receipt of taxes or fees,AI
+14353,tax income,total legal financial levies paid to the state,AI
+14354,tax investigation,action or institution aiming to collect evaded taxes,AI
+14355,tax exemption,exemption from tax liability,AI
+14356,tax plan,plan for taxes,AI
+14357,tax advantage,financial advantage regarding taxes,AI
+14358,nitrogen oxide,gaseous chemical compound of oxygen and nitrogen,AI
+14359,stepchild,child brought by a spouse from a previous relationship,AI
+14360,scholarship holder,person who receives a scholarship,AI
+14361,prison,penal institution,AI
+14362,strain,great sustained exertion,AI
+14363,streetball,basketball on the street,AI
+14364,glancing light,short moving ray of light,AI
+14365,quarrel,ongoing conflict,AI
+14366,quarrelsome person,person who repeatedly gets into fights,AI
+14367,armed forces,military organ of a state,AI
+14368,striptease,performance of erotic dances where clothing is removed gradually,AI
+14369,power corporation,company that produces and distributes electricity,AI
+14370,power industry,economic sector of electricity,AI
+14371,structural policy,policy for structural development,AI
+14372,structural problem,problem of structure,AI
+14373,student protest,protest by students,AI
+14374,subsidy reduction,cutback of subsidies,AI
+14375,Sudeten German woman,woman of German ethnicity from the Sudetenland,AI
+14376,Sunni,follower of the orthodox main branch of Islam based on the Sunna,AI
+14377,surrealism,20th century movement inspired by the psychoanalytic concept of the unconscious,AI
+14378,surrealist,representative of surrealism,AI
+14379,sympathizer,person with a positive attitude toward someone or something,AI
+14380,symposion,ancient Greek social wine drinking with speeches,AI
+14381,synergy effect,additional benefit from cooperation,AI
+14382,scenario,outline of the situation and framework of an artwork,AI
+14383,scene change,change of scene,AI
+14384,tobacco corporation,large company producing and selling tobacco products,AI
+14385,topic of the day,topic present on a particular day,AI
+14386,Tahiti,island in the Pacific,AI
+14387,Tamil,Tamil person,AI
+14388,tanker truck,truck or trailer that transports liquid or gaseous goods in a tank,AI
+14389,royalty,revenue or profit share dependent on success,AI
+14390,collective wage,wage agreed in collective bargaining,AI
+14391,collective bargaining party,one of the negotiating parties between employer and employee representatives,AI
+14392,bargaining partner,party entitled to negotiate and conclude a collective agreement,AI
+14393,collective bargaining policy,political action and issues related to negotiating collective agreements,AI
+14394,Tauer,surname or mountain name,AI
+14395,dizziness,feeling of dizziness,AI
+14396,tariff,price or fee set by authority,AI
+14397,technocrat,supporter of technocracy as a form of government,AI
+14398,technology stock,stock from the technology sector,AI
+14399,partial privatization,partial privatization,AI
+14400,telefax,device for transmitting messages as an image of the message,AI
+14401,phone action,action by phone,AI
+14402,phone call,contacting by phone,AI
+14403,telecom company,company that is both network operator and mobile provider,AI
+14404,phone card,card used for prepaid calls at a card phone,AI
+14405,telephone network,communications network for phone calls,AI
+14406,phone bill,invoice for phone costs over a period,AI
+14407,telecommunications market,market of telecommunications,AI
+14408,terminology,system of terms of a field or science,AI
+14409,test subject,person subjected to a test to clarify a question,AI
+14410,word processing,software or method for editing texts,AI
+14411,theater festival,meeting or festival of theaters,AI
+14412,theorist,person with little practical experience but much theoretical knowledge,AI
+14413,thesis,thesis or dissertation,AI
+14414,animal meal,protein feed from processing meat or fish or carcasses,AI
+14415,animal experiment,experiment on live animals for scientific or cosmetic purposes,AI
+14416,kill shot,shot that kills someone,AI
+14417,death squad,paramilitary group tasked with eliminating opponents,AI
+14418,toleration,acceptance of acts or positions,AI
+14419,tape,long narrow plastic tape coated with magnetic material for storing sound,AI
+14420,touring car,car set up for rallies,AI
+14421,trotter,racehorse for trotting races,AI
+14422,traditionalist,adherent of traditions,AI
+14423,treatise,discourse with instructive character,AI
+14424,transistor,semiconductor electronic component for switching or amplifying signals,AI
+14425,transport route,route on which transports are carried out,AI
+14426,transvestite,man who dresses like a woman,AI
+14427,bereaved family,family in mourning,AI
+14428,memorial ceremony,ceremonial memorial service,AI
+14429,mourner,person attending a funeral or memorial service,AI
+14430,greenhouse effect,increase in global average temperature caused by greenhouse gases in the atmosphere,AI
+14431,fuel price,price for fuel on the world market,AI
+14432,trekking,long hike in high mountains,AI
+14433,Treuhand agency,public law institution that privatized state owned enterprises of the GDR,AI
+14434,animated film,animated film,AI
+14435,troika,team of three horses,AI
+14436,Troy,ancient city in Asia Minor,AI
+14437,tropical wood,wood from the tropics,AI
+14438,trope,figurative expression with transferred meaning,AI
+14439,turbulence,turbulent development of something,AI
+14440,remodeling work,work during remodeling,AI
+14441,poll rating,numeric result from a targeted survey about a person or issue,AI
+14442,manners,way of behaving toward others in society,AI
+14443,suburban municipality,municipality in the surrounding area,AI
+14444,average yield,average yield of outstanding high quality domestic bonds,AI
+14445,debt restructuring,restructuring of debts,AI
+14446,environmental question,question about environmental protection,AI
+14447,environmental damage,damage to the environment caused by an event or condition,AI
+14448,inconvenience,unpleasant thing annoyance,AI
+14449,injustice,offense or unfair treatment,AI
+14450,inconsistency,confused or incoherent manner,AI
+14451,unionist,supporter of a union,AI
+14452,Union party,party CDU or CSU,AI
+14453,doom call,call of the fire bellied toad described as plaintive or melancholic,AI
+14454,cost contribution,fee to cover costs for a service without profit intent,AI
+14455,atrocity,horrible reprehensible deed,AI
+14456,underground organization,coordinated non public illegal association,AI
+14457,company profit,profit of a company,AI
+14458,entrepreneurs association,association of entrepreneurs,AI
+14459,non commissioned officer,rank of a soldier,AI
+14460,minister of education,head of a ministry responsible for schools,AI
+14461,female minister of education,female head of a ministry responsible for schools,AI
+14462,education ministry,ministry responsible for schools,AI
+14463,lesson period,agreed period of time often 45 minutes for instruction,AI
+14464,signature list,list with signatures,AI
+14465,displeasure,attitude or feeling of strong disapproval,AI
+14466,countless number,very large number whose exact count is unknown,AI
+14467,fornication,sexual behavior considered immoral by a society,AI
+14468,vein,blood vessel carrying blood to the heart,AI
+14469,improvement suggestion,proposal aiming to improve something,AI
+14470,bow,act of bowing,AI
+14471,consumer price,price paid by a final consumer,AI
+14472,consumer association,association of consumers,AI
+14473,incineration plant,technical facility where something is disposed of by burning,AI
+14474,suspicious circumstance,thing that makes a fact likely,AI
+14475,rule of conduct,norms for social interactions often unwritten,AI
+14476,sales number,quantity of items sold,AI
+14477,airliner,aircraft used for public flights,AI
+14478,transport project,project in transport,AI
+14479,transport spokesperson,spokesperson for transport topics,AI
+14480,traffic flow,heavy traffic in one direction,AI
+14481,traffic route,route on which traffic takes place,AI
+14482,loss carryforward,loss carried forward into the future,AI
+14483,mediation procedure,procedure for mediation,AI
+14484,packaging regulation,regulation on packaging,AI
+14485,entanglement,close intertwined connection,AI
+14486,mail order company,company specialized in mail order,AI
+14487,promise,commitment often actually empty,AI
+14488,test subject,person on or with whom an experiment is conducted,AI
+14489,distribution struggle,conflict over distribution of resources,AI
+14490,contract negotiation,negotiation about a contract,AI
+14491,distribution channel,way to get something to interested people,AI
+14492,Vichy,city in France,AI
+14493,video tape,tape with video recording,AI
+14494,video film,film recorded with a video camera,AI
+14495,videocassette,plastic cassette with magnetic tape as data carrier for films,AI
+14496,video rental,facility for lending films,AI
+14497,animal,animal,AI
+14498,forties,fifth decade of a century or of a life,AI
+14499,Vietnamese,citizen of Vietnam,AI
+14500,female vice chancellor,female deputy of the chancellor,AI

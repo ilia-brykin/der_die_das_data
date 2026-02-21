@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-2701,tactics,goal oriented or winning oriented approach,AI
-2702,tariff,fixed price for something offered by a state or official institution,AI
-2703,keyboard,input device with a number of keys pressed by fingers,AI
-2704,taxi,vehicle for paid passenger transport usually driven by a driver,AI
-2705,dough,formable mass of ingredients usually base for baked goods,AI
-2706,territory,spatially limited area claimed as possession power or sovereignty,AI
-2707,terror,violent acts by a group to achieve goals,AI
-2708,terrorism,use of violence to achieve political military or criminal goals,AI
-2709,price increase,rise in prices,AI
-2710,topics,totality of themes of a book film talk or task,AI
-2711,thesis,assertion not yet proven,AI
-2712,Thurgau,canton in Switzerland,AI
-2713,underground garage,underground garage used for parking many cars,AI
-2714,cause of death,reason for onset of dying process and loss of life functions,AI
-2715,tolerance,allowed deviation from a prescribed measure or value,AI
-2716,barrel,round container often metal with lid or bung hole,AI
-2717,Tony,male first name,AI
-2718,tool,program that performs special tasks within a larger software package,AI
-2719,tour,round trip by artists for guest performances,AI
-2720,female coach,female person who trains athletes or a team,AI
-2721,transaction,sequence of operations performed entirely or not at all,AI
-2722,banner,wide strip of cloth or paper with a message used in demonstrations,AI
-2723,herder,person who drives animals in a direction,AI
-2724,staircase,stairs for going up or down in a building or outdoors,AI
-2725,trick,artifice or prank whose mechanism is not obvious to outsiders and creates surprise or amazement,AI
-2726,drinking water,water that meets a standard for human consumption,AI
-2727,comfort,act or gesture that helps relieve suffering,AI
-2728,Turin,city in Italy,AI
-2729,redesign,process of changing the appearance of something or reforming it,AI
-2730,surrounding area,area around a city or body of water,AI
-2731,detour,alternate route used when the main route is blocked,AI
-2732,environmental protection,all measures to protect the ecosystem and climate,AI
-2733,accident sequence,exact temporal course of an accident,AI
-2734,accident cause,trigger of an incident causing damage,AI
-2735,Union parliamentary group,parliamentary group formed by CDU and CSU,AI
-2736,universe,outer space,AI
-2737,interruption,break of a connection or opening of a line pipe or rope,AI
-2738,female entrepreneur,female person who owns a company,AI
-2739,signature,handwritten name used to confirm a document,AI
-2740,signing,affixing ones signature to a document,AI
-2741,dissatisfaction,state of not being content with the given conditions,AI
-2742,uranium,chemical element with atomic number 92 a weakly radioactive heavy metal,AI
-2743,Uri,canton in Switzerland,AI
-2744,Vancouver,city in Canada,AI
-2745,vandalism,deliberate senseless damage or destruction of property often foreign or public,AI
-2746,farewell,act of saying goodbye,AI
-2747,whereabouts,largely unknown location,AI
-2748,consumption,use of a good in quantity; what is consumed,AI
-2749,pursuer,person who pursues someone or something,AI
-2750,allocation,transfer of something to a person institution or company,AI
-2751,arrest,execution of an arrest warrant and custody by police,AI
-2752,traffic safety,safety in traffic,AI
-2753,installation,proper installation or mounting,AI
-2754,mediator,person who tries to settle a dispute,AI
-2755,mediation,establishing a relationship or desired outcome,AI
-2756,assumption,unconfirmed knowledge or assumption,AI
-2757,networking,linking of systems or persons,AI
-2758,reason,ability of human thinking to derive universal connections and act accordingly,AI
-2759,packaging,cover or container that protects something,AI
-2760,catering,act of providing food and drink,AI
-2761,insurer,company that promises to compensate damage for a fee,AI
-2762,representation,person temporarily representing someone,AI
-2763,distribution,totality of measures to sell products on the market,AI
-2764,uncertainty,state in which certainty is lost or process causing it,AI
-2765,board,body with control or steering functions,AI
-2766,confusion,lack of order,AI
-2767,consumption,ingestion or consumption of food,AI
-2768,despair,state of having no hope,AI
-2769,quadruped,animal with four legs especially a dog,AI
-2770,Vietnam,state in Southeast Asia,AI
-2771,bird flu,viral disease of birds affecting poultry and wild waterfowl,AI
-2772,folk festival,traditional outdoor event with many attractions,AI
-2773,people's republic,self designation of some socialist or communist states,AI
-2774,elementary school,former form of public compulsory school,AI
-2775,economy,total economy of a state or federation,AI
-2776,previous year period,same period in the previous year,AI
-2777,previous month,month before,AI
-2778,preliminary round,phase before a main stage of a competition,AI
-2779,pre season,period before the main season,AI
-2780,chair,position of the head of a committee or organization,AI
-2781,precaution,prevention preparation for later developments,AI
-2782,board chair,head of the board,AI
-2783,scale,device for measuring weight,AI
-2784,guard,watching someone or something for control or security,AI
-2785,election result,result of an election,AI
-2786,election victory,winning an election,AI
-2787,landmark,sign and symbol of a place or country,AI
-2788,Whale genitive,genitive singular of the noun whale,AI
-2789,Warsaw,capital of Poland,AI
-2790,waiting time,time until a planned event,AI
-2791,water supply,provision of drinking and utility water including collection treatment storage and delivery,AI
-2792,Christmas tree,decorated conifer set up for Christmas,AI
-2793,further education,advanced personal training and qualification,AI
-2794,weather situation,weather conditions over a region at a time,AI
-2795,Wetzlar,city in Hesse,AI
-2796,restoration,bringing back to a functioning state,AI
-2797,repetition,doing an act or exercise again,AI
-2798,wind power,kinetic energy of the wind,AI
-2799,winter break,period in winter when work or sports are paused,AI
-2800,whirl,vortex of gas or liquid around a centerline,AI
+13501,anabolic agent,substance that stimulates anabolic metabolism,AI
+13502,illiterate,person who cannot read or write,AI
+13503,andante,moderately slow musical tempo,AI
+13504,amenity,pleasant advantage or comfort,AI
+13505,postcard,postcard with a picture of a place on the back,AI
+13506,anthropologist,scientist who studies anthropology,AI
+13507,increase,growth or rise,AI
+13508,cider,wine made from fermented apples,AI
+13509,aphorism,concise witty saying or thought fragment,AI
+13510,working condition,circumstance under which work is done,AI
+13511,area of work,thematic area in which someone works professionally,AI
+13512,labor market reform,reform of the labor market,AI
+13513,arcade,arch supported by columns or piers,AI
+13514,fitting,component used to control a vehicle; set of instruments to control a machine,AI
+13515,poorhouse,accommodation for the needy,AI
+13516,member of the same species,member of the same species,AI
+13517,articulation,formation of sounds using articulatory organs,AI
+13518,insurance company,company that compensates for damage for a fee,AI
+13519,asylum seeker,person who asks for or is granted asylum,AI
+13520,nuclear reactor,"reactor in which atomic nuclei are repeatedly split in a chain reaction, often used for energy generation",AI
+13521,nuclear transport,transport of nuclear material,AI
+13522,nuclear test,testing of nuclear explosives,AI
+13523,transfer company,company set up to take on employees,AI
+13524,chance of advancement,possibility of professional advancement,AI
+13525,expenditure,voluntary financial sacrifice for others' interests,AI
+13526,eyewitness report,account of something the author personally saw,AI
+13527,foreign investment,investment made abroad,AI
+13528,riot,series of violent acts by a crowd,AI
+13529,committee member,person who is a member of a committee,AI
+13530,passing place,place to pass oncoming traffic,AI
+13531,outgrowth,tissue overgrowth in organisms,AI
+13532,car company,company that makes or sells cars,AI
+13533,car burglar,person who breaks into and robs cars,AI
+13534,autonomous region,region with self-government,AI
+13535,avant-gardist,representative of the avant-garde,AI
+13536,azure,blue color of a cloudless sky,AI
+13537,metropolitan area,large urban region with high population density and much industry,AI
+13538,Balt,member of a Baltic people,AI
+13539,bank director,head of a bank,AI
+13540,banking company,banking enterprise,AI
+13541,bank loan,loan from a bank,AI
+13542,basis point,finance unit equal to 1/100 of a percentage point,AI
+13543,bastard,"illegitimate child, especially of a high-status father and lower-status mother",AI
+13544,Bastille,fortified castle in France,AI
+13545,building element,single part used in prefabricated house construction,AI
+13546,civil servant pension,pension for civil servants,AI
+13547,covetousness,intensely felt desire for something,AI
+13548,acceding country,country that joins,AI
+13549,accession negotiation,negotiation about accession,AI
+13550,benzene,"simplest aromatic hydrocarbon, formula C6H6",AI
+13551,miner,person who extracts raw materials in a mine,AI
+13552,rescue work,work to free or rescue someone from danger,AI
+13553,vocational academy,academy with a three-year study and training contract,AI
+13554,professional army,professional army,AI
+13555,colleague,person who works in the same profession,AI
+13556,accusation,statement blaming someone for something,AI
+13557,status quo,status of possession or rights,AI
+13558,company health fund,company health insurance fund,AI
+13559,looted art,art taken as war booty,AI
+13560,district attorney,legal representative in a district,AI
+13561,district councillor,delegate of a district,AI
+13562,conqueror,person who has subdued someone or something,AI
+13563,beer can,can for storing beer,AI
+13564,low-wage country,country where wages are largely low,AI
+13565,sinkhole,depression over a collapsed mine tunnel,AI
+13566,bioethics,ethics focused on life or individual autonomy,AI
+13567,UN peacekeeper,soldier in a United Nations peacekeeping force,AI
+13568,blood product,"blood preparation, usually a red cell concentrate",AI
+13569,land reform,redistribution of land ownership,AI
+13570,ground troops,unit operating on land,AI
+13571,bolide,especially bright meteor,AI
+13572,bomb planter,person who places a bomb,AI
+13573,bark,outer rough layer of trees,AI
+13574,Borneo,island in Southeast Asia,AI
+13575,latitude,position on Earth between equator and poles,AI
+13576,fuel element,energy source in a nuclear reactor,AI
+13577,fuel rod,fuel rod in nuclear reactors,AI
+13578,letter bomb,explosive device hidden in a mail item,AI
+13579,gross income,money agreed before deductions in a period,AI
+13580,fixed book pricing,vertical price fixing in the German book trade,AI
+13581,publishing house,publisher that releases books,AI
+13582,Buddhist,follower of Buddhism,AI
+13583,boo,"shout of ""boo"" to express displeasure",AI
+13584,federal prosecutor,lawyer or prosecutor of the federal government,AI
+13585,Federal Border Guard,border protection police of Germany; now Federal Police,AI
+13586,Bundesliga club,club in the Bundesliga,AI
+13587,Federal Post,state enterprise for postal services,AI
+13588,Bundeswehr deployment,deployment of the German armed forces,AI
+13589,bungee,elastic rope used for bungee jumping,AI
+13590,bypass,diversion running parallel to the main flow to avoid a section,AI
+13591,carrier,carrier; transporter,AI
+13592,chance conversion,use of scoring chances in sports,AI
+13593,chaot,person who is undisciplined and disorganized,AI
+13594,canon,member of a cathedral chapter,AI
+13595,chromosome,DNA structure carrying genetic information,AI
+13596,cinephile,admirer and knowledgeable lover of cinema,AI
+13597,computer company,company active in computers,AI
+13598,computer manufacturer,company that produces computers,AI
+13599,computer conglomerate,large computer manufacturer,AI
+13600,computer network,network of connected systems,AI
+13601,computer simulation,simulation performed with a computer,AI
+13602,dandy,"man with extravagant, fashionable appearance",AI
+13603,data highway,networked facility for rapid data transfer,AI
+13604,data network,network for data transmission,AI
+13605,code name,name used to hide the real name,AI
+13606,decoder,device for decoding,AI
+13607,deca,SI prefix for ten,AI
+13608,dolphin,"toothed whale living in pods, usually fish-eating",AI
+13609,democracy movement,movement advocating democracy,AI
+13610,monument conservator,specialist in monument protection,AI
+13611,derivative word,derived word,AI
+13612,despot,ruler who governs arbitrarily and absolutely,AI
+13613,detailed question,question about a detail,AI
+13614,knowledge of German,degree of command of the German language,AI
+13615,foreign exchange reserves,stock of foreign currencies,AI
+13616,service center,center for services,AI
+13617,service law,law for service relationships,AI
+13618,dinar,currency unit in various mostly Arabic-speaking countries,AI
+13619,whatchamacallit,word used to replace a forgotten expression,AI
+13620,dioxin,"very toxic organic chlorine compound, often a waste product",AI
+13621,direct injection engine,engine with fuel injected directly into the cylinder,AI
+13622,direct investment,direct investment,AI
+13623,direct payment,payment without an intermediary,AI
+13624,discount,price reduction,AI
+13625,diskette,round magnetic removable medium in a casing,AI
+13626,discount,bank discount; deduction,AI
+13627,discount rate,interest rate for discounting,AI
+13628,documentation center,institution collecting and researching materials,AI
+13629,dolomite,rock/mineral dolomite,AI
+13630,doping agent,substance or method to enhance performance,AI
+13631,double scull,"racing boat with two rowers, each with two oars",AI
+13632,thorn bush,bush or shrub with thorns,AI
+13633,can deposit,deposit charged on beverage cans,AI
+13634,filming,phase of film production where footage is shot,AI
+13635,drug death,person who died from drug use,AI
+13636,Drost,surname,AI
+13637,dumping,selling below cost to drive out competition,AI
+13638,dumping price,price that does not cover costs,AI
+13639,major,tonality with a major third,AI
+13640,vertex,corner point of a geometric figure,AI
+13641,adultery,entering non-tolerated extramarital relations,AI
+13642,home ownership subsidy,German subsidy for owner-occupied housing,AI
+13643,one-act play,play performed in a single act,AI
+13644,single party,party that contains all conforming currents,AI
+13645,process of agreement,process of reaching agreement,AI
+13646,unification treaty,treaty on unification,AI
+13647,shopping tour,visiting multiple shops to buy,AI
+13648,loss of income,loss of income,AI
+13649,loss of revenue,loss of an inflow of money,AI
+13650,ratings,share of viewers or listeners of a program,AI
+13651,sender,person who sends something by mail,AI
+13652,submission,sending something to a designated place,AI
+13653,recording,performance; recording of music,AI
+13654,immigration law,law on immigration,AI
+13655,objection,reaction expressing concerns; objection,AI
+13656,single union,union for one sector,AI
+13657,retail association,association of retailers,AI
+13658,detail,single part of a larger whole,AI
+13659,individual fate,special life circumstances of a person,AI
+13660,single part,item that cannot be further divided,AI
+13661,individual ranking,ranking for individuals,AI
+13662,elegy,"poem with a sad, plaintive theme",AI
+13663,electronics conglomerate,large electronics manufacturer,AI
+13664,electrosmog,man-made electromagnetic radiation with potential health effects,AI
+13665,student,student at an acting or ballet school,AI
+13666,elf,female mythical being,AI
+13667,emigrant,"person who emigrates, often for political or religious reasons",AI
+13668,eminence,title and form of address of cardinals,AI
+13669,end times,period before the end of the world,AI
+13670,survey,"official inquiry, survey, investigation",AI
+13671,enthusiast,person who has passionate enthusiasm for something,AI
+13672,development worker,person helping in a developing country,AI
+13673,hereditary trait,inherited disposition,AI
+13674,hereditary substance,heritable genetic material,AI
+13675,potato,potato,AI
+13676,earthquake victim,person harmed by an earthquake,AI
+13677,continent,large separated part of Earth's surface,AI
+13678,rule of thumb,approximate solution derived from experience,AI
+13679,chance of success,prospect of success,AI
+13680,requirement,condition for something to be done,AI
+13681,alternative health fund,alternative health insurance fund,AI
+13682,form,form in which something appears,AI
+13683,rigidity,process of becoming rigid,AI
+13684,producer price,price based on production costs plus profit that the producer charges a buyer,AI
+13685,product,result of a manufacturing process such as a good for trade,AI
+13686,parental allowance,state financial support to a parent raising a newborn and working little or not at all,AI
+13687,parental leave,parental leave,AI
+13688,escapade,affair; adventurous act; eccentric deed,AI
+13689,ethnologist,scientist who works in ethnology,AI
+13690,village fence,name for the fence surrounding a village,AI
+13691,Eucharist celebration,holding or celebrating the Eucharist,AI
+13692,euro area country,state that adopted the euro as official currency,AI
+13693,Europa League,European football competition,AI
+13694,evangelist,one of the four authors of the New Testament gospels,AI
+13695,executive officer,official of the executive branch,AI
+13696,exotic person,foreigner; exotic person,AI
+13697,exponent,number placed before a radical sign or as a superscript of a base,AI
+13698,expressionist,representative of expressionism,AI
+13699,extremist,person who acts in an extreme way; supporter of extremism,AI
+13700,manufacturer,person who produces something industrially or in large quantities,AI
+13701,circle of experts,circle of specialists,AI
+13702,facsimile,exact reproduction of a manuscript book or drawing usually by photographic methods,AI
+13703,leaflet,small sheet of paper folded at least once with information or advertising,AI
+13704,family minister,head of a family ministry,AI
+13705,family name,part of the full name shared by members of a family,AI
+13706,family group,group of related individuals,AI
+13707,fate,higher power that orders the events that happen to a person,AI
+13708,purgatory,process of purification that prepares the soul of the dead for heaven in Roman Catholic teaching,AI
+13709,mistake,decision or action that leads to a faulty or undesired result,AI
+13710,fineness,fine quality of a fabric or structure,AI
+13711,window lifter,device for raising a window,AI
+13712,holiday guest,person staying somewhere on vacation away from home,AI
+13713,television broadcaster,institution or company for developing and broadcasting television programs,AI
+13714,television set,electronic device that receives broadcasts via terrestrial waves satellite or cable and reproduces them,AI
+13715,television appearance,appearance of a person on a TV program,AI
+13716,television image,image displayed on the TV,AI
+13717,television camera,camera for recording TV images,AI
+13718,television channel,frequency band in which a TV station broadcasts,AI
+13719,television screen,screen of a television set,AI
+13720,television station,TV station,AI
+13721,distant destination,far away destination,AI
+13722,prefab house,house prefabricated in a factory and assembled on site,AI
+13723,festival guest,person attending a festival as a guest,AI
+13724,festivity,festive event,AI
+13725,festival performance,splendid cultural event,AI
+13726,wetland,wet biotope; habitat rich in water,AI
+13727,fire blight,bacterial disease in fruit trees,AI
+13728,firefight,combat with firearms,AI
+13729,tax official,employee in a special service relationship at a finance authority,AI
+13730,financial service,service in the financial sector,AI
+13731,financial problem,problem with money or budget,AI
+13732,female finance senator,female senator for finances,AI
+13733,company customer,customer of a company,AI
+13734,fishing boat,boat used for catching fish and seafood,AI
+13735,wing,body part that enables a creature to fly,AI
+13736,fixing,rate setting in the financial market,AI
+13737,flaneur,person who strolls idly in a lively attractive environment,AI
+13738,tile,thin plate of ceramic stone or glass used for floors or wall cladding,AI
+13739,foil,thrusting weapon with straight blunt square blade,AI
+13740,aircraft movement,takeoff or landing of an aircraft,AI
+13741,flying lesson,lesson in flying,AI
+13742,consequential damage,damage as a result of an event,AI
+13743,torture,carrying out or suffering torture,AI
+13744,research result,result produced by successful research,AI
+13745,research program,program for research projects,AI
+13746,research reactor,nuclear reactor for research and production of radioisotopes,AI
+13747,further development,change in the right direction over time,AI
+13748,group member,member of a parliamentary group,AI
+13749,womens commissioner,woman tasked with enforcing equal rights,AI
+13750,womens commissioner genitive,genitive singular form of the noun Frauenbeauftragte,AI
+13751,womens question,topic of equality,AI
+13752,womens organization,organization for women,AI
+13753,female voice,voice of a woman,AI
+13754,liberal,member of a liberal party,AI
+13755,civil liberty,basic right to act freely without legal restriction,AI
+13756,free ticket,ticket for free admission,AI
+13757,tourist office,tourism office,AI
+13758,unfamiliarity,state of lack of familiarity,AI
+13759,peace negotiation,negotiation aimed at achieving a peace treaty,AI
+13760,fundamentalism,determined adherence to the foundations of an idea or belief,AI
+13761,fundamentalist,person with uncompromising stance based on unquestioned truths,AI
+13762,radio exhibition,exhibition for radio or electronics,AI
+13763,radio image,image transmitted by radio,AI
+13764,furrow,long narrow shallow depression in the ground usually in a field,AI
+13765,future tense,verb tense indicating the future,AI
+13766,crook,person who cheats or commits serious crimes,AI
+13767,curtain,thin curtain used to block view and soften light,AI
+13768,gardener,person who gardens,AI
+13769,Gatt,family name,AI
+13770,Gaullist,supporter of Gaullism,AI
+13771,culinary delight,tasty food or drink,AI
+13772,bones,bones or skeleton of a living human,AI
+13773,donor country,country that gives aid or money,AI
+13774,regional health insurance,health insurance responsible for a geographic area in Austria,AI
+13775,territorial reform,reorganization of certain districts,AI
+13776,consumer good,object for everyday use,AI
+13777,given circumstance,existing fact or state,AI
+13778,reply,formulation of another view that supplements or corrects a published story,AI
+13779,counter demonstrator,participant in a counter demonstration,AI
+13780,assistant,person who has passed a helper exam,AI
+13781,hostage drama,hostage taking with a dramatic course,AI
+13782,humanities,group of sciences concerned with culture and intellectual life,AI
+13783,money market,market for short term loans,AI
+13784,money bag,bag for money,AI
+13785,rail track,track for rail vehicles,AI
+13786,community member,person who belongs to a community,AI
+13787,municipal election,election of community or city councils,AI
+13788,malice,maliciousness or unfriendliness,AI
+13789,gendarmerie officer,officer of the gendarmerie,AI
+13790,gendarmerie post,station of the gendarmerie,AI
+13791,general director,chief manager of a theater or broadcasting institution,AI
+13792,genetic technology,technology for decoding changing and using genetic information,AI
+13793,genetic test,procedure to obtain information about an individual from DNA,AI
+13794,Germanic person,member of various tribes from northern and central Europe using Germanic languages,AI
+13795,complete edition,publication of all works of an author or composer,AI
+13796,occurrence,interesting or significant process,AI
+13797,facial feature,particular aspect of facial features,AI
+13798,like minded person,person with the same political religious or ideological attitude,AI
+13799,yeast,substance with yeast used to start fermentation and make dough rise,AI
+13800,health expert,specialist in health topics,AI
+13801,health damage,damage to health,AI
+13802,ghetto,quarter inhabited by Jewish population separated from other city districts,AI
+13803,commercial enterprise,business operated independently for profit,AI
+13804,union leader,leader of a union,AI
+13805,union member,person who is a union member,AI
+13806,union congress,meeting where union members gather,AI
+13807,weightlifter,person who practices weightlifting,AI
+13808,profit taking,realization of profits,AI
+13809,toxin,toxic chemical compound or mixture,AI
+13810,highlight,thing that impresses people positively,AI
+13811,heyday,period when someone or something was at its peak,AI
+13812,glasnost,public openness slogan of reforms in the USSR mid 1980s,AI
+13813,gold reserve,financial reserve consisting of gold,AI
+13814,trench warfare,fighting in trenches,AI
+13815,congratulator,person who congratulates someone,AI
+13816,border guard,guard at a national border,AI
+13817,border soldier,soldier assigned to border duty,AI
+13818,border troops,troops for border security,AI
+13819,grimace,deliberately distorted face,AI
+13820,brains,cognitive performance,AI
+13821,foundation base,lowest load bearing part connecting a structure to the ground,AI
+13822,basic knowledge,foundational knowledge about a topic,AI
+13823,foundation wall,part of masonry in the ground that supports a building,AI
+13824,base value,base value,AI
+13825,main features,most important corner points,AI
+13826,grunge,rock music from the 1980s US Northwest with relaxed guitar sound,AI
+13827,group work,work in a group,AI
+13828,guerrillero,member of a unit waging guerrilla warfare,AI
+13829,habilitation,highest academic examination establishing teaching qualification,AI
+13830,trade relation,connection for buying or selling goods or services,AI
+13831,physical altercation,physical or violent confrontation,AI
+13832,handcuff,steel lockable cuff for wrists,AI
+13833,happening,improvised event with audience involvement,AI
+13834,Harare,capital of Zimbabwe,AI
+13835,hardcore,hard extreme form,AI
+13836,harmonium,keyboard instrument with reeds set in vibration by air,AI
+13837,armor,armor worn by knights for protection,AI
+13838,sword,17th century sword with two edges used for striking,AI
+13839,main association,central association,AI
+13840,budget consultation,meeting of politicians to discuss income and expenses of a city or state,AI
+13841,lift,raising something upward,AI
+13842,host,part of active armed forces,AI
+13843,violence,strong intensity of a process,AI
+13844,Salvation Army,Christian free church with strong social work,AI
+13845,heroin dispensing,controlled dispensing of heroin,AI
+13846,unskilled worker,person without special training for their work,AI
+13847,relief goods,goods used to support people in need,AI
+13848,aid shipment,delivery of items for support,AI
+13849,rear building,building section attached behind a house,AI
+13850,university graduate,person who completed university studies,AI
+13851,university law,law for universities,AI
+13852,peak performance,peak phase or maximum performance,AI
+13853,hotel guest,person staying in a hotel,AI
+13854,hube,area measure sufficient to feed a family,AI
+13855,homage,sign of devotion,AI
+13856,prostitute,woman who performs sexual acts for money,AI
+13857,hymn,solemn song of praise,AI
+13858,mortgage bank,bank specializing in mortgages,AI
+13859,ibis,birds of the family Threskiornithidae,AI
+13860,idealist,advocate of idealism,AI
+13861,idiom,characteristic way of speaking of a group,AI
+13862,impression,impression gained by sensory perception or feeling,AI
+13863,impressionist,representative of impressionism,AI
+13864,indigenous person,indigenous person of Latin America,AI
+13865,indiscretion,disclosure of personal or secret information,AI
+13866,individualist,person who claims maximum independence in thinking and acting,AI
+13867,industrial society,society shaped primarily by industry,AI
+13868,industrial state,highly developed state with significant industry,AI
+13869,infarction,tissue death due to lack of oxygen from insufficient blood flow,AI
+13870,information society,society focused on information,AI
+13871,initiator,person who starts something,AI
+13872,domestic press,press of the home country,AI
+13873,instruction,instruction to familiarize someone with something,AI
+13874,instrumentalist,person who plays an instrument professionally,AI
+13875,Interregio,former train category,AI
+13876,incest,sexual intercourse between close blood relatives,AI
+13877,millennium change,change to a new millennium,AI
+13878,venetian blind,window blind with slats,AI
+13879,jargon,way of speaking of certain social or professional circles,AI
+13880,jogging,steady leisurely running as a recreational sport,AI
+13881,Jordanian,citizen of Jordan,AI
+13882,youth music,music by or for youths,AI
+13883,Yugoslav,former citizen of Yugoslavia,AI
+13884,young farmer,young farmer,AI
+13885,youth group,child or youth group,AI
+13886,young socialist,young socialist,AI
+13887,junior,female daughter of a company owner,AI
+13888,justice senator,senator responsible for legal affairs in city states,AI
+13889,female justice spokesperson,female spokesperson for justice topics,AI
+13890,cabinet member,person belonging to a cabinet,AI
+13891,cabinet reshuffle,reshuffle of a government,AI
+13892,qadi,judge in some Arab states,AI
+13893,kaleidoscope,tube with mirrors that creates symmetric patterns,AI
+13894,caliph,successor of Muhammad and head of the Muslim community,AI
+13895,calorie,heat needed to raise 1 gram of water by one degree Celsius,AI
+13896,combat action,deliberate participation in ongoing fighting,AI
+13897,chemical agent,substance used in war that is lethal or harmful,AI
+13898,cannibal,person who eats human flesh,AI
+13899,caner,person who paddles a canoe,AI
+13900,capital return,gain from an investment such as interest or dividends,AI
+13901,capriole,artful leap by Italian dancers,AI
+13902,cirque,bowl shaped hollow on a mountain slope,AI
+13903,Karabakh,region in the Caucasus,AI
+13904,parental allowance,money during parental leave in Austria,AI
+13905,caricaturist,person who draws caricatures,AI
+13906,carnival participant,person involved in carnival,AI
+13907,carriage,palatially equipped coach,AI
+13908,catacomb,underground burial site,AI
+13909,Catalan,inhabitant of Catalonia,AI
+13910,hangover,unpleasant physical symptoms after intoxication,AI
+13911,about face,turn to the opposite direction,AI
+13912,dungeon,prison,AI
+13913,nuclear weapon,weapon whose explosion comes from nuclear processes,AI
+13914,church fair,annual festival of the church dedication,AI
+13915,kidnapper,person who has kidnapped someone,AI
+13916,friend of children,person friendly to children,AI
+13917,kindergarten child,child attending kindergarten,AI
+13918,childhood disease,disease mainly occurring in children,AI
+13919,child pornography,media showing sexual acts with persons under 14,AI
+13920,child shoe,shoe made for children,AI
+13921,cinema center,cinema complex with several halls,AI
+13922,boulder,large stone or rock,AI
+13923,timbre,character of a sound,AI
+13924,classicism,styles that connect to classical antiquity,AI
+13925,small farmer,farmer with a small low yield farm,AI
+13926,small animal,small animal,AI
+13927,clergy,totality of the clergy,AI
+13928,Knopp,family name,AI
+13929,coalition statement,statement about a coalition,AI
+13930,coalition faction,faction of a coalition,AI
+13931,coalition party,party that is part of a coalition,AI
+13932,coalition round,negotiation round of the coalition,AI
+13933,coalition negotiation,negotiation to reach a coalition agreement,AI
+13934,hydrocarbon,organic compound consisting only of carbon and hydrogen,AI
+13935,colloquium,scientific discussion or conversation,AI
+13936,colonial ruler,member of the country ruling a colony,AI
+13937,combined wage,wage topped up by the state,AI
+13938,combine,industrial combine in former GDR and other socialist states,AI
+13939,fellow student,person who studies at the same university,AI
+13940,commission member,member of a commission,AI
+13941,communication technology,technology for communication,AI
+13942,communique,official communication,AI
+13943,confirmand,person preparing for or receiving confirmation,AI
+13944,economic upturn,upswing of the economy,AI
+13945,bankruptcy petition,application for insolvency,AI
+13946,bankruptcy administrator,court appointed person to conduct bankruptcy,AI
+13947,consortium member,member of a consortium,AI
+13948,consumer good,good made for private consumption,AI
+13949,contact address,address for contact,AI
+13950,control office,office for control or audit,AI
+13951,control system,system for control,AI
+13952,convergence criterion,criterion for economic convergence,AI
+13953,concentration process,process of companies merging,AI
+13954,coordinate,number indicating distance from a hyperplane,AI
+13955,per capita fee,uniform flat rate per person,AI
+13956,copier,device for reproducing documents by electrophotography,AI
+13957,coral,sea animal of the class Anthozoa living in colonies,AI
+13958,corruption allegation,allegation of bribery,AI
+13959,cosmetic,product for body care or beauty enhancement,AI
+13960,cosmonaut,space traveler from Russia or former USSR,AI
+13961,preciousness,valuable thing,AI
+13962,cost savings,reduction of costs,AI
+13963,medical facility,facility for medical treatment,AI
+13964,loan interest,interest paid by borrower for a loan,AI
+13965,Krem,family name or place name,AI
+13966,war crimes tribunal,court for war crimes,AI
+13967,crisis region,region where a crisis or emergency exists,AI
+13968,crisis period,period shaped by a crisis,AI
+13969,crisis,unstable state,AI
+13970,crown colony,British colony,AI
+13971,crown witness rule,regulation for crown witnesses,AI
+13972,cultural institute,public institution to promote culture,AI
+13973,cultural studies,interdisciplinary approach to culture as everyday practice,AI
+13974,comrade,friend or member of the same company,AI
+13975,customer base,number and type of customers,AI
+13976,art business,activities around selling and exhibiting art,AI
+13977,ice rink,ice rink for skating,AI
+13978,art lover,person who loves art,AI
+13979,art object,artistically designed object created as art,AI
+13980,art treasure,collection of valuable artworks,AI
+13981,Kurd,an Iranian people,AI
+13982,Kurdish woman,a female member of an Iranian people,AI
+13983,spa guest,person staying at a spa for a cure,AI
+13984,timetable book,directory of schedules for public transport especially rail and bus connections,AI
+13985,price rise,increase of a rate,AI
+13986,pastime,light pleasant sometimes amusing entertainment,AI
+13987,laughing muscle,muscle that pulls the corner of the mouth upward when laughing,AI
+13988,shop closing law,law about shop opening hours,AI
+13989,closing time,time of shop closing,AI
+13990,lament,song of mourning,AI
+13991,state media authority,media regulator of a federal state,AI
+13992,state school council,Austrian school supervisory and administrative authority,AI
+13993,state central bank,central bank of a state historically,AI
+13994,farm woman,individual female member of a farmers association,AI
+13995,land mine,mine hidden under the ground usually triggered by contact,AI
+13996,long term unemployed person,person without a job for a long time,AI
+13997,burden sharing,measure after World War II to compensate losses of expellees and returnees,AI
+13998,louse,unspecified small parasitic insect,AI
+13999,covert wiretap,secret eavesdropping also a political term about when authorities may wiretap suspects,AI
+14000,living condition,totality of conditions surrounding a living being,AI

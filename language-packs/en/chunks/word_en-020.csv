@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-1901,show,public exhibition organized by theme,AI
-1902,scene,place where something happens,AI
-1903,disc,round flat thing,AI
-1904,hit song,successful widely heard and sung light entertainment song,AI
-1905,snake,order of legless animals Serpentes,AI
-1906,final phase,last phase,AI
-1907,pain,unpleasant sensation caused by injury,AI
-1908,chocolate,cocoa food product in bar block or figure form,AI
-1909,writer,person who writes literary texts professionally,AI
-1910,school year,period of a year when school takes place in Austria including summer holidays,AI
-1911,shoulder,body region in vertebrates between the neck base and the shoulder joints,AI
-1912,shoemaker,craftsman who makes or repairs shoes,AI
-1913,pregnancy,physical condition of a woman from conception to birth,AI
-1914,black person,person with dark skin color,AI
-1915,silence,state and act of not speaking with no acoustic communication,AI
-1916,blessing,ritual wish for gods grace or help for someone or something,AI
-1917,sector,part of an area,AI
-1918,self confidence,character trait of being sure of ones abilities,AI
-1919,senior,elderly person,AI
-1920,senior woman,elderly woman,AI
-1921,reduction,decrease or lowering of a value,AI
-1922,Serbia,state in Southeast Europe,AI
-1923,server,computer in a network that provides services for other computers,AI
-1924,fuse,component that interrupts a circuit when current is too high to prevent damage,AI
-1925,scandal,event that causes uproar and is rejected,AI
-1926,skepticism,doubt and critical mistrustful attitude,AI
-1927,ski,gliding device for moving on snow or water,AI
-1928,Slovenia,state in Central Europe,AI
-1929,summer break,time in summer when work or sport is partly paused,AI
-1930,Saturday,weekday between Friday and Sunday,AI
-1931,sunshine,sun rays that reach the Earth,AI
-1932,Sunday morning,morning of a Sunday,AI
-1933,Sunday afternoon,afternoon of a Sunday,AI
-1934,assortment,all offered and selected items of a trading company,AI
-1935,sound,characteristic sound of music,AI
-1936,Soviet Union,former state USSR,AI
-1937,welfare state,state that takes financial and material measures to reduce social inequality and prevent poverty,AI
-1938,Spaniard,citizen of Spain,AI
-1939,savings bank,credit institution usually publicly owned by a municipality or district,AI
-1940,walk,leisurely walk for recreation,AI
-1941,storage building,building used to store supplies,AI
-1942,spectrum,variety of phenomena and possibilities in a certain area,AI
-1943,donation,voluntary free gift for a charitable purpose in money goods or services,AI
-1944,barrier,structure that restricts free traffic,AI
-1945,playground,designated place for children to play often with equipment,AI
-1946,leeway,possibility to move freely or decide within limits,AI
-1947,front runner,person or institution that surpasses all others in a given measure,AI
-1948,jumping,jumping discipline in sport,AI
-1949,sprint,covering a short distance at maximum speed in various sports,AI
-1950,public prosecutor,official of a public prosecution office and organ of justice,AI
-1951,cityscape,particular image a city presents of itself,AI
-1952,city hall,large event hall in a city,AI
-1953,steel,metal alloy mainly of iron with carbon content between 0.02 and 2.06 percent,AI
-1954,start shot,shot that starts a race,AI
-1955,dust,fine small particles suspended in air or deposited,AI
-1956,increase,increase of something,AI
-1957,deputy,person who can replace someone and assume their role,AI
-1958,zodiac sign,zodiac sign,AI
-1959,control,technical device in machines ships or vehicles to determine function or direction,AI
-1960,taxpayer,person obligated to pay taxes,AI
-1961,runoff vote,vote between the last two candidates for an office,AI
-1962,silence,absence of acoustic signals like noise music or sounds,AI
-1963,material,material substance,AI
-1964,stop,stop or stopping place,AI
-1965,penalty area,area marked around the goal with special rules,AI
-1966,crime,act punished by law unlawful act,AI
-1967,streich dative plural,dative plural of the noun Streich,AI
-1968,patrol,group that patrols an area for control,AI
-1969,strip,long narrow differently colored section of a surface,AI
-1970,patrol car,police car used for patrol duty,AI
-1971,step,individual part of a staircase used for stepping up or down,AI
-1972,chair,seat furniture usually with four legs and backrest,AI
-1973,substance,matter solid liquid or gaseous,AI
-1974,superstar,person who surpasses all other stars in fame,AI
-1975,support,help or service such as provided by a seller,AI
-1976,Sydney,city in Australia,AI
-1977,tablet,flat piece often used for chocolate serving form,AI
-1978,agenda,program of a meeting or assembly,AI
-1979,Taiwan,island state or region in East Asia,AI
-1980,valley,low lying terrain between elevations,AI
-1981,gas station,station for refueling vehicles,AI
-1982,dance,rhythmic movement performed to music or rhythmic sounds,AI
-1983,team leader,leader of a working group,AI
-1984,teammate,person on the same team,AI
-1985,teenager,boy or girl between about 13 and 19 years,AI
-1986,participation,ability to take part,AI
-1987,phone call,conversation by telephone,AI
-1988,telecom,part of many telecom company names and shorthand for them,AI
-1989,plate,round usually flat piece of tableware for serving food,AI
-1990,tendency,inclination or striving,AI
-1991,tennis,ball game played as a racket sport with a tennis ball,AI
-1992,carpet,floor covering made of fabric,AI
-1993,terrace,larger level area by or on a building,AI
-1994,terrorist organization,association of people engaged in terrorist activities,AI
-1995,friendly match,preparation game that does not count in ranking,AI
-1996,devil,evil spirit being,AI
-1997,Texas,US state,AI
-1998,Thailand,state in Southeast Asia,AI
-1999,theory,thought model to explain phenomena or construct new worlds,AI
-2000,title defender,person defending a title in a competition,AI
+9501,helper,unskilled assistant,AI
+9502,harm,deep emotional or physical injury or damage,AI
+9503,tusks,protruding canine teeth of a wild boar,AI
+9504,main defendant female,female person accused as main culprit,AI
+9505,main burden,largest heaviest burden,AI
+9506,main guard,central guard post,AI
+9507,main bank,customers primary bank,AI
+9508,house construction,construction of a building,AI
+9509,fiscal year,period corresponding to a calendar year for a budget,AI
+9510,budget consolidation,reduction of public debt to achieve a balanced budget,AI
+9511,household goods,all items belonging to a household,AI
+9512,spa resort,spa town with healing springs,AI
+9513,remedy,substance or medical method that brings healing,AI
+9514,homes dative,dative plural of the noun Heim,AI
+9515,executioner,person who carries out executions,AI
+9516,herald,announcer or messenger in the Middle Ages,AI
+9517,mens team,group of male athletes forming a team,AI
+9518,hornets nest,place of chaotic confusion,AI
+9519,rear hand,player who plays the last card in a trick,AI
+9520,back room,room accessible only through other rooms,AI
+9521,sign,clearly visible flat object carrying a short message,AI
+9522,peak form,best form or peak performance,AI
+9523,high culture,advanced highly developed culture,AI
+9524,highland,land area at higher elevation,AI
+9525,stool,simple seat without back or armrest,AI
+9526,testicle,male gonad,AI
+9527,hopelessness,state of being without hope,AI
+9528,court garden,garden of a court or palace,AI
+9529,tutor,house tutor for nobility and wealthy families,AI
+9530,hops,hops plant used to create bitterness in brewing,AI
+9531,hormone,substance that transmits information between organs and regulates functions,AI
+9532,humanism,philosophy centered on human interests values and dignity,AI
+9533,image damage,undesired reduction of reputation,AI
+9534,imam,person who leads ritual prayer in a mosque,AI
+9535,import ban,ban on importing goods and services from abroad,AI
+9536,Native American,indigenous inhabitant of America,AI
+9537,industrial union,union of industry,AI
+9538,industrial park,business park used by industrial companies,AI
+9539,inferno,terrible catastrophic event,AI
+9540,information booth,booth for providing information,AI
+9541,infusion,introducing fluid into the body over time usually intravenously,AI
+9542,injection,injection,AI
+9543,interior design,furnishing of a room,AI
+9544,islander,person living on an island,AI
+9545,interested party,person interested in something,AI
+9546,performer,performer of an existing artistic work,AI
+9547,intrigue,malicious plan to exploit others for ones benefit,AI
+9548,investment company,association of investors investing in securities property or commodities,AI
+9549,odyssey,literary motif for wandering such as the Odyssey,AI
+9550,hunting lodge,princely building in forest area built for hunting,AI
+9551,annual income,income in a year,AI
+9552,annual result,result of a fiscal year,AI
+9553,annual assembly,assembly held yearly,AI
+9554,turn of the century,transition from one century to the next,AI
+9555,youth unemployment,state where many young job seekers cannot find work,AI
+9556,youth area,area reserved for youths,AI
+9557,youth sentence,court imposed prison sentence for youths,AI
+9558,youth meeting point,meeting place for youths,AI
+9559,jeweler,person who sells expensive jewelry,AI
+9560,coffeehouse,place to drink coffee read and eat pastries,AI
+9561,empire,realm ruled by an emperor or empress,AI
+9562,kayak,boat type developed from Inuit paddling boats,AI
+9563,comrade,soldier sharing quarters or in the same army,AI
+9564,high court,highest court of a state,AI
+9565,jug,larger vessel for liquids,AI
+9566,cantor,person who plays organ or leads choir in worship,AI
+9567,karaoke,leisure activity from Japan of singing to instrumental tracks,AI
+9568,parental leave,leave granted for reasons such as birth or education,AI
+9569,cartel,illegal agreements between companies to restrict competition,AI
+9570,antitrust office,authority responsible for protecting competition,AI
+9571,advance ticket sales,sale before the event date,AI
+9572,blockbuster,product that is a financial success,AI
+9573,Catalonia,region in Spain,AI
+9574,Catholicism,totality of Roman Catholic beliefs and practices,AI
+9575,purchase offer,offer to buy something,AI
+9576,chewing gum,gum like mass with flavoring that is chewed,AI
+9577,hairpin bend,turning loop on a route,AI
+9578,germ cell,sex cell serving reproduction,AI
+9579,cellar room,room located in the cellar of a building,AI
+9580,club,tool or weapon with a heavy end and handle,AI
+9581,Khartoum,capital of Sudan,AI
+9582,childrens choir,choir composed only of children,AI
+9583,childrens theater,theater for children,AI
+9584,Kinshasa,capital of DR Congo,AI
+9585,fawn,young of deer or goats,AI
+9586,class struggle,economic political and ideological struggle between classes,AI
+9587,small investor,investor with little capital,AI
+9588,treasure,ornament or something considered particularly precious,AI
+9589,clamp,tool or device for clamping something,AI
+9590,bell,device that rings,AI
+9591,monastery church,church building of a monastery,AI
+9592,club leader,coordinator of a party faction,AI
+9593,genuflection,falling to the knees to show submission or reverence,AI
+9594,goblin,dwarflike spirit that plays tricks,AI
+9595,Kolbe,family name,AI
+9596,colonial power,state that rules colonies,AI
+9597,commerce,commercial action,AI
+9598,confectionery,business producing cakes and pastries,AI
+9599,congress hall,large room for meetings or events,AI
+9600,congress center,center for congresses,AI
+9601,consultation,joint consultation,AI
+9602,contrast program,thing that forms a strong contrast,AI
+9603,group headquarters,headquarters from which a company is managed,AI
+9604,Korean,citizen of the Republic of Korea,AI
+9605,correctness,quality of being correct,AI
+9606,female correspondent,female journalist working as a foreign correspondent,AI
+9607,cost explosion,strong increase in prices or costs,AI
+9608,cost factor,factor influencing costs,AI
+9609,cost reduction,reduction of costs,AI
+9610,motor vehicle,land vehicle propelled by a motor,AI
+9611,hospital stay,stay in a hospital,AI
+9612,case of illness,situation where a disease is diagnosed,AI
+9613,credit uptake,taking out a loan,AI
+9614,party to a war,participant in an armed conflict,AI
+9615,criminal case,criminal act to be investigated and tried,AI
+9616,culture ministry,ministry for culture,AI
+9617,education minister,minister responsible for education and culture,AI
+9618,customer service,often free additional service in consumer dealings,AI
+9619,distaff,rod used in spinning to hold fibers,AI
+9620,art exhibition,public presentation of artworks,AI
+9621,female art historian,female scholar specializing in art history,AI
+9622,art project,artistic project,AI
+9623,art collection,collection of art objects,AI
+9624,price drop,sudden loss of a rate,AI
+9625,Kuwait,state on the Persian Gulf,AI
+9626,shop owner,person who owns a shop,AI
+9627,cargo space,part of a vehicle where freight or luggage can be stored,AI
+9628,situation report,report on a situation,AI
+9629,warehouse,often large building used for storing goods,AI
+9630,lamb,young sheep,AI
+9631,state champion,winner of a state championship in a discipline,AI
+9632,state theater,theater of a federal state,AI
+9633,parliamentary group,group of members in a state parliament,AI
+9634,Laos,state in Southeast Asia,AI
+9635,lava,erupted magma and the rock formed when it cools,AI
+9636,leasing,transfer of use for a fee for example buildings machines or vehicles often with option to buy later,AI
+9637,life situation,totality of factors influencing a persons life at a given time,AI
+9638,tuition fee,money an apprentice had to pay for training,AI
+9639,apprenticeship position,job position to carry out an apprenticeship,AI
+9640,professorial chair,position of a full professor,AI
+9641,lesson,period in which someone is taught,AI
+9642,performance center,center for performance or training,AI
+9643,lead motion,initiative for a decision that sets the general line for future decisions,AI
+9644,principle,concise fundamental idea or rule guiding thinking and action,AI
+9645,Lenzing,third month of the year,AI
+9646,lamp,object that holds a light source such as a lamp,AI
+9647,lemonade,fruit and sugar soft drink often with carbonation and never alcohol,AI
+9648,box,small separate audience area especially in theater or opera,AI
+9649,air rifle,gun that accelerates projectile by compressed gas,AI
+9650,female poet,female person who writes lyric texts,AI
+9651,feasibility,existence of possibility to realize a plan or project,AI
+9652,mishap,unfortunate accident or embarrassing misfortune,AI
+9653,manuscript,handwritten work,AI
+9654,marshal,high court official,AI
+9655,effeminate man,man who is silly vain and effeminate,AI
+9656,muzzle,protective gear for dogs and biting horses preventing biting,AI
+9657,media world,world of the media,AI
+9658,female physician,female person who studied medicine,AI
+9659,medical studies,study of medicine,AI
+9660,guinea pig,rodent from South America kept as a pet,AI
+9661,multi event,athletic competition of several disciplines,AI
+9662,master performance,outstanding above average performance,AI
+9663,human right,right that belongs to all people and cannot be restricted,AI
+9664,pack,group of hunting dogs trained to hunt together,AI
+9665,tenants association,association for tenants,AI
+9666,Mimi,given name or nickname,AI
+9667,mismanagement,uneconomic action that fails goals by own fault,AI
+9668,staff count,number of employees,AI
+9669,member state,state that is a member of an alliance,AI
+9670,suspicion of murder,suspicion that someone committed a homicide,AI
+9671,mountain biker,person who rides a mountain bike,AI
+9672,mummy,dead body protected from decay by embalming or natural conditions,AI
+9673,music,music in Italian,AI
+9674,music theater,theater that presents musical works,AI
+9675,breast milk,milk from a mothers breast,AI
+9676,mystery,mysterious event not explainable by logical thinking,AI
+9677,neighboring house,adjacent house,AI
+9678,rectification,later correction or improvement,AI
+9679,news broadcast,broadcast on radio or tv that delivers news,AI
+9680,forbearance,understanding forgiving kindness,AI
+9681,young talent,young talent,AI
+9682,local supplier,store for local supply,AI
+9683,naming,act of naming something,AI
+9684,national team coach,coach of a national team,AI
+9685,navigation system,modern electronic system that guides to a destination using maps and GPS,AI
+9686,side room,room adjacent to another usually more important room,AI
+9687,dregs,very last remainder of a liquid in a container,AI
+9688,face value,legally fixed value of a means of payment,AI
+9689,neoliberalism,social and economic concept based on classical liberalism and neoclassical theory,AI
+9690,neurologist,specialist physician for neurology,AI
+9691,no mans land,stateless land or land between fronts in war,AI
+9692,Nigerian,citizen of Nigeria,AI
+9693,North Korean,citizen of North Korea,AI
+9694,North Pole,point on Earth farthest north,AI
+9695,zero round,wage round with no wage increase,AI
+9696,opportunism,principleless behavior sacrificing principles for success,AI
+9697,oratorio,multi part musical setting of a usually sacred action,AI
+9698,local municipality,term for various forms of local administrative units,AI
+9699,Easter bunny,fictitious figure who brings and hides Easter gifts and eggs,AI
+9700,ozone layer,layer in the lower stratosphere 20 to 50 km high enriched with ozone,AI
+9701,lease contract,contract for a lease,AI
+9702,parody,literary genre mocking imitation of a known work while keeping the form,AI
+9703,party colleague,person in the same party as someone,AI
+9704,party executive,executive board of a party,AI
+9705,step,movement in dancing sequence of steps,AI
+9706,sponsorship,voluntary assumption of a duty of care often for persons,AI
+9707,pathology,medical discipline studying causes origin effects and course of diseases and malformations,AI
+9708,package tour,trip with travel lodging and meals covered by a flat price,AI
+9709,tormentor,person who tortures someone and causes suffering,AI
+9710,workload,task to be done with a given time frame,AI
+9711,periphery,area on the edge,AI
+9712,HR department,unit responsible for employee matters,AI
+9713,pessimism,doctrine that the existing world is the worst possible,AI
+9714,parish hall,hall of a parish,AI
+9715,planting,joining a young plant with the soil,AI
+9716,paw,split toe end of a limb in land mammals excluding hoofed animals and primates,AI
+9717,phrase,syntactic word group constituent,AI
+9718,physiotherapist,health profession providing physical treatments by prescription,AI
+9719,pilot trial,test run as a pilot project,AI
+9720,placebo,medicine without active ingredient that can produce a placebo effect,AI
+9721,planetarium,building with a dome where projections simulate Earth and the universe,AI
+9722,pluralism,view that people or groups may hold different opinions,AI
+9723,political science,science that studies politics,AI
+9724,police law,law regulating police tasks powers and organization,AI
+9725,polka,lively round dance in two four time from Bohemia,AI
+9726,trombone,brass instrument with a slide to change pitch,AI
+9727,trombone choir,choir with trombones,AI
+9728,postal bus,post bus in Switzerland,AI
+9729,discount,reduced price compared to previous price,AI
+9730,price reduction,reducing the cost of a good or service,AI
+9731,price difference,difference of prices,AI
+9732,test operation,trial operation,AI
+9733,program booklet,brochure for performances with information,AI
+9734,project work,team creative work to solve a complex task,AI
+9735,projectile,bullet shot from a firearm,AI
+9736,project management,methods to plan organize control and test projects,AI
+9737,projector,device for displaying images on a surface,AI
+9738,protest movement,group seeking social or political change often via demonstrations,AI
+9739,procedure,specific often complex way of proceeding,AI
+9740,psychotherapist,physician psychologist or educator who applies psychotherapy,AI
+9741,points match,game where points are at stake for a competition,AI
+9742,puppet theater,theater form with puppets controlled by puppeteers,AI
+9743,square,quadrilateral with equal sides and right angles,AI
+9744,qualification match,one of several matches to qualify,AI
+9745,rabbi,Jewish legal and religious teacher preacher and pastor,AI
+9746,pharynx,mucous lined enlargement behind mouth and nasal cavity,AI
+9747,wheelbase,distance between vehicle axles,AI
+9748,raid,raiding undertaking,AI
+9749,caterpillar,worm like larva of butterfly or sawfly,AI
+9750,rebel,person calling for or involved in overthrow or who rebels,AI
+9751,violation of law,breach of law,AI
+9752,legal form,legally defined form for regulating legal matters and company form,AI
+9753,legal recourse,access to the courts,AI
+9754,refuge,shelter where temporary lodging is possible,AI
+9755,regatta,boat race or series of races,AI
+9756,regency,period of a regent rule,AI
+9757,government office,office in the government,AI
+9758,record result,best result,AI
+9759,record value,record value,AI
+9760,appeal,appeal or legal remedy in Austria,AI
+9761,racetrack,prepared track for races,AI
+9762,reservoir,container or basin for storing liquids or bulk goods,AI
+9763,resocialization,measures to reintegrate an offender into society,AI
+9764,revitalization,revival,AI
+9765,Rhine valley,valley of the Rhine,AI
+9766,Riesling,white grape variety widely grown in Germany,AI
+9767,Rimini,city in Italy,AI
+9768,risk factor,element that represents a risk as a factor,AI
+9769,tainted reputation,questionable reputation,AI
+9770,broadcasting institution,organization of broadcasting,AI
+9771,circuit,circuit track,AI
+9772,circular,letter sent to all members of a group,AI
+9773,rod,thin flexible twigs tied together a switch,AI
+9774,situation,current situation the state of affairs,AI
+9775,expertise,totality of relevant knowledge,AI
+9776,samba,dance with light and fast steps,AI
+9777,saddler,craftsperson who makes saddles and leather goods,AI
+9778,mess,gross dirt or dirty state,AI
+9779,box,package usually in the form of a cuboid,AI
+9780,Shanghai,city in China,AI
+9781,sharia,path to the water source kind of Islamic catechism,AI
+9782,giver,person who gives a gift,AI
+9783,shipbuilding,building of ships,AI
+9784,boatman,person working in inland shipping,AI
+9785,insult,derogatory insulting word,AI
+9786,ham,meat from the thigh of slaughter animals usually pigs,AI
+9787,smuggler,person who helps others cross a border illegally,AI
+9788,mediator,neutral person who tries to end a dispute by mediating,AI
+9789,silt,deposit of seawater and river water in tidal areas,AI
+9790,castle courtyard,courtyard of a castle,AI
+9791,disgrace,serious loss of reputation caused by others,AI
+9792,snap decision,hasty decision,AI
+9793,knickknacks,small unnecessary things,AI
+9794,moustache,large mustache on the upper lip,AI
+9795,head of hair,the whole thick hair of the head,AI
+9796,moment of shock,moment after a surprise event that causes freezing and reactions,AI
+9797,typewriter,mechanical device for writing text on paper with ink,AI
+9798,spelling style,way someone shapes a written text in language and style,AI
+9799,schooling,the total of what one can learn or has learned in school,AI
+9800,debt reduction,reduction of debts,AI
+9801,suspension,state of floating,AI
+9802,father in law,father of the spouse,AI
+9803,sidestep jump,movement where feet leave ground and land offset to the side,AI
+9804,secondary school,school for further education,AI
+9805,instant,very short span of time,AI
+9806,self realization,realization of the ideas someone has of themselves and their abilities,AI
+9807,Serra,surname or mountain range,AI
+9808,show host,person who hosts a show,AI
+9809,site,website or location in English,AI
+9810,sketch,brief drawing with rough strokes that can serve as a draft,AI
+9811,snowboarder,person who rides a snowboard,AI
+9812,software corporation,large software manufacturer,AI
+9813,special unit,special unit,AI
+9814,special permit,permit granted in exceptional cases for a special purpose,AI
+9815,extra payment,additional payment,AI
+9816,social service center,facility for social services,AI
+9817,slit,narrow cut long crack,AI
+9818,meal,meal prepared dish,AI
+9819,semen,male ejaculate of humans and animals consisting of fluids and sperm cells,AI
+9820,game hall,large hall for games and game events,AI
+9821,score,score of a game,AI
+9822,play meadow,open grass area where one can play,AI
+9823,top performance,action or result that is highly valued and praised,AI
+9824,elite athlete,athlete with exceptionally good performances,AI
+9825,sports badge,honor awarded for specific athletic achievements,AI
+9826,sports court,institution that judges violations of rules in sports associations,AI
+9827,sports event,event where sport is the focus,AI
+9828,speechlessness,temporary inability to put something into words due to strong emotion,AI
+9829,state border,territorial border of a state,AI
+9830,state security,protected condition of a state,AI
+9831,urban planner,person who does urban planning,AI
+9832,family tree,graphic representation of development history of beings or products,AI
+9833,location factor,factor for choosing a location,AI
+9834,rendezvous,meeting of lovers,AI
+9835,tax law,body of legal rules concerning taxes,AI
+9836,vote share,share of votes,AI
+9837,ray,half infinite line starting at a fixed point,AI
+9838,scattering,scattering of something,AI
+9839,styling,designing something such as products or clothing,AI
+9840,subsidy,financial aid without consideration to support companies,AI
+9841,subject matter,content or object of an artistic representation,AI
+9842,symphony,work for orchestra,AI
+9843,synthesizer,musical instrument producing tones electronically by sound synthesis,AI
+9844,open pit mine,facility that operates open pit mining,AI
+9845,tariff dispute,conflict between bargaining parties in negotiations,AI
+9846,test drive,drive carried out for testing purposes,AI
+9847,test track,track where vehicles can be tested,AI
+9848,copywriter,person who writes advertising or song lyrics,AI
+9849,textile,textile material,AI
+9850,theater producer,person who produces theater,AI
+9851,low level flight,flight at low altitude,AI
+9852,deep sleep,very deep and firm sleep,AI
+9853,animal species,animal group distinguished from others by criteria,AI
+9854,carpentry shop,carpenters business,AI
+9855,cover image,image on the title page illustrating the title,AI
+9856,title role,leading role that gives its name to the work,AI
+9857,train oil,oil from seals and fish especially whale,AI
+9858,railcar,rail vehicle with its own drive,AI
+9859,freerider,person who rides on the outside of a vehicle without paying or without space inside,AI
+9860,fallacy,false conclusion that seems correct at first sight,AI
+9861,changing booth,small room for changing clothes,AI
+9862,revenue increase,increase in turnover,AI
+9863,return on sales,return based on turnover,AI
+9864,environmental policy,policy area concerned with environmental and nature protection,AI
+9865,redesignation,change of the intended purpose,AI
+9866,entertainment value,degree to which something contributes to entertainment,AI
+9867,undergrowth,low growth under the crowns of large trees,AI
+9868,omission,often deliberate failure to act,AI
+9869,ballot vote,secret vote of union members on starting or ending a strike,AI
+9870,vacation pay,special payment to finance vacation,AI
+9871,holiday trip,trip taken for vacation,AI
+9872,vampire,night active figure from Slavic folklore that feeds on blood,AI
+9873,verdict,judgment verdict,AI
+9874,sales stall,quickly set up sales stand,AI
+9875,transport committee,committee for transport,AI
+9876,measurement,measuring of something,AI
+9877,transfer,promotion of a pupil to same or next higher class,AI
+9878,verve,energy and enthusiasm especially in art,AI
+9879,neglect,deficient condition caused by too little care or resources,AI
+9880,veteran,experienced seasoned person,AI
+9881,nepotism,excessive favoritism of relatives,AI
+9882,video camera,device for recording film sequences electronically,AI
+9883,ward round,doctor visit at a patients bedside,AI
+9884,vocabulary,range of words someone uses or of a field,AI
+9885,preselection,selection made in advance,AI
+9886,warm up game,game used as practice for a competition,AI
+9887,visionary,person who influences with pioneering ideas,AI
+9888,advance performance,performance rendered in advance,AI
+9889,pretext,advancement or support,AI
+9890,starter,first course of a multi course meal,AI
+9891,Wachau,region in Austria,AI
+9892,election fraud,illegal manipulation of an election result,AI
+9893,gelding,male horse that has been castrated,AI
+9894,pilgrimage church,church that is a destination of pilgrimages,AI
+9895,tub,long open container with high walls and flat bottom,AI
+9896,shroud,rope or rod for lateral bracing of a mast,AI
+9897,washbasin,sanitary facility usually mounted on a wall for washing,AI
+9898,tap,closable end piece of a water pipe,AI
+9899,openness to the world,attitude of being open to ideas and people from outside,AI
+9900,global economic crisis,sharp decline of production and trade in many economies,AI
+9901,weather report,public report about weather and forecast,AI
+9902,unchecked growth,disordered growth,AI
+9903,efficiency,ratio of output to input,AI
+9904,economic factor,factor of the economy,AI
+9905,housing company,company for housing construction,AI
+9906,request to speak,act of requesting to speak often by raising a hand,AI
+9907,literal meaning,what a word actually means,AI
+9908,pliers,tool with two interlocking jaws and handles,AI
+9909,toe,part of the foot corresponding to a finger,AI
+9910,slow motion,slowed down display of a film sequence,AI
+9911,newspaper article,short self contained text in a newspaper,AI
+9912,eyewitness,person who personally experienced a historical event,AI
+9913,umbrella association,superordinate association,AI
+9914,strain,painful overstretch of ligaments tendons or muscles,AI
+9915,fragmentation,division into many parts,AI
+9916,goat,genus of ruminant animals in the bovid family,AI
+9917,brick,rectangular fired clay block used to build a wall,AI
+9918,digit,single sign to represent a number,AI
+9919,tip,elongated often pointed extension or end piece,AI
+9920,compass,device for drawing circles,AI
+9921,civil service worker,person who performs civil service,AI
+9922,civil trial,legal proceeding deciding a dispute between natural or legal persons,AI
+9923,future vision,visual idea of the future,AI
+9924,spectator count,number of spectators,AI
+9925,forced laborer,person forced to do labor,AI
+9926,doubter,person who often tends to doubt,AI
+9927,branch office,branch office of an institution,AI
+9928,intermediate round,round between preliminary and final,AI
+9929,adventure playground,often supervised playground with many activities,AI
+9930,downhill skier,someone who does a downhill run; someone competing in downhill racing,AI
+9931,handling,aviation/shipping: loading of goods or people and issuing required papers,AI
+9932,farewell letter,"letter written to say goodbye, e.g., in a suicide context",AI
+9933,graduate,person who has completed education,AI
+9934,relegation round,round for relegation,AI
+9935,gradation,arrangement divided into steps,AI
+9936,drop,act of dropping something from above (often from aircraft),AI
+9937,action film,film dominated by spectacular fights and violence,AI
+9938,meticulousness,"utmost care, precision, and thoroughness",AI
+9939,file inspection,access to files,AI
+9940,stock trading,trading in shares,AI
+9941,block of shares,package of shares,AI
+9942,alibi,proof of not being at the scene of a crime,AI
+9943,alcohol problem,dependence on alcohol,AI
+9944,allergy,strong immune reaction to normally harmless substances,AI
+9945,four-wheel drive,drive with all wheels,AI
+9946,daily life,sum of what is done and experienced daily,AI
+9947,alpine pasture,pasture in the Alps; also the associated farm,AI
+9948,Alpine region,land in the Alps,AI
+9949,elderly care,all measures for care of elderly people,AI
+9950,old-age security,provision in old age,AI
+9951,public health officer,doctor in the public health service,AI
+9952,boost,intensification of something,AI
+9953,plant engineering,industry of building technical and industrial plants,AI
+9954,grace,admirable beauty and elegance,AI
+9955,throw-in,first pass at the start of a half or after a goal from the center,AI
+9956,indicator,device that displays something,AI
+9957,Arabia,region of the Arabian Peninsula,AI
+9958,employment office,agency of German unemployment insurance; state job placement organization,AI
+9959,work performance,work carried out,AI
+9960,suspicion,"suspicion, distrust",AI
+9961,Ari,male given name,AI
+9962,arrondissement,"administrative district in France, Belgium, Canada, etc.",AI
+9963,astrology,systematic interpretation of positions of celestial bodies,AI
+9964,uncovering,lifting or removing a cover or the like,AI
+9965,minder,person who watches over someone or something,AI
+9966,supervisory board meeting,meeting of a company's supervisory board,AI
+9967,training period,time spent in a training relationship,AI
+9968,training center,institution for training people,AI
+9969,balance,state of equilibrium without strong fluctuations,AI
+9970,proclamation,official calling out or announcement,AI
+9971,committee meeting,meeting of a committee,AI
+9972,Avignon,city in France,AI
+9973,railway embankment,raised ground on which tracks are laid,AI
+9974,urban agglomeration,"cluster of connected cities with at least 500,000 people",AI
+9975,ATM,cash machine,AI
+9976,Basque,inhabitant of the Basque Country,AI
+9977,Batzen,coin in southern Germany and Switzerland,AI
+9978,civil engineer,engineer specializing in construction,AI
+9979,architecture,architectural design and construction,AI
+9980,building department,administrative office for construction matters,AI
+9981,delegate,person entrusted with a task or mandate,AI
+9982,insignificance,quality of having no relevance,AI
+9983,confession,confession of sins and absolution,AI
+9984,consulting offer,offer of consultation,AI
+9985,reporter,person who reports on events for media,AI
+9986,reporting year,year covered by a report,AI
+9987,professional class,people in similar professions with common interests,AI
+9988,possession,strong agitation interpreted as possession by a supernatural force,AI
+9989,irradiation,exposure to radiation,AI
+9990,company pension,pension from an employer,AI
+9991,business administrator,professional in business administration,AI
+9992,business administration,discipline of economics dealing with business operations,AI
+9993,alarm,feeling of impending danger or unease,AI
+9994,guarding,act of keeping under supervision,AI
+9995,burden of proof,obligation to prove a statement,AI
+9996,district governor,head of a district authority,AI
+9997,district councillor,councillor or member of a district,AI
+9998,pear tree,fruit tree that bears pears,AI
+9999,blazer,usually blue club jacket for men with badges and metal buttons,AI
+10000,floor covering,covering for floors in homes,AI

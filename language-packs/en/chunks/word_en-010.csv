@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-901,explosion,sudden volume expansion with loud bang due to chemical or nuclear reactions with rising temperature and pressure causing damage,AI
-902,manhunt,search for persons by warrant or search order,AI
-903,female driver,female driver of a vehicle,AI
-904,bicycle,vehicle driven by pedaling with two wheels in line,AI
-905,direction of travel,direction in which a vehicle is moved,AI
-906,factor,operand in multiplication and part of a product,AI
-907,trap,device for catching wild animals,AI
-908,fan,enthusiastic supporter of something or someone,AI
-909,color,particular range of visible light in the electromagnetic spectrum,AI
-910,favorite,being that is preferred by someone,AI
-911,conclusion,summarized result or summary,AI
-912,celebration,festive event for a specific occasion,AI
-913,television,broadcasting reception and the technology of image and sound transmission,AI
-914,arrest,holding a person on a legal basis for a preliminary period,AI
-915,figure,body shape or human form,AI
-916,finance minister,head of a finance ministry and responsible for state finances,AI
-917,finger,movable part of the hand of higher primates,AI
-918,fisher,worker who professionally catches fish,AI
-919,meat,muscle and often fatty tissue,AI
-920,flight,movement of a body through the air mainly using aerodynamics,AI
-921,airplane,aircraft heavier than air that uses aerodynamic lift,AI
-922,river,large flowing body of water,AI
-923,fund,reserve of assets for specific purposes,AI
-924,format,form and size of paper books files or films,AI
-925,formula,symbolic equation or expression to calculate a quantity,AI
-926,progress,societal positive development,AI
-927,continuation,act of continuing,AI
-928,forum,real or virtual place to exchange opinions and ask questions,AI
-929,parliamentary group,voluntary association of members to pursue political goals in parliament,AI
-930,outdoor pool,swimming pool outdoors,AI
-931,Freiburg,city in Baden Wurttemberg,AI
-932,release,release from custody or an unfree situation,AI
-933,free state,state where power comes from the people,AI
-934,friendship,relationship between two or more friends,AI
-935,freshness,pleasant cooling effect,AI
-936,deadline,period for a specific goal or project,AI
-937,front,suddenly occurring boundary between air masses,AI
-938,find,object found by someone,AI
-939,host,person who invites someone as a guest,AI
-940,gastronomy,economic sector of professional catering and hospitality,AI
-941,birth,birth event,AI
-942,patience,ability to wait for something,AI
-943,region,landscape region not precisely delimited,AI
-944,object,material thing of not too large size,AI
-945,present,the temporal now between past and future,AI
-946,opposite train,train traveling in the opposite direction on the same line,AI
-947,secret,hidden action or information,AI
-948,brain,part of the central nervous system located in the head,AI
-949,fine,penalty requiring payment of money for an offense,AI
-950,permission,granting or existence of permission to do something,AI
-951,Geneva,city in Switzerland,AI
-952,justice,principle or state in which each person gets what they deserve,AI
-953,events,what is happening or occurring,AI
-954,gift,transfer of ownership without expecting something in return,AI
-955,taste,sense of taste or taste perception,AI
-956,bill,preliminary not yet adopted form of a law,AI
-957,trade union,organization of employees to pursue interests,AI
-958,winner,person or institution that wins a competition,AI
-959,conscience,mechanism that evaluates actions by moral standards,AI
-960,thunderstorm,weather event with lightning and thunder often with heavy rain,AI
-961,God,superhuman or supernatural personality postulated to explain phenomena,AI
-962,gram,unit of mass equal to a thousandth of a kilogram,AI
-963,committee,group formed for consultation or decision making,AI
-964,Greece,state in southeastern Europe,AI
-965,handle,part of an object intended to be held,AI
-966,primary school,school for grades 1 to 4 or 6,AI
-967,expert report,expert judgment on a question usually in writing,AI
-968,arrest warrant,binding order to arrest a person,AI
-969,half liter beer,half liter of beer served in a mug,AI
-970,semifinal,round where participants qualify for the final,AI
-971,half year,half of a year,AI
-972,stop,station where a vehicle stops,AI
-973,hammer,tool with head and handle,AI
-974,craft,traditional manual trades or professions,AI
-975,hatred,very strong aversion often inducing aggression,AI
-976,haste,doing tasks very quickly under inner tension,AI
-977,skin,largest sensory organ serving protection and regulation,AI
-978,home game,match played at home in front of home crowd,AI
-979,hectare,area measure equal to 10000 square meters,AI
-980,helper,person who helps or supports someone,AI
-981,origin,where someone or something comes from,AI
-982,production,process of making something,AI
-983,regard,used in fixed expressions: a certain way of seeing something,AI
-984,university,institution of tertiary education for research and teaching,AI
-985,courtyard,enclosed space on a property usually surrounded by buildings,AI
-986,wood,material of a tree composed of cellulose and lignin,AI
-987,Huber,farmer of a hube in southern Germany and Austria,AI
-988,helicopter,aircraft kept aloft by one or more horizontal rotors,AI
-989,ideal,goal recognized as highest value or idea of perfection,AI
-990,index,register such as an alphabetical list or overview,AI
-991,information,brief informative message,AI
-992,content,substance of something; what it consists of,AI
-993,interior minister,head of the interior ministry,AI
-994,interior ministry,ministry responsible for internal affairs,AI
-995,innovation,introduction of something new with expected improvements,AI
-996,Innsbruck,city in Austria,AI
-997,insolvency,consequence of inability to pay,AI
-998,installation,assembling parts and the finished system,AI
-999,institute,institution for research education or similar,AI
-1000,instrument,tool or device for measurement or investigation,AI
+4501,herd,group of larger mammals living together in a social association,AI
+4502,hierarchy,system of superiority and subordination,AI
+4503,relief organization,organization for assistance,AI
+4504,backyard,open space at the rear of a building,AI
+4505,hinterland,area behind the front,AI
+4506,buttocks,body part used for sitting,AI
+4507,flood protection,preventive measures to limit flood effects,AI
+4508,hockey,ball sport using curved sticks to shoot into goal,AI
+4509,hospice,care home for terminally ill people,AI
+4510,hotel room,room in a hotel where guests stay,AI
+4511,dog owner,male person who keeps a dog as a pet,AI
+4512,famine,so great a lack of food that many are undernourished or starve,AI
+4513,mine cart,open box shaped mine cart,AI
+4514,hurricane,tropical cyclone with at least hurricane force,AI
+4515,hygiene,measures to maintain cleanliness and body care,AI
+4516,idol,object of excessive veneration,AI
+4517,idyll,paradise like landscape or simple life,AI
+4518,Illinois,US state,AI
+4519,empire,large connected territory under central rule,AI
+4520,epitome,typical representative or association,AI
+4521,Indiana,US state,AI
+4522,clue,hint or indication that makes events likely,AI
+4523,initiator,person who triggers or carries out an event,AI
+4524,Inca,member of a historical South American people,AI
+4525,Inn,river in Tyrol and Bavaria,AI
+4526,domestic policy,politics dealing with internal affairs,AI
+4527,inspection,inspection through regular review,AI
+4528,maintenance,preventive maintenance to keep good condition,AI
+4529,intuition,ability to decide and act impulsively and unconsciously,AI
+4530,inventory,collection of items of a certain kind,AI
+4531,investment bank,bank whose core business is asset management and related business,AI
+4532,Iranian,citizen of Iran,AI
+4533,Italian,Romance language spoken in Italy and southern Switzerland,AI
+4534,beginning of the year,first period of a year,AI
+4535,annual report,report on events or revenues of the previous year,AI
+4536,annual general meeting,yearly meeting of shareholders to decide matters,AI
+4537,yearly course,course over the year,AI
+4538,yes word,expression of consent,AI
+4539,youth fire brigade,youth division of a volunteer fire brigade,AI
+4540,youth protection,legal rules protecting youths from harm,AI
+4541,youth center,facility offering leisure activities for youths,AI
+4542,virgin,unmarried or untouched woman; also constellation,AI
+4543,cabaret,stage for small satirical performances,AI
+4544,cabaret artist,artist of cabaret,AI
+4545,empress,female ruler of an empire,AI
+4546,chancellorship,office of a chancellor,AI
+4547,capital market,market for medium and long term capital procurement,AI
+4548,kart,small racing vehicle,AI
+4549,cathedral,church that serves as a bishop seat,AI
+4550,ceramic,mineral material used to make vessels or art objects,AI
+4551,guy,person usually male with positive or negative connotation,AI
+4552,candle,light with open flame made of wax,AI
+4553,kettle,large open metal vessel,AI
+4554,desire for children,desire to have children,AI
+4555,childrens room,room intended for the child or children,AI
+4556,clause,clause formed by disjunction of literals,AI
+4557,minibus,small bus for up to nine seats,AI
+4558,crux,decisive aspect determining success or failure,AI
+4559,button,object used to fasten clothing through a buttonhole,AI
+4560,button press,single operation that triggers an event,AI
+4561,collection,assortment of goods,AI
+4562,police station,office of a commissioner or police,AI
+4563,compass,device for determining cardinal directions,AI
+4564,accomplice,participant in a crime,AI
+4565,composition,process of forming words by combining morphemes,AI
+4566,competitive struggle,constant effort to assert against competition,AI
+4567,controversy,prolonged dispute due to differing views,AI
+4568,concentration camp,internment camp used to suppress political opponents,AI
+4569,cooperation partner,partner for cooperation,AI
+4570,firecracker,firework producing a loud bang without light effects,AI
+4571,feat of strength,action requiring all available means,AI
+4572,fuel,combustible used as energy source for a machine,AI
+4573,credit card,cashless payment card similar to a debit card,AI
+4574,spinning top,small toy that spins on a point,AI
+4575,district administration,administration of a district,AI
+4576,manger,feeding trough or covered feeding place,AI
+4577,criterion,important decision and distinguishing feature,AI
+4578,crown prince,son or grandson entitled to succeed a king or emperor,AI
+4579,cult,worship based on rites,AI
+4580,cult status,state of high recognition or veneration,AI
+4581,cultural asset,work or achievement of value within a culture,AI
+4582,art hall,exhibition hall for art,AI
+4583,art craft,craft requiring artistic skills,AI
+4584,spa park,park for guests in a spa town,AI
+4585,rennet,enzyme mixture from calf stomachs used to make cheese,AI
+4586,state level,level of action or decision concerning the federal state,AI
+4587,state politics,political activities at state level,AI
+4588,state chairwoman,chairwoman at state level,AI
+4589,country house,house in the countryside,AI
+4590,map,scaled generalized representation of the Earth surface a visualization of spatial knowledge,AI
+4591,state parliament member,nominative singular of the weak declension of the noun Landtagsabgeordneter,AI
+4592,state parliament member,elected representative to a state parliament,AI
+4593,boredom,feeling of idleness and monotony,AI
+4594,laser,source of intense directed coherent light of a single wavelength range,AI
+4595,lantern,light source with protection against wind and rain,AI
+4596,laudation,ceremonial speech honoring achievements at a celebration,AI
+4597,life assistance,assistance for people with disabilities,AI
+4598,livelihood,financial means needed to secure life,AI
+4599,way of living,way of living,AI
+4600,sign of life,proof or indication that an absent person is still alive,AI
+4601,life time,time a living being is biologically active,AI
+4602,gingerbread,baked goods made especially in Advent and Christmas season,AI
+4603,Lech,river in Austria and Germany,AI
+4604,track and field,collective term for sports involving running jumping throwing and shot put,AI
+4605,liberty,freedom in English,AI
+4606,Libya,state in North Africa,AI
+4607,sex life,totality of sexual activity and ideas of someone,AI
+4608,Limburg,region in Belgium and Netherlands,AI
+4609,limousine,car fully closed with a roof unlike a convertible,AI
+4610,lord,member of high nobility but not a duke,AI
+4611,fate,dative singular form of the noun Los,AI
+4612,aviation,technology and industry dealing with movement through the air,AI
+4613,air traffic,sum of all movements of aircraft,AI
+4614,Mach,Mach number,AI
+4615,feasibility study,study to check whether a planned project can be realized,AI
+4616,Madonna,form of address for the Mother of God,AI
+4617,admonition,reminder and request to do something,AI
+4618,mainstream,term for culture or attitudes accessible to most people,AI
+4619,Mali,state in West Africa,AI
+4620,manifesto,statement of principles,AI
+4621,market economy,economic system where supply and demand regulate production and distribution,AI
+4622,mouth,body opening in animals for taking in food,AI
+4623,meditation,meditating deep reflective thinking,AI
+4624,sea level,level of the seas water,AI
+4625,meeting,gathering to exchange about problems or topics,AI
+4626,majority,greater part of a quantity,AI
+4627,cafeteria,facility like a canteen at universities,AI
+4628,feature,typical property that distinguishes something,AI
+4629,milieu,totality of natural and social living conditions,AI
+4630,million amount,amount in millions,AI
+4631,minority government,government without a parliamentary majority needing support,AI
+4632,council of ministers,council of ministers,AI
+4633,misery,bad situation or condition,AI
+4634,disregard,attitude of intentionally ignoring someone or something,AI
+4635,competitor,someone who strives for the same in competition,AI
+4636,roommate,person with whom one shares a house apartment or room,AI
+4637,mobilization,activation of resources needed to reach a goal,AI
+4638,monarchy,form of state with hereditary ruler at the top,AI
+4639,Montreal,city in Canada,AI
+4640,bog,swamp whose ground consists of peat,AI
+4641,moss,rootless spore plant with simple structure,AI
+4642,moped,small motorcycle under 50 cc often with pedals and various legal meanings,AI
+4643,mosque,place of prayer and prostration in Islam,AI
+4644,engine hood,cover protecting the engine,AI
+4645,mountain bike,robust off road bicycle,AI
+4646,news channel,channel for news,AI
+4647,night sky,view of the sky at night,AI
+4648,national eleven,team that competes internationally against other national selections,AI
+4649,nature park,natural areas with valued nature protected for shared use by people and nature,AI
+4650,reevaluation,new assessment often due to new information,AI
+4651,new territory,area whose possibilities and rules are still to be explored,AI
+4652,niche,recess or niche in a wall,AI
+4653,Nice,city in France,AI
+4654,Nobel Prize,international prize by Nobel,AI
+4655,normalization,process of making something normal or bringing to a normal state,AI
+4656,notebook,portable computer with optional battery operation,AI
+4657,novum,novelty that has never existed before,AI
+4658,homelessness,lack of permanent accommodation,AI
+4659,upper village,upper village place name,AI
+4660,upper house,one of two chambers of a parliament,AI
+4661,overhead line,electric line supplying trains trams or trolleybuses,AI
+4662,senior public prosecutor,promoted prosecutor who is department head or senior prosecutor,AI
+4663,lens,optical system that produces a real image of an object,AI
+4664,vintage vehicle,old vehicle aircraft ship or model,AI
+4665,female Olympic champion,female athlete who won an Olympic competition,AI
+4666,order,monastic community living under rules with vows,AI
+4667,order,command of what to do or not do,AI
+4668,administrative offense,minor violation of the legal order,AI
+4669,Osaka,city in Japan,AI
+4670,Eastern Swiss,Swiss from Eastern Switzerland,AI
+4671,package,packaging or covering of goods usually paper cardboard or plastic,AI
+4672,palais,small palace fashionable residential complex,AI
+4673,panel,selected group of people for a survey or discussion,AI
+4674,panorama,round view 360 degree view also landscape view or model,AI
+4675,panther,especially a melanistic leopard,AI
+4676,prime example,example that clearly proves something perfect fit,AI
+4677,paradigm shift,fundamental change of views in a field,AI
+4678,female party leader,female chair or president of a party,AI
+4679,party leadership,group of people in the top leadership of a party,AI
+4680,party chairwoman,nominative singular of the weak declension of Parteivorsitzender,AI
+4681,passenger,person who uses a vehicle without driving it,AI
+4682,timpani stroke,stroke on a timpani,AI
+4683,level,height of a liquid or numeric value of a physical quantity,AI
+4684,pendant,corresponding complementary counterpart,AI
+4685,Pennsylvania,US state,AI
+4686,penny,currency unit in Great Britain,AI
+4687,retirement,placement of public servants and employees into retirement with pension,AI
+4688,perfection,completeness that cannot be improved,AI
+4689,pledge,collateral held by a lender as security for a debt,AI
+4690,parish,lowest church authority led by a pastor,AI
+4691,arrow,projectile of shaft and tip shot with a bow,AI
+4692,pillar,freestanding or wall pillar supporting loads,AI
+4693,philharmonic,name of orchestras and concert societies,AI
+4694,pizzeria,restaurant mainly offering pizzas,AI
+4695,podium place,placing in the top three of a competition,AI
+4696,panel discussion,discussion with panelists on a raised podium,AI
+4697,poetry,poetry,AI
+4698,cup final,final match of a cup competition,AI
+4699,poker,card game,AI
+4700,political scientist,person who studies political science,AI
+4701,police officer,officer in the police,AI
+4702,police custody,preventive police measure holding a person briefly,AI
+4703,police check,inspection of persons or things by police,AI
+4704,pollen,flower pollen,AI
+4705,cushion,cushion in bed,AI
+4706,pop culture,internationally influenced widespread popular culture,AI
+4707,Portuguese,citizen of Portugal,AI
+4708,power play,situation where one team has fewer players due to a penalty,AI
+4709,internship,work of interns often for training and gaining insight,AI
+4710,price development,development change of the price paid for a good or service,AI
+4711,price category,category by price,AI
+4712,profit,gain often financial,AI
+4713,protagonist,female champion of an idea or movement,AI
+4714,protest action,organized often public action protesting something,AI
+4715,procedure,way a task should be handled,AI
+4716,processor,central processing unit in a computer,AI
+4717,psychiatrist,specialist in mental and emotional illnesses,AI
+4718,publication,publication of something,AI
+4719,audience favorite,person much loved by the audience,AI
+4720,point gain,gain of points,AI
+4721,doll,small reconstruction of a human or child often used as a toy,AI
+4722,career changer,person switching to another profession often better paid,AI
+4723,radio station,institution that broadcasts radio programs,AI
+4724,refinery,industrial facility for processing raw materials,AI
+4725,Ramadan,ninth month of the Islamic lunar calendar and holy fasting month,AI
+4726,ramp,sloped access,AI
+4727,rioter,person who makes a riot,AI
+4728,rest,break in travel or hike for recovery,AI
+4729,smoke inhalation poisoning,poisoning from smoke gases,AI
+4730,spaceship,vehicle that can transport people and goods in space,AI
+4731,space station,manned spacecraft in Earth orbit,AI
+4732,realism,proper realistic assessment of reality,AI
+4733,legal remedy,means to challenge or review court decisions,AI
+4734,jurisprudence,totality or type of court judgments,AI
+4735,legal certainty,security guaranteed by legal norms,AI
+4736,editor,person who writes edits and improves manuscripts in media,AI
+4737,shipping company,company that transports people or goods with its own ships,AI
+4738,regal,dative singular form of Regal,AI
+4739,rule set,collection of rules,AI
+4740,shower,short rain shower,AI
+4741,umbrella,foldable umbrella against rain,AI
+4742,regional transport,freight or passenger transport over medium distances,AI
+4743,index,alphabetically sorted list such as contents or index,AI
+4744,maturity,completion of physical or mental growth process,AI
+4745,principal,head of a school in Germany,AI
+4746,Renaissance,cultural movement between Middle Ages and modern era from Italy,AI
+4747,racing stable,group of owners trainers jockeys and horses in races,AI
+4748,female reporter,female journalist at or near the scene reporting,AI
+4749,repression,suppression,AI
+4750,resource,natural raw material deposit,AI
+4751,rescue operation,short term planned action to help in an emergency,AI
+4752,revue,show with a storyline and dance and acrobatics,AI
+4753,Rick,family name and given name,AI
+4754,bolt,long metal bar as part of a lock,AI
+4755,beef,meat from cattle intended for preparation,AI
+4756,rock star,person famous for performing rock music,AI
+4757,pipe,cylindrical hollow object for conveying liquids gases and solids,AI
+4758,raw material,raw material for processing,AI
+4759,red wine,red wine made from red or blue grapes,AI
+4760,category,section or category,AI
+4761,hull,underside or lower part of a ship aircraft or similar,AI
+4762,run,rush of many people toward the same goal,AI
+4763,cul de sac,small street with no through traffic,AI
+4764,safe,secure fireproof container for valuables and money,AI
+4765,juice,liquid in plants,AI
+4766,satire,humorous critical writing or text in many media forms,AI
+4767,saddle,padded seat attached to the back of a riding animal,AI
+4768,chess,strategic board game for two players,AI
+4769,shilling,medieval and historical currency,AI
+4770,sled,low seat with upward curved runners used to slide on snow or ice,AI
+4771,final line,horizontal line at end of a text or calculation,AI
+4772,painkiller,remedy that relieves pain,AI
+4773,dirt,uncleanliness wet grime dust,AI
+4774,beak,mouthpart of certain animals,AI
+4775,drawer,open top container built into furniture and pulled out,AI
+4776,school routine,normal daily routine at school,AI
+4777,female principal,female head of a school,AI
+4778,closing ranks,holding together of communities with the same interests,AI
+4779,shed,hut or storage room for tools or supplies,AI
+4780,undeclared work,paid work without compliance with legal employment rules and without taxes or contributions,AI
+4781,Swede,citizen of Sweden,AI
+4782,Schwyz,canton in Switzerland,AI
+4783,cable car,suspended railway with cabin attached to a cable,AI
+4784,sparkling wine,quality sparkling wine with carbon dioxide from fermentation and no added carbon dioxide,AI
+4785,section,part of a whole,AI
+4786,self defense,defense against attacks,AI
+4787,female senator,female member of a senate,AI
+4788,broadcast time,time period when broadcasts are transmitted,AI
+4789,nursing home,facility where elderly people live and receive care,AI
+4790,sensor,technical detector,AI
+4791,Serb,inhabitant of Serbia,AI
+4792,shopping,going around shops to buy things,AI
+4793,security service,activity institution or organization that ensures safety,AI
+4794,security council,institution or organization meant to ensure security,AI
+4795,security risk,something that can endanger integrity or safety,AI
+4796,securing,securing or seizure,AI
+4797,silver medal,prize for second place in a competition,AI
+4798,sir,male title of British nobility,AI
+4799,hearing room,hall where sessions are held,AI
+4800,Sicily,island of Italy,AI
+4801,Scandinavia,region of Northern Europe,AI
+4802,ski jumper,person who practices ski jumping,AI
+4803,Slovene,citizen of Slovenia,AI
+4804,soccer,football in US English,AI
+4805,solar energy,energy produced and radiated by the sun,AI
+4806,solo,musical piece or element performed alone or highlighted by a musician,AI
+4807,Somalia,state on the Horn of Africa,AI
+4808,summer festival,festival celebrated in summer months without specific occasion,AI
+4809,summer time,time of summer when days are longer than nights,AI
+4810,solar radiation,incident of sunlight on a surface or body,AI
+4811,solar system,a star with orbiting celestial bodies,AI
+4812,soul,music style of African American popular music from mid 1950s,AI
+4813,soundtrack,music accompaniment in a film,AI
+4814,social democrat,supporter or member of a social democratic party,AI
+4815,social democracy,political ideology from labor movement combining democratic and socialist principles,AI
+4816,female minister of social affairs,female minister for social affairs,AI
+4817,social policy,measures to improve social and economic conditions of the population,AI
+4818,social insurance,legal insurance system that shares risks such as accidents illness maternity and need of care,AI
+4819,saver,person who saves especially at a bank or savings bank,AI
+4820,savings package,package of measures aiming to reduce expenses,AI
+4821,storage,act or process of storing or securing something,AI
+4822,species,specific kind of a genus,AI
+4823,game operation,organizational handling and conduct of games or performances,AI
+4824,feature film,film with invented plot intended for entertainment,AI
+4825,game minute,minute of a game,AI
+4826,spinner,person who spins or works in spinning mill making yarn,AI
+4827,female lead candidate,female candidate at the top of an electoral list,AI
+4828,sponsor,financial supporter of a person group or company,AI
+4829,female athlete,female person who regularly practices one or more sports,AI
+4830,state visit,official visit of a head of government in another country,AI
+4831,city museum,museum of a city focusing on local history,AI
+4832,city outskirts,border area between city and surrounding area,AI
+4833,council assembly,assembly of city delegates,AI
+4834,stagnation,state where no growth or increase occurs,AI
+4835,regular seat,seat usually occupied by the same person,AI
+4836,regulars table,table reserved for regulars in a pub,AI
+4837,registry office,authority that registers civil status events and actions,AI
+4838,plug,device with one or more pins to make an electrical connection,AI
+4839,footbridge,small bridge,AI
+4840,bull,male domestic cattle that is sexually mature,AI
+4841,metabolism,total biochemical processes needed to maintain functions of a living organism,AI
+4842,stork,large long necked wading bird ciconia with long beak and legs,AI
+4843,criminal court,high court for criminal law,AI
+4844,Stralsund,city in Mecklenburg Western Pomerania,AI
+4845,strand,elongated cord made of several threads,AI
+4846,route section,part of a route,AI
+4847,prank,prank played on someone for amusement,AI
+4848,straw,threshed cereal stalks,AI
+4849,electricity price,price for delivery of electricity,AI
+4850,buzzer,device that produces a buzzing tone when activated,AI
+4851,Supercup,Supercup competition in sport,AI
+4852,surfer,wave rider,AI
+4853,suspension,temporary removal from office,AI
+4854,symbolism,symbolic meaning of something and its representation,AI
+4855,taboo,thing that must not be spoken about,AI
+4856,diary,personal notebook recording daily events,AI
+4857,conference,meeting usually one day where people work on a topic,AI
+4858,female participant,female person involved in an event,AI
+4859,division,division of a unit or set into at least two parts,AI
+4860,tester,person or thing that tests whether a device or process works as planned,AI
+4861,counter,place where customers are served,AI
+4862,table tennis,olympic sport played on a table with a ping pong ball,AI
+4863,subsidiary,legally independent but economically dependent company run by parent,AI
+4864,death penalty,legally sanctioned killing as punishment for a crime,AI
+4865,day of death,day on which a being dies,AI
+4866,top form,best form,AI
+4867,Tuscany,region in Italy,AI
+4868,tourist,person who travels for pleasure,AI
+4869,coach change,change of coach,AI
+4870,training ground,place to train,AI
+4871,route,course of a transport route or supply line,AI
+4872,tribute,levy of money or goods paid regularly as a sign of submission,AI
+4873,Tunisia,state in North Africa,AI
+4874,turbo,turbocharger or strong acceleration,AI
+4875,ultimatum,time limited demand with threatened consequences,AI
+4876,embrace,wrapping arms around the upper body or neck as a gesture of affection,AI
+4877,redistribution,transfer of work capital or tax burden to other recipients,AI
+4878,environment minister,head of a ministry dealing with environmental problems,AI
+4879,carelessness,action with lack of care or its cause and result,AI
+4880,injustice,lack of justice,AI
+4881,innocence,absence of guilt regarding an incident or offense,AI
+4882,Lower Franconia,region in Bavaria,AI
+4883,management consulting,consulting for companies,AI
+4884,group of companies,group of connected companies,AI
+4885,underside,part of something that normally faces down,AI
+4886,basement rock,old igneous rocks formed under high pressure and temperature,AI
+4887,Uzbekistan,state in Central Asia,AI
+4888,valley,valley also a surname,AI
+4889,venue,place of an event,AI
+4890,regional league,regional or subregional division,AI
+4891,consumer protection,measures to protect consumers from harm,AI
+4892,swearing in,taking an oath,AI
+4893,compatibility,possibility of bringing something into agreement,AI
+4894,simplification,process of making something simpler,AI
+4895,club house,building where a club meets,AI
+4896,author,person who wrote a text,AI
+4897,constitutional court,court that can review acts for compliance with the constitution,AI
+4898,retribution,punishment or satisfaction for a negative action,AI
+4899,hearing day,day on which something is negotiated,AI
+4900,traffic chaos,disordered situation in road traffic,AI
+4901,traffic sign,officially ordered part of road equipment to regulate and secure traffic,AI
+4902,publisher,person who runs a publishing house,AI
+4903,injury break,interruption of an activity due to injury,AI
+4904,engagement,promise to marry someone,AI
+4905,avoidance,deliberate avoiding of something,AI
+4906,rental,lending or providing something for a fee,AI
+4907,interrogation,questioning a person about a matter by an authority,AI
+4908,vernissage,opening of an exhibition of a living artists works,AI
+4909,Verona,city in Italy,AI
+4910,insurance coverage,protection granted by insurance,AI
+4911,female representative,female person acting for others,AI
+4912,warning,admonition for rule violation often with threat of stricter penalty,AI
+4913,adult education center,nonprofit institution for adult and continuing education,AI
+4914,incitement,inciting parts of the population against a group through hateful speech,AI
+4915,foresight,attitude toward expected events,AI
+4916,reservation,objection or limitation,AI
+4917,person ahead,person positioned in front of another,AI
+4918,suburb,settlement on the periphery of a city,AI
+4919,calf,back muscular part of the lower leg,AI
+4920,election night,evening of election day when results are often released,AI
+4921,term of office,period for which a person or body is elected,AI
+4922,campaign promise,promise by a candidate to do something if elected,AI
+4923,Waldviertel,region in Lower Austria,AI
+4924,coat of arms,symbol of a noble family city or state with a shield and accessories,AI
+4925,warning signal,agreed sign that warns of danger,AI
+4926,armed forces,totality of the armed forces,AI
+4927,female animal,female animal,AI
+4928,wisdom,deep insight based on experience and knowledge,AI
+4929,passing on,process of giving something to another,AI
+4930,world picture,overall picture of the world ordered into connections,AI
+4931,world premiere,first performance or presentation worldwide,AI
+4932,Weser,river in Germany,AI
+4933,West Germany,western part of Germany,AI
+4934,Western Europe,region in Western Europe,AI
+4935,race,competition to determine the fastest runner,AI
+4936,resuscitation,restoring life functions through measures such as defibrillation,AI
+4937,compensation,compensation or restitution for damage,AI
+4938,wind energy,kinetic energy of the wind,AI
+4939,active ingredient,substance that causes a specific effect in small dose,AI
+4940,economic research,scientific research analysis of the economy,AI
+4941,economic situation,state of the economy of a country or region,AI
+4942,weekly market,market held weekly offering fresh food,AI
+4943,housing shortage,shortage of available apartments,AI
+4944,cloud,large collection of water particles in the troposphere,AI
+4945,word choice,conscious choice of words for a statement,AI
+4946,tooth,part of the teeth of humans and vertebrates,AI
+4947,dentist,doctor specializing in dental medicine,AI
+4948,magician,male person with magical abilities,AI
+4949,pedestrian crossing,striped crossing giving pedestrians priority,AI
+4950,line,horizontal sequence of similar objects such as text,AI
+4951,celery,celery,AI
+4952,certification,process to prove compliance with requirements,AI
+4953,civilization,cultural sphere of societies within a historical period,AI
+4954,argument,heated dispute or irritation,AI
+4955,refuge,place or person providing protection and safety,AI
+4956,influx,participation by people due to interest,AI
+4957,attention,attention and friendly caring treatment,AI
+4958,influx,increase in population through newcomers,AI
+4959,doubtful case,situation in which something is doubted,AI
+4960,stopover,interruption of a trip or route,AI
+4961,death,transition from life to death,AI
+4962,aversion,slight reluctance toward something or someone,AI
+4963,recall,request to leave a position or office,AI
+4964,goalkeeper drop-kick,kicking the ball from the hand by the goalkeeper,AI
+4965,abbot,head and spiritual leader of a monastery,AI
+4966,removal,transport away from a place,AI
+4967,abortion,intervention to terminate and remove embryo/fetus,AI
+4968,deviation,non-fulfillment of a regularity,AI
+4969,farmer,person who practices farming,AI
+4970,alert level,graded level used to assess danger and set readiness,AI
+4971,alfa grass,Mediterranean grass used for making ropes and paper,AI
+4972,Algeria,state in North Africa,AI
+4973,alien,extraterrestrial being,AI
+4974,altar,table-like structure for worship and rituals,AI
+4975,ambulance,patient transport vehicle,AI
+4976,keepsake,small item meant to evoke memories of an event or person,AI
+4977,threat,announcement of negative consequences,AI
+4978,fishing rod,elongated device for fishing,AI
+4979,angler,person who fishes,AI
+4980,animation,"activity to spread joy and good mood, often in tourism",AI
+4981,settlement,permanently inhabited place,AI
+4982,decency,good manners and polite behavior,AI
+4983,employment,agreement to take a job,AI
+4984,applicant,person who submits a request,AI
+4985,workers' party,party of employed workers representing their interests,AI
+4986,employment agency,authority that places jobs and manages unemployment benefits,AI
+4987,working circle,rather informal association with a common goal,AI
+4988,are,area measure equal to 100 square meters,AI
+4989,bracelet,"band worn on the wrist or arm, usually as jewelry",AI
+4990,butt,word for the rear end of an animal or person,AI
+4991,species protection,measures to protect and preserve species and their habitats,AI
+4992,doctor's practice,workplace of a general practitioner or specialist,AI
+4993,female assistant,"female, usually academically trained assistant",AI
+4994,asteroid,small planet-like object orbiting the sun,AI
+4995,asylum application,request for asylum,AI
+4996,nuclear power,energy from nuclear reactions,AI
+4997,resurrection,coming to life again after death,AI
+4998,updraft,rising air movement,AI
+4999,notes,explanatory written notes of memories,AI
+5000,yield,return from an activity,AI

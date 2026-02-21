@@ -1,12 +1,12 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-02-21T09:08:10.838Z",
+  "generatedAt": "2026-02-21T13:51:23.815Z",
   "languages": {
     "en": {
       "version": "1.0.0",
       "recordCount": 14585,
-      "chunkCount": 146,
-      "chunkSize": 100,
+      "chunkCount": 30,
+      "chunkSize": 500,
       "lastChunkRecords": 85,
       "chunkPathPattern": "language-packs/en/chunks/word_en-{index}.csv",
       "chunkIndexPad": 3
@@ -14,8 +14,8 @@
     "ru": {
       "version": "1.0.0",
       "recordCount": 14585,
-      "chunkCount": 146,
-      "chunkSize": 100,
+      "chunkCount": 30,
+      "chunkSize": 500,
       "lastChunkRecords": 85,
       "chunkPathPattern": "language-packs/ru/chunks/word_ru-{index}.csv",
       "chunkIndexPad": 3

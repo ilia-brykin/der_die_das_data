@@ -1,101 +1,501 @@
 id,translate,translate_description,source
-1301,temperature,measurable degree of heat of a substance,AI
-1302,therapy,totality of measures to treat a disease,AI
-1303,ticket,flight ticket travel ticket or admission ticket,AI
-1304,depth,distance or extent vertically downward,AI
-1305,animal shelter,facility to house stray pets or small animals,AI
-1306,Tyrol,region in Austria and Italy,AI
-1307,quiff,hairstyle with front hair combed up in waves,AI
-1308,goalkeeper,most defensive player who prevents goals often with special rights,AI
-1309,tourism,totality of tourism,AI
-1310,transfer,transfer of objects or information or knowledge,AI
-1311,transformation,significant change of a fundamental property such as form,AI
-1312,transparency,transparency of a material,AI
-1313,transport,transporting goods people or animals,AI
-1314,grief,mood in case of loss especially death of a loved one,AI
-1315,meeting point,agreed point or place to meet,AI
-1316,activity,totality of activities,AI
-1317,separation,process or result of separating substances,AI
-1318,Trier,city in Rhineland Palatinate,AI
-1319,troops,totality of the armed forces or a branch especially the army,AI
-1320,Czech Republic,state in Central Europe,AI
-1321,tunnel,long underpass through mountains or under built areas or waters for transport,AI
-1322,tournament,event with many participants where winners are determined in competitions,AI
-1323,type,set of objects with specific properties,AI
-1324,shore,edge area between water and land,AI
-1325,Ukrainian,citizen of Ukraine,AI
-1326,remodeling,major change of an existing building or more rarely a vehicle,AI
-1327,circumference,length of the edge of a surface,AI
-1328,move,change of residence within a place or to another place,AI
-1329,accident site,locatable place of an incident causing damage,AI
-1330,accident scene,locatable place of an incident causing damage,AI
-1331,discontent,negative attitude toward something,AI
-1332,insecurity,dangerous state,AI
-1333,support,material or financial support,AI
-1334,lesson,regular planned transfer of knowledge by teachers to students,AI
-1335,pretrial detention,detention before or during investigations or trial,AI
-1336,update,updated version of a file software or hardware,AI
-1337,vacationer,person on vacation,AI
-1338,variant,slightly changed form of something,AI
-1339,improvement,change that brings something to a better state,AI
-1340,felony,particularly serious crime,AI
-1341,agreement,mutual understanding,AI
-1342,union,event or action where separate things become a unit,AI
-1343,condition,physical or mental state of someone or something,AI
-1344,constitutional protection,measures to protect the constitutional order,AI
-1345,hearing,court hearing of a criminal case and similar,AI
-1346,road user,person actively involved in traffic,AI
-1347,desire,strong wish or urge to compensate a perceived lack,AI
-1348,obligation,what must be done or expected; duty,AI
-1349,assembly,gathering of several people for a common purpose,AI
-1350,promise,assurance of a course of action,AI
-1351,defense minister,government member responsible for armed forces,AI
-1352,use,using something so it serves its purpose,AI
-1353,large number,large quantity of objects or living beings,AI
-1354,quarterfinal,elimination round to determine semifinalists,AI
-1355,villa,large detached single family house with large garden,AI
-1356,visor,movable device on a helmet to protect the face,AI
-1357,vision,supernatural appearance revelation,AI
-1358,people,many similar people,AI
-1359,Vorarlberg,federal state in Austria,AI
-1360,prerequisite,condition that must be fulfilled beforehand,AI
-1361,role model,person or figure that invites imitation,AI
-1362,foreground,part of an image closest to the viewer,AI
-1363,anticipation,cheerful mood in expectation of a positive event,AI
-1364,template,aid for producing similar items or information,AI
-1365,morning,period between morning and noon,AI
-1366,caution,behavior to avoid negative consequences through vigilance or restraint,AI
-1367,chairperson,person who leads and is responsible for an organization,AI
-1368,lead,spatial or temporal distance ahead of a competitor,AI
-1369,previous day,day before a particular day,AI
-1370,lecture,public talk on a topic,AI
-1371,weapon,technical aid for hunting and fighting,AI
-1372,armistice,agreement to suspend fighting in an armed conflict,AI
-1373,probability,degree of possibility,AI
-1374,Walter,male first name,AI
-1375,wall,side or surface that bounds a space,AI
-1376,change,transition from one state to another,AI
-1377,warning,notice of danger,AI
-1378,web page,single hypertext page viewed in a browser,AI
-1379,website,totality of web pages under a domain,AI
-1380,conscription,duty of a citizen to serve in the armed forces,AI
-1381,Christmas market,market before Christmas selling seasonal foods and items,AI
-1382,wine,vine plant Vitis on which grapes grow,AI
-1383,expanse,spatial extent,AI
-1384,further development,change and improvement to reach a new stage,AI
-1385,wave,rise of water,AI
-1386,world war,armed conflict involving many countries across much of the Earth,AI
-1387,world champion,winner of a world championship competition,AI
-1388,advertising,information spread to gain customers members and similar,AI
-1389,weather service,service providing weather information,AI
-1390,Wiesbaden,state capital of Hesse,AI
-1391,meadow,treeless grassland often used for hay or grazing,AI
-1392,welcome,words gestures and actions on a guests arrival,AI
-1393,reality,outer world based on facts,AI
-1394,science,field of systematic theory based knowledge,AI
-1395,scientist,person with scientific training,AI
-1396,prosperity,good economic situation,AI
-1397,residential house,house intended for living,AI
-1398,living space,room used for sleeping or living,AI
-1399,miracle,something beyond everyday understanding or natural laws,AI
-1400,rage,strong emotion of anger often with aggressive behavior,AI
+6501,screenwriter,author of a screenplay,AI
+6502,blood flow,supply of organs with blood,AI
+6503,through traffic,transit traffic,AI
+6504,cornerstone,pillar at a building corner,AI
+6505,stainless steel,alloyed or unalloyed steel low in sulfur and phosphorus,AI
+6506,Eden,paradisiacal place,AI
+6507,honorary badge,honorary badge; award,AI
+6508,oath,solemn affirmation of a promise,AI
+6509,zeal,earnest effort to pursue a goal,AI
+6510,owner,person who owns something,AI
+6511,summons,invitation to a meeting,AI
+6512,submission,submission of documents or applications,AI
+6513,division,dividing things or people,AI
+6514,ice arena,hall for ice sports,AI
+6515,electric motor,machine converting electrical to mechanical energy,AI
+6516,parental allowance,state payment to parents who care for a child,AI
+6517,emancipation,liberation from dependencies and gaining independence,AI
+6518,emir,Arabic title for prince or commander,AI
+6519,final phase,last phase marking the end of a development,AI
+6520,energy generation,conversion of energy forms into usable energy,AI
+6521,energy source,source enabling use of energy,AI
+6522,energy industry,economic activities supplying energy,AI
+6523,discoverer,person who searches for something unknown,AI
+6524,origin story,development that brought something about,AI
+6525,development cooperation,cooperation for development aid,AI
+6526,genetic material,totality of hereditary material in DNA,AI
+6527,refreshment,action to counter fatigue; refreshment,AI
+6528,apprehension,arrest of a wanted person,AI
+6529,achievement,result achieved with effort,AI
+6530,granting,formal granting or handing over,AI
+6531,extension building,building for expansion,AI
+6532,essence,true nature or core of something,AI
+6533,establishment,formation and setting up of something,AI
+6534,European election,election of members of the European Parliament,AI
+6535,extreme case,most extreme case,AI
+6536,trade journal,journal that publishes specialist articles for a specific field,AI
+6537,specialist trade,trade specialized in certain business sectors,AI
+6538,skilled worker,person specially trained for their field of work,AI
+6539,timetable change,replacement of an existing timetable with a new one,AI
+6540,driving school,training facility to learn correct road behavior in preparation for a driving license,AI
+6541,soft spot,preference or weakness for something or someone often not justified,AI
+6542,counterfeit money,illegally produced coins and banknotes of a state,AI
+6543,butterfly,member of a species rich order of insects,AI
+6544,family planning,decisions of a couple about whether when and how many children to have,AI
+6545,shade,type of color,AI
+6546,fasting period,time when believers abstain from certain foods and drinks,AI
+6547,Shrovetide,originally the last night before the forty day Lenten fast celebrated with a joyful festival,AI
+6548,feud,combative conflict to enforce claims formerly armed and now also with other means such as words,AI
+6549,military campaign,large scale military attack,AI
+6550,festive service,solemn church service,AI
+6551,festival hall,building where performances take place as part of a festival,AI
+6552,fat dative,dative singular form of the noun Fett,AI
+6553,fiasco,misfortune failure or social or economic disaster,AI
+6554,film music,music that accompanies events in a film,AI
+6555,fiscal equalization,financial equalization between entities,AI
+6556,financial policy,measures concerning state revenues and expenditures,AI
+6557,financial world,world of finance,AI
+6558,brandy,particularly fine brandy,AI
+6559,fingerprint,impression of a fingertip used to establish identity,AI
+6560,treasury,total cash assets of a state; state treasury,AI
+6561,Fitz,family name or first name,AI
+6562,lull,moment or situation with no wind,AI
+6563,bat,flying mammal of the order Chiroptera,AI
+6564,flexibilization,redesign of a process or system to adapt quickly to changing conditions,AI
+6565,flop,failure; something that did not succeed,AI
+6566,plane crash,accident in which an aircraft crashes to the ground or water,AI
+6567,floodlight,very bright artificial light,AI
+6568,continuing education,expansion of knowledge or skills,AI
+6569,freight,cost for transporting goods,AI
+6570,freighter,ship designed for cargo transport,AI
+6571,question formulation,activity of formulating a question,AI
+6572,female group leader,female person who leads a parliamentary group,AI
+6573,womens shelter,residence for women and children who experienced violence,AI
+6574,peace treaty,agreement between warring parties to maintain peace,AI
+6575,galaxy,large collection of stars,AI
+6576,gait,way a person or animal especially a horse walks,AI
+6577,structure,something with a form made of parts with unclear shape,AI
+6578,place of birth,place where a being was separated from its mother,AI
+6579,thoughts,totality of existing ideas,AI
+6580,memorial plaque,plaque installed publicly to remember something or someone,AI
+6581,counterproposal,competing concept,AI
+6582,female opponent,female person with opposing interests,AI
+6583,secrecy,measures or behavior to keep something from unauthorized persons,AI
+6584,sidewalk,raised path for pedestrians beside a road,AI
+6585,hostage taking,taking people hostage,AI
+6586,common good,welfare of the community and benefit to the public,AI
+6587,Federal Prosecutor General,highest federal public prosecutor,AI
+6588,chief of staff,head of a general staff,AI
+6589,generational change,change between generations,AI
+6590,total volume,total amount of something,AI
+6591,projectile,object that can be fired from a weapon,AI
+6592,sociability,friendly social interaction with others,AI
+6593,health policy,totality of political activities concerning public health care,AI
+6594,health risk,something that negatively affects health,AI
+6595,propensity for violence,attitude favoring the use of violence,AI
+6596,checking account,account for cashless payment transactions,AI
+6597,glazier,person working with windows and glass construction,AI
+6598,member,connected part or piece; part of a whole,AI
+6599,globalization,standardization to a worldwide standard or measure,AI
+6600,bell,bell shaped metal object rung by a clapper,AI
+6601,golf course,playing field for golf,AI
+6602,ridge,narrow mountain ridge or crest,AI
+6603,border police,police forces responsible for border security,AI
+6604,border protection,protection of national borders,AI
+6605,limit value,legally prescribed upper or lower limit of a value,AI
+6606,resentment,long lasting but quiet anger and hidden hostility,AI
+6607,underlying mood,underlying prevailing mood,AI
+6608,cucumber,plant genus in the gourd family,AI
+6609,casting,process of pouring,AI
+6610,Hameln,city in Lower Saxony,AI
+6611,handbook,manual or concise reference work in book form,AI
+6612,main focus,special concentration of attention,AI
+6613,main committee,standing committee with far reaching powers,AI
+6614,main prize,most important prize,AI
+6615,main problem,largest essential problem,AI
+6616,main topic,central thematic focus,AI
+6617,primary residence,place where someone mainly lives,AI
+6618,main goal,most important goal,AI
+6619,entryway,space between entrance and stairwell or living area,AI
+6620,home defeat,defeat of the home team,AI
+6621,small man,man of small stature,AI
+6622,cordiality,friendliness warmth and helpfulness toward another person,AI
+6623,assistance,active help and support,AI
+6624,rear wheel,wheel on a vehicle rear axle,AI
+6625,mid summer,period in the middle of summer,AI
+6626,wedding day,day of the wedding,AI
+6627,horror film,film genre that produces fear and tension,AI
+6628,pocket,pocket attached to or in trousers,AI
+6629,illustration,picture that complements a written description,AI
+6630,imperialism,efforts of a state to control neighboring countries or peoples,AI
+6631,improvisation,art of presenting or creating something spontaneously,AI
+6632,Indian,Indian; also English for Native American,AI
+6633,industrial association,association of industry,AI
+6634,infection,disease caused by pathogens,AI
+6635,input,input,AI
+6636,intention,intent to do something,AI
+6637,irritation,state of confusion,AI
+6638,Islamism,political movement within Islam seeking Islamic state and Sharia,AI
+6639,annual pass,admission or travel card valid for a year,AI
+6640,Jakarta,capital of Indonesia,AI
+6641,young animal,animal not yet fully grown or mature,AI
+6642,juror,member of a jury,AI
+6643,cabinet meeting,meeting of government ministers,AI
+6644,cadaver,dead animal body in decay,AI
+6645,calf,young of a herd animal such as cattle deer or even whales,AI
+6646,limestone,raw material in construction,AI
+6647,head of chancellery,chief of the chancellery coordinating ministries,AI
+6648,caricature,comically exaggerated depiction of persons or things,AI
+6649,car body,complete body of a vehicle,AI
+6650,female cashier,female person who manages the cash,AI
+6651,catalyst,substance affecting activation energy without being consumed,AI
+6652,downside,other often negative side of a matter,AI
+6653,Kentucky,US state,AI
+6654,kid leather,tanned skin from young goat sheep or calf,AI
+6655,gravel,loose rock pieces 3 to 30 mm in size,AI
+6656,child labor,work performed by children,AI
+6657,childrens book,book aimed at children,AI
+6658,child benefit,regular state payment to parents per child,AI
+6659,child age,age of a child,AI
+6660,parish community,local church administrative unit,AI
+6661,church tower,tower of a church,AI
+6662,clip,small device for temporarily fastening items,AI
+6663,wardrobe,cabinet for storing clothes,AI
+6664,trifle,tiny or insignificant thing,AI
+6665,block,large angular object originally wooden,AI
+6666,farmhand,man doing low level work on a farm,AI
+6667,collegium,community of persons of the same office,AI
+6668,colonialism,policy of acquiring or maintaining colonies,AI
+6669,column,ordered group moving forward,AI
+6670,Colombian,citizen of Colombia,AI
+6671,comedy,comic situation that should provoke laughter,AI
+6672,commercialization,process of turning things into a business,AI
+6673,terms,delivery and payment terms,AI
+6674,female competitor,female person pursuing the same goal as rivals,AI
+6675,construct,concept to bring observations under a common interpretation,AI
+6676,contingent,limited amount,AI
+6677,control body,body for control,AI
+6678,concert hall,hall where concerts take place,AI
+6679,concession,concession or grant,AI
+6680,brainstorming,strained thinking to solve a difficult problem,AI
+6681,Quran,holy book of Islam,AI
+6682,stuff,worthless or little useful stuff,AI
+6683,nurse,male nurse caring for the sick,AI
+6684,pathogen,organism or substance causing disease,AI
+6685,loan granting,granting of loans,AI
+6686,war zone,region where military conflicts take place,AI
+6687,laws of war,international legal principles governing war,AI
+6688,warship,ship of a navy used in war,AI
+6689,war criminal,person who commits a war crime,AI
+6690,cultural policy,policy area dealing with promotion and exchange of culture,AI
+6691,culture ministry,regional ministry responsible for cultural affairs,AI
+6692,spa house,public facility in a spa town mainly for spa guests,AI
+6693,short vacation,vacation that lasts only a few days,AI
+6694,labyrinth,twisted folded path that does not branch,AI
+6695,state garden show,large event or exhibition about gardening with state wide focus,AI
+6696,truck driver,person who drives a truck professionally,AI
+6697,Latin,language of the Romans and European scholars,AI
+6698,food trade,buying and selling of food,AI
+6699,life saver,person who saves another persons life,AI
+6700,life situation,not closely defined usually current circumstances of a living being,AI
+6701,standard of living,extent of material needs and prosperity of a person or group,AI
+6702,life insurance,insurance that pays a sum when reaching a certain age or on death,AI
+6703,life path,path through life totality of important events someone experiences,AI
+6704,life world,life space with all its characteristics,AI
+6705,legion,army unit of the Roman Empire,AI
+6706,training course,course to gain specific knowledge or skills,AI
+6707,teacher,instructor who conducts classes,AI
+6708,apprentice,person who completes an apprenticeship,AI
+6709,loaned item,borrowed object,AI
+6710,linen,flax fiber obtained from the flax plant,AI
+6711,performance increase,increase or improvement of performance,AI
+6712,law,law in Latin,AI
+6713,light,dative singular form of the noun Licht,AI
+6714,romantic relationship,relationship between at least two people marked by affection attraction and desire for closeness,AI
+6715,supplier,organization that procures or makes goods and may deliver them,AI
+6716,relief,reduction of an unpleasant condition or pain,AI
+6717,list position,position on an election list,AI
+6718,lynx,genus Lynx in the cat family,AI
+6719,straight line,imagined line shortest distance between two places,AI
+6720,luxury hotel,hotel especially comfortable with very good service,AI
+6721,Maas,river in western Europe,AI
+6722,change of power,transfer of power to another party or holder,AI
+6723,Madagascar,island state off Africa,AI
+6724,madame,woman madam,AI
+6725,Madison,social dance in 4 4 time similar to the twist popular in the 1960s,AI
+6726,magnet,ferromagnetic material that attracts other ferromagnetic materials,AI
+6727,female painter,female artist who paints pictures,AI
+6728,Maltese citizen,citizen of the Republic of Malta,AI
+6729,circus ring,round performance area in a circus,AI
+6730,Manila,capital of the Philippines,AI
+6731,shortcoming,something perceived as a flaw or disadvantage,AI
+6732,market hall,large building where goods are sold at stalls,AI
+6733,market power,power position in the market,AI
+6734,St Martins Day,day of Saint Martin of Tours on November 11,AI
+6735,machine builder,person or company that makes machines,AI
+6736,math,school subject mathematics,AI
+6737,mattress,stuffed or foam pad covered with fabric for sleeping,AI
+6738,mechanics,branch of physics dealing with motion of bodies and relation to mass and forces,AI
+6739,mechanic,person who assembles or repairs machines and checks their function,AI
+6740,media landscape,totality of publications and their staff,AI
+6741,media company,company in the media sector,AI
+6742,mile,unit of length from about 1 to 11 km now 1.609 km in UK and US,AI
+6743,Metzler,family name,AI
+6744,mineral,naturally occurring usually crystalline solid with uniform chemical composition,AI
+6745,mineral water,drinking water with minerals and sometimes carbon dioxide,AI
+6746,failure,missing a set goal,AI
+6747,mishap,unfavorable outcome of an action,AI
+6748,abuse,significant physical or mental harm to someone,AI
+6749,collaboration,working together on a task project or area,AI
+6750,shared guilt,share of blame responsibility for something,AI
+6751,lunch table,table set for the midday meal,AI
+6752,center line,line marking the middle of the playing field,AI
+6753,middle way,one of several paths that is in the middle,AI
+6754,mobile provider,company offering mobile services,AI
+6755,fashion store,store that sells fashionable clothing,AI
+6756,shrinkflation package,package that misleads about quantity or content,AI
+6757,monologue,not short utterance by a single person often on stage,AI
+6758,monopoly,market form with only one supplier,AI
+6759,murder case,case investigated by police for murder,AI
+6760,music history,historical development of music,AI
+6761,band,group of musicians who play instruments and make music,AI
+6762,musculature,totality of muscles in a body or region,AI
+6763,mythology,systematic study and presentation of myths,AI
+6764,replica,creation of a representation close to the model and the result,AI
+6765,youth development,work with junior talent,AI
+6766,rodent,mammal of order Rodentia with long continuously growing incisors,AI
+6767,national anthem,official anthem of a nation also called state anthem,AI
+6768,Nazi,adherent of National Socialism or member of the NSDAP,AI
+6769,side effect,additional effect,AI
+6770,minor role,less important role in a play or film,AI
+6771,minor matter,thing that is unimportant,AI
+6772,thrill,exciting tension often with increased hormones,AI
+6773,renewed beginning,renewed start of something ended or interrupted,AI
+6774,Neuchatel,city and canton in Switzerland,AI
+6775,nine,something with the number 9,AI
+6776,modern era,historical period beginning in the 16th century and continuing today,AI
+6777,non governmental organization,independent organization active in civil society,AI
+6778,kidney,paired bean shaped excretory organ that removes waste via urine,AI
+6779,drizzle,precipitation of droplets smaller than 0.5 mm,AI
+6780,halo,halo,AI
+6781,northern Italy,northern part of Italy,AI
+6782,north side,northern side,AI
+6783,notary,impartial lawyer who certifies legal transactions and notarizes signatures,AI
+6784,emergency service,service providing help outside opening hours,AI
+6785,note,short written record,AI
+6786,emergency situation,threatening situation,AI
+6787,commander in chief,highest commander of parts of the armed forces,AI
+6788,secondary school,secondary educational institution,AI
+6789,upper grades,totality of higher classes in a school type,AI
+6790,Olympic park,park for Olympic Games,AI
+6791,omen,sign or foreboding,AI
+6792,opera ball,dance event held in an opera house,AI
+6793,opus,work of an artist or scientist,AI
+6794,local advisory council,advisory council of a place,AI
+6795,town edge,border area between town and surroundings,AI
+6796,Easter festival,festive Easter,AI
+6797,East Frisia,region in Lower Saxony,AI
+6798,panda,black and white bear species living in China and eating bamboo,AI
+6799,paradox,contradiction in itself or impossibility,AI
+6800,parallel,line that runs parallel to another,AI
+6801,perfume,concentrated liquid mixture of fragrances,AI
+6802,trade wind,trade wind also a car model,AI
+6803,patriotism,love for ones homeland and loyalty to it,AI
+6804,penalty,penalty for rule violations in sports,AI
+6805,penis,male sexual organ of animals and humans,AI
+6806,personal injury,incident with injured or killed persons,AI
+6807,parsley,umbellifer kitchen herb with aromatic oils,AI
+6808,plant protection agent,biological or chemical agent protecting crops from pests and disease,AI
+6809,care service,service for people needing care,AI
+6810,nursing staff,trained staff who care for patients,AI
+6811,female caregiver,female person who provides care,AI
+6812,PIN,short for personal identification number,AI
+6813,protoplasm,cell content filling living cells,AI
+6814,punchline,insightful unexpected climax of a story,AI
+6815,political issue,politically significant event or matter,AI
+6816,police car,police service vehicle,AI
+6817,police chief,person who acts as chief of police,AI
+6818,police protection,protection ensured by police,AI
+6819,pop music,widely popular music,AI
+6820,post bank,post office bank,AI
+6821,postcard,card with image and space for message and address,AI
+6822,postal office,room for handling postal business,AI
+6823,mug,drinking vessel,AI
+6824,price pressure,pressure on prices,AI
+6825,price level,price level of relevant goods and services measured by a basket,AI
+6826,prestige,reputation or standing of a person or institution in public,AI
+6827,private property,goods owned by a private person,AI
+6828,private person,person acting independently of authorities or companies,AI
+6829,product development,development of a product,AI
+6830,product range,totality of a manufacturers products,AI
+6831,professional,expert professional in English,AI
+6832,professionalization,development of an activity into a recognized profession,AI
+6833,provider,provider of a service or resource,AI
+6834,provisional,temporary makeshift solution,AI
+6835,buffer,shock absorber for example on rail vehicles,AI
+6836,buffer zone,area between conflicting parties to prevent direct contact,AI
+6837,lectern,table with slanted surface for writing and reading,AI
+6838,score,number of points,AI
+6839,pro cyclist,person who does professional cycling,AI
+6840,bike tour,excursion or trip by bicycle,AI
+6841,refinement,refinement,AI
+6842,missile attack,attack with missiles,AI
+6843,rapeseed,plant with bright yellow flowers of the mustard family,AI
+6844,smoker,person who regularly inhales burned tobacco,AI
+6845,smoking ban,order not to smoke,AI
+6846,reactor,enclosed space where targeted nuclear chemical or biological processes occur,AI
+6847,lectern,table or stand where a speaker places notes,AI
+6848,ropewalk,place where ship ropes were made,AI
+6849,presentation,delivery of previously gathered information,AI
+6850,refrain,repeating part of music or poems between or after verses,AI
+6851,normal case,usually prevailing case,AI
+6852,government crisis,situation where a government is unstable or facing major problems,AI
+6853,term in office,period during which a government or politician is in power,AI
+6854,roe deer,nominative plural of Reh,AI
+6855,coach bus,coach used for travel,AI
+6856,travel time,duration of a trip,AI
+6857,record holder,person who holds a record,AI
+6858,record year,year in which a record value is achieved,AI
+6859,female principal,female head of a school,AI
+6860,requiem,requiem mass of the Catholic liturgy,AI
+6861,Rhine bank,bank of the Rhine,AI
+6862,topping out ceremony,celebration when the roof structure is completed,AI
+6863,risk taking,willingness to take risks,AI
+6864,ride,travel on the back of a horse or other riding animal,AI
+6865,escalator,stairs with moving steps,AI
+6866,infrared light,red light emitting heat with therapeutic effect,AI
+6867,rest day,day off especially Sunday,AI
+6868,tour,guided trip often by bus to see sights,AI
+6869,across the board attack,attack in all directions usually verbal,AI
+6870,sowing,spreading plant seeds into the ground,AI
+6871,Sahara,desert in North Africa,AI
+6872,class action,complaint filed jointly by several people,AI
+6873,rehabilitation plan,plan listing measures for rehabilitation,AI
+6874,Sarajevo,capital of Bosnia and Herzegovina,AI
+6875,satirist,person who writes satire,AI
+6876,Saudi,inhabitant of Saudi Arabia,AI
+6877,damage sum,sum of damages,AI
+6878,sheep,cloven hooved animal supplying wool meat and milk,AI
+6879,treasurer,person responsible for the finances of an organization,AI
+6880,shovel,tool with flat curved blade and handle for moving material,AI
+6881,spotlight,lamp emitting intense light to illuminate something,AI
+6882,gift,transfer of ownership without consideration,AI
+6883,barn,farm building for storing goods,AI
+6884,stroke of fate,bad event that shapes and changes life,AI
+6885,patron,person who lends name as official supporter of an event or organization,AI
+6886,patronage,symbolic support of an event by a known person,AI
+6887,striking power,power or force of a blow,AI
+6888,catchword,widely known catchy phrase for an idea used in public debate or advertising,AI
+6889,headline,striking headline especially in press posters and advertising,AI
+6890,lock,closable gate to regulate different water levels,AI
+6891,final sprint,last strong burst,AI
+6892,treat,especially good dish or delicacy,AI
+6893,pain threshold,lowest stimulus level at which pain is felt,AI
+6894,butterfly,insect with colored scaled wings order Lepidoptera,AI
+6895,smuggling,secret transport of taxable or forbidden goods or people across borders,AI
+6896,snapshot,spontaneous photo taken without preparation,AI
+6897,schnapps,a mouthful a sip a small amount,AI
+6898,snow cover,layer of snow on the ground,AI
+6899,slice of bread,a slice of bread with topping,AI
+6900,scream,sudden loud call in response to stimuli,AI
+6901,carpenter,craftsman who makes furniture windows and doors from wood,AI
+6902,school bus,bus for transporting students to and from school,AI
+6903,mountain of debt,very high sum of debt,AI
+6904,shield,plate of wood metal or plastic used for defense,AI
+6905,sponge,animal of the phylum sponges,AI
+6906,tail,rear body appendage in animals,AI
+6907,minute of silence,short period of remembrance for the dead,AI
+6908,pig,mammal and even toed ungulate with short legs and elongated snout and bristles,AI
+6909,heavyweight,weight class for athletes in boxing and weightlifting,AI
+6910,swimming pool basin,water basin where one can swim,AI
+6911,indoor pool,building with pools for swimming and bathing,AI
+6912,screen,screen of a computer or other device,AI
+6913,sixty,natural number between fifty nine and sixty one,AI
+6914,blessing,the act of blessing or giving a blessing,AI
+6915,self irony,irony about ones own views values or actions,AI
+6916,self criticism,searching for or finding ones own weaknesses or mistakes,AI
+6917,end in itself,something that is a purpose in itself and needs no further justification,AI
+6918,senate administration,administration of the senate in Berlin,AI
+6919,broadcast slot,time slot of a program in a station schedule,AI
+6920,Siberia,region in Russia,AI
+6921,security expert,expert in security questions,AI
+6922,sierra,mountain range Spanish term,AI
+6923,Zimbabwe,state in southern Africa,AI
+6924,siren,female mythical being whose singing lures sailors to their death,AI
+6925,ski jumping,winter sport where athletes jump from a ski jump trying to go far,AI
+6926,scorpion,animal of arachnids with claws and a venom stinger,AI
+6927,suction,sucking or pulling current,AI
+6928,sole,sole of the foot,AI
+6929,soy,cultivated plant with legumes soybeans,AI
+6930,soloist,person who sings dances or plays a solo,AI
+6931,summer weather,weather typical for summer,AI
+6932,soprano singer,female singer with soprano voice,AI
+6933,social plan,plan for social measures,AI
+6934,sociology,science that studies social life in society,AI
+6935,female sociologist,female person who studies social life in society,AI
+6936,fissure,crack like opening,AI
+6937,saliva,mouth fluid secreted by salivary glands,AI
+6938,meal plan,list of meals planned for different periods,AI
+6939,specialization,specialized orientation,AI
+6940,club merger,union of departments from different clubs practicing the same sport,AI
+6941,spinach,spinacia oleracea with long stalked leaves and separate male and female flowers,AI
+6942,top position,highest leading position within an organization or institution,AI
+6943,top value,highest value,AI
+6944,sports world,all those who practice sport or are involved in it,AI
+6945,sports center,center for sports,AI
+6946,fuel,fuel gasoline,AI
+6947,community of states,association of several states,AI
+6948,state apparatus,totality of institutions and persons that execute state power,AI
+6949,state authority,ability to exercise sovereign duties and rights,AI
+6950,minister of state,minister with state rank,AI
+6951,city marketing,measures to promote a positive image of a city or municipality,AI
+6952,city wall,wall surrounding a city to protect its inhabitants,AI
+6953,city head,head of a city or municipality,AI
+6954,city cleaning,municipal company responsible for keeping a city clean,AI
+6955,ordinary share,share with voting rights,AI
+6956,regular patron,person who regularly visits a pub or hotel,AI
+6957,vacuum cleaner,electric device that cleans surfaces by suction,AI
+6958,quarry,open pit for extraction of stone,AI
+6959,mortality,property of being mortal,AI
+6960,tax burden,burden due to the need to pay taxes,AI
+6961,tax rate,rate of tax relative to a base such as income or revenue,AI
+6962,tax cut,reduction of a tax,AI
+6963,sample,randomly obtained part of a total set meant to be representative,AI
+6964,stepfather,mothers new husband who is not biologically related to the child,AI
+6965,handle,handle on tools and devices,AI
+6966,voting right,right to cast a vote in an election,AI
+6967,mood situation,type of mood someone is in,AI
+6968,scholarship,financial aid for pupils and students or young researchers and artists,AI
+6969,degree program,sequence of topics courses and exams in a field of study,AI
+6970,bottom of the table,last place in the table,AI
+6971,taboo breach,violation of a taboo,AI
+6972,collective bargaining round,negotiations on wages and other parts of a collective agreement usually yearly,AI
+6973,flashlight,portable light source usually battery or dynamo powered,AI
+6974,tug of war,sport where two teams pull on opposite ends of a rope,AI
+6975,technology corporation,large company developing and selling advanced technology products,AI
+6976,telecommunications,exchange of information over distance using computer fax TV radio or phone,AI
+6977,rim of plate,edge of a plate,AI
+6978,temperament,inner experience and behavior patterns of a person,AI
+6979,female tennis player,female athlete who plays tennis,AI
+6980,terrier,small to medium sized dog,AI
+6981,test run,trial or test run,AI
+6982,inflation rate,rate at which something becomes more expensive,AI
+6983,vicious circle,reasoning that uses its result as a premise,AI
+6984,low level,low level,AI
+6985,animal husbandry,care and keeping of animals in human custody,AI
+6986,animal protection law,law regulating protection of animals,AI
+6987,subsidiary,legally independent but economically dependent company run by parent,AI
+6988,tone of voice,way something is pronounced to express feelings,AI
+6989,top favorite,person with best chances of winning a competition,AI
+6990,goal chance,chance to score a goal,AI
+6991,tornado,small scale vortex storm that can form in a supercell,AI
+6992,traditional company,company founded long ago,AI
+6993,hit rate,hit rate,AI
+6994,drinking water supply,provision and delivery of drinking water,AI
+6995,trumpet,high pitched brass instrument with cup mouthpiece,AI
+6996,tuberculosis,chronic bacterial infectious disease that can affect many organs mainly the lungs,AI
+6997,turning back,movement in the direction one came from,AI
+6998,value added tax,legal tax rate on company turnover passed on to customers,AI
+6999,envelope,paper cover for a letter,AI
+7000,accident hospital,hospital specialized in treating accident consequences,AI
