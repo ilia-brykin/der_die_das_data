@@ -11,8 +11,8 @@
 
   Как запускать:
 
-  node scripts/split_translation_csv_chunks.mjs  --input language-packs/ru/v1/word_ru.csv --out-dir language-packs/ru/v1/chunks/ --chunk-size 100 --prefix word_ru
-  node scripts/split_translation_csv_chunks.mjs  --input language-packs/en/v1/word_en.csv --out-dir language-packs/en/v1/chunks/ --chunk-size 100 --prefix word_en
+  node scripts/split_translation_csv_chunks.mjs  --input language-packs/ru/word_ru.csv --out-dir language-packs/ru/chunks/ --chunk-size 100 --prefix word_ru
+  node scripts/split_translation_csv_chunks.mjs  --input language-packs/en/word_en.csv --out-dir language-packs/en/chunks/ --chunk-size 100 --prefix word_en
 
   Параметры:
 
@@ -25,3 +25,13 @@
 
     - word_ru-001.csv
     - word_ru-002.csv
+
+node scripts/generate_language_packs_manifest.mjs --root language-packs
+
+Опционально:
+
+node scripts/generate_language_packs_manifest.mjs \
+--root language-packs \
+--manifest manifest.json \
+--format-version 1 \
+--path-prefix language-packs
